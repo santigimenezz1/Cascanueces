@@ -1,0 +1,46 @@
+.fondoFijo {
+  width: 100vw;
+  height: 720px;
+  background-image: url("https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691528504/CASCANUCES%20SALUDABLE/pexels-rama-khandkar-2113556_hczksd.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  filter: brightness(0.9);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.fondoFijo::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+.fondoFijo__containerText {
+  width: 40%;
+  height: 80%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 50px;
+  padding: 40px;
+  position: relative;
+  z-index: 1;
+}
+.fondoFijo__containerText__direcciones {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.fondoFijo__containerText__boton {
+  width: 150px;
+  height: 40px;
+  border: none;
+  background-color: rgba(51, 16, 47, 0.846);
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+}

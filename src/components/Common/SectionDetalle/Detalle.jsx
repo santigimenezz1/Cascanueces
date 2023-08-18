@@ -1,10 +1,60 @@
+import { useContext, useEffect, useState } from 'react'
+import { db } from '../../../FirebaseConfig'
 import '../SectionDetalle/detalle.css'
 import FormasPago from '../SectionHome/FormasPago/FormasPago'
-import TarjetaFormaPago from '../SectionHome/FormasPago/TarjetaFormaPago/TarjetaFormaPago'
-import TarjetaProducto from '../SectionHome/TarjetaProducto/TarjetaProducto'
 import TarjetaHover from '../SectionHome/TarjetasHover/TarjetaHover'
 import ContadorUnidades from './ContadorUnidades/ContadorUnidades'
+import {getDoc,collection,doc, query, where, getDocs} from "firebase/firestore";
+import { Link, useParams } from 'react-router-dom'
+import { Skeleton } from '@mui/material'
+import { CartContext } from '../../../Context/CartContext'
+import Swal from 'sweetalert2'
+import { ToastContainer, toast } from 'react-toastify'
+
 const Detalle = () => {
+  const {id} = useParams()
+  const [data, setData] = useState({});
+  const [filtrado, setFiltrado] = useState([])
+  const {addToCart} = useContext(CartContext)
+
+  const filtradoCategoriaId = (categoria)=>{
+    let productsColeccion = collection(db, "products")
+    let consulta = query(productsColeccion, where("categoria", "==", categoria )) 
+    getDocs(consulta).then((res)=>{
+      let producto = res.docs.map((doc)=>{
+       return  {...doc.data(), id: doc.id}
+      })
+      setFiltrado(producto)
+    })
+  }
+ 
+  useEffect(()=>{  //PETICION SEGUN EL ID
+ let productsColeccion = collection(db, "products");
+ console.log(productsColeccion)
+    let productRef = doc(productsColeccion, id);
+    getDoc(productRef).then((res) => {
+      let producto = { ...res.data(), id: res.id };
+      console.log(producto)
+      setData(producto);
+      filtradoCategoriaId(producto.categoria)
+    })
+ },[id])
+
+
+ const onAdd = (cantidad=1)=>{
+   let productCart = {...data, cantidad: cantidad}
+   addToCart(productCart)
+   Swal.fire({
+    position: "center",
+    icon: "success",
+    title: "Producto agregado",
+    showConfirmButton: true,
+    timer: 1500,
+  });
+
+ }
+
+
 
   return (
     <>
@@ -12,38 +62,96 @@ const Detalle = () => {
     <div className='detalle'>
     <div className='detalle__containerTarjetaDetalle'>
     <div className='detalle__imagen'>
-    <img src='https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691548972/CASCANUCES%20SALUDABLE/prod1_f2xung.png'></img>
+    {
+      Object.keys(data).length > 0 
+      ?
+      <img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691549823/CASCANUCES%20SALUDABLE/prod4_ukcwyo.png"></img>
+      :
+      <div className='detalle__imagen__esqueleton'>
+      <Skeleton variant="rectangular" width={400} height={450} />
+      </div>
+
+
+    }
     </div>
-    <div className='detalle__info'>
-    <h1 className='detalle__info__titulo'>Yerba mate Metodo Barbacua 500 grs ORIGEN</h1>
-    <h1 className='detalle__info__precio'>$2.800</h1>
-    <div className='detalle__info__caracteristicas'>
-    <h2 className='detalle__info__caracteristicas'>Yerba mate Metodo Barbacua 500 grs ORIGEN</h2>
-    <h2 className='detalle__info__caracteristicas'>Calidad Premium, seleccion especial.</h2>
+    {
+      Object.keys(data).length > 0 ?(
+        <>
+        
+        <div className='detalle__info'>
+        <h1 className='detalle__info__titulo'>{data.nombre}</h1>
+        <h1 className='detalle__info__precio'>{data.precio}</h1>
+        <div className='detalle__info__caracteristicas'>
+        <h2 className='detalle__info__caracteristicas'>{data.caracteristica1}</h2>
+        <h2 className='detalle__info__caracteristicas'>{data.caracteristica2}</h2>
+        </div>
+        
+        <div className='detalle__info__contadorUnidades'>
+        
+        
+        {
+          data.stock > 0 
+          ?
+          <>
+          <h2 className='detalle__info__stock'> cantidad disponible: {data.stock}</h2>
+            <ContadorUnidades initial={1} stock={data.stock} onAdd={onAdd}/>
+          </>
+           :
+           <h1 className='detalle__sinStock__titulo'>Sin stock</h1>
+          }
+        
+      
+        </div>
+        </div>
+        </>
+      ):
+      <div className={"detalle__info__esqueleton"}>
+      <div className={"detalle__info__esqueleton__caja1"}>
+      <Skeleton variant="text" width={200} height={25} />
+      <Skeleton variant="text" width={70} height={45} />
+      <Skeleton variant="text" width={200} height={25} />
+      <Skeleton variant="text" width={200} height={25} />
+      </div>
+      <div style={{display:"flex", justifyContent:"center", alingItems:"center", flexDirection:"column"}}>
+      <Skeleton variant="text" width={200} height={25} />
+      <Skeleton variant="text" width={120} height={25} />
+      <Skeleton variant="text" width={150} height={80} />
+      </div>
+      </div>
+     
+
+  }
     </div>
-    <div className='detalle__info__contadorUnidades'>
-    <h2 className='detalle__info__stock'>disponibilidad: 6 disponibles</h2>
-    <ContadorUnidades initial={1} stock={6}/>
-    </div>
-    </div>
-    </div>
-    
-   
     </div>
     <div className='detalle__tarjetaProductos'>
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691798477/CASCANUCES%20SALUDABLE/MUS_005_NEU_01_AK_20_282_29_mlwxfj.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691798501/CASCANUCES%20SALUDABLE/MUS_005_NEU_05_AK_20_282_29_o5bvoy.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804037/CASCANUCES%20SALUDABLE/Koro-Erdbeerscheiben-01esmbq3dvTrQVc_v6ap0c.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804046/CASCANUCES%20SALUDABLE/Koro-Erdbeerscheiben-056mNMcA62hyAg2_ybecuc.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804066/CASCANUCES%20SALUDABLE/MANG_003_NEU_01_aknuec.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804080/CASCANUCES%20SALUDABLE/MANG_003_NEU_03_hydzcx.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804092/CASCANUCES%20SALUDABLE/BIO_Kokosmilch_01_icjeh7.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804100/CASCANUCES%20SALUDABLE/BIO_Kokosmilch_07_b4dkgn.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804121/CASCANUCES%20SALUDABLE/KORO-HASELNUSSMUS-10_z7acjs.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804110/CASCANUCES%20SALUDABLE/KORO-HASELNUSSMUS-04_wiud38.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804200/CASCANUCES%20SALUDABLE/MAND_006-01_20_281_29_gddoxf.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804208/CASCANUCES%20SALUDABLE/MAND_006-03_20_282_29_i6wpse.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804225/CASCANUCES%20SALUDABLE/CRIS_005_01kntwv5bzajYt9_rfu7ey.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804230/CASCANUCES%20SALUDABLE/CRIS_005_04qCPfUp9s62Etr_b3jxiz.jpg"} />   
-    <TarjetaHover imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804485/CASCANUCES%20SALUDABLE/CREME_001_01_AK_e76hgy.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804489/CASCANUCES%20SALUDABLE/CREME_001_04_AK_zca6wm.jpg"} />   
+    {
+      Object.keys(filtrado).length > 0 ?(
+         filtrado.map((producto)=>(
+          <TarjetaHover key={producto.id}  producto={producto} onAdd={onAdd} />
+         ))
+      )
+      
+      :
+      (
+        
+        <>
+        <Skeleton variant="rectangular" width={280} height={400} />
+        <Skeleton variant="rectangular" width={280} height={400} />
+        <Skeleton variant="rectangular" width={280} height={400} />
+        <Skeleton variant="rectangular" width={280} height={400} />
+        </>
+        
+      )
+    }
+   
     </div>
     <div style={{display:"flex", justifyContent:"center"}}>
     <FormasPago />
     </div>
+
+   
     </>
+    
   )
 }
 

@@ -3,7 +3,7 @@ import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
 import { useState } from "react";
 
-const ContadorUnidades = ({initial, stock}) => {
+const ContadorUnidades = ({initial=1, stock, onAdd, agregarUnidad, quitarUnidad}) => {
   const [pantalla, setPantalla] = useState(initial);
 
   const incrementarValor = () => {
@@ -11,9 +11,12 @@ const ContadorUnidades = ({initial, stock}) => {
       ? setPantalla(pantalla(stock))
       : setPantalla(pantalla + 1);
     setPantalla(stock > 0 ? pantalla + 1 : 0);
+    agregarUnidad(pantalla)
   };
   const decrementarValor = () => {
     pantalla > 1 && setPantalla(pantalla - 1);
+    quitarUnidad(pantalla)
+
   };
  
   return (
@@ -32,8 +35,8 @@ const ContadorUnidades = ({initial, stock}) => {
       ) : (
         <h4 className="maximoAlcanzado">Maximo alcanzado</h4>
       )}
-      {location.pathname !== "/Cart" && (
-        <div>
+      {location.pathname !== "/cart" && (
+        <div onClick={()=>onAdd(pantalla)}>
         <button className="contadorUnidades__button">Agregar al carrito</button>
         </div>
       )}

@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import BotonInicioSesion from '../BotonInicioSesion/BotonInicioSesion'
 import Buscador from '../Buscador/Buscador'
 import Carrito from '../Carrito/Carrito'
+
 import '../Enlaces/enlaces.css'
 
 const Enlaces = () => {

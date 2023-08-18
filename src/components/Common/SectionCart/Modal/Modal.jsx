@@ -6,6 +6,7 @@ import Modal from '@mui/material/Modal';
 import Fade from '@mui/material/Fade';
 import Typography from '@mui/material/Typography';
 import BotonFondoFijo from '../../SectionHome/FondoFijo/BotonFondoFijo/BotonFondoFijo';
+import { CartContext } from '../../../../Context/CartContext';
 
 const style = {
   position: 'absolute',
@@ -20,7 +21,9 @@ const style = {
   borderRadiuis:"10px"
 };
 
-export default function ModalCart() {
+export default function ModalCart( {titulo, subtitulo, nombreBoton} ) {
+  const {clearCart} = React.useContext(CartContext)
+
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -28,7 +31,7 @@ export default function ModalCart() {
   return (
     <div>
       <div onClick={handleOpen}>
-      <BotonFondoFijo  text={"Borrar carrito"} />
+      <BotonFondoFijo  text={nombreBoton} />
       </div>
 
       <Modal
@@ -47,14 +50,18 @@ export default function ModalCart() {
         <Fade in={open}>
           <div className='container-modal'  >
             <Typography style={{textAlign:"center"}} id="transition-modal-title" variant="h6" component="h2">
-              Borrar carrito
+              {titulo}
             </Typography>
             <Typography style={{fontSize:"15px"}} id="transition-modal-description" sx={{ mt: 2 }}>
-              ¿Seguro que quieres eliminar los productos del carrito?
+              {subtitulo}
             </Typography>
             <div className='modal__botones'>
+            <div onClick={()=>clearCart()}>
             <BotonFondoFijo text={"Aceptar"} />
+            </div>
+            <div onClick={()=>handleClose()}>
             <BotonFondoFijo text={"Cancelar"} />
+            </div>
             </div>
 
           </div>

@@ -61,3 +61,9 @@
     margin: 100px;
     
 }
+.tarjetaHome__esqueleton{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px
+    ;
+}

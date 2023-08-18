@@ -34,6 +34,7 @@ MyFormControlLabel.propTypes = {
 };
 
 export default function SelectorPago({ total }) {
+ let totalConvertido =  total.toLocaleString("es-ES")
   return (
     <RadioGroup name="use-radio-group" defaultValue="first">
       <div className="container-selector">
@@ -55,7 +56,7 @@ export default function SelectorPago({ total }) {
         </div>
         <div className="container-precioFinal">
           <h2 className="total">Total:</h2>
-          <h2 className="precioFinal">${total}</h2>
+          <h2 className="precioFinal">${totalConvertido}</h2>
         </div>
       </div>
     </RadioGroup>

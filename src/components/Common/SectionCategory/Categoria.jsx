@@ -1,40 +1,95 @@
+import { useEffect, useState } from 'react'
 import '../SectionCategory/categoria.css'
 import EnlacesCategoria from './EnlacesCategoria/EnlacesCategoria'
-import Filtros from './Filtros/Filtros'
 import TarjetaHoverCategoria from './TarjetaCategory/TarjetaCategory'
-import TarjetaProductoCategoria from './TarjetaProductoCategoria/TarjetaProductoCategoria'
+import { db } from '../../../FirebaseConfig'
+import { collection, getDocs, query, where } from 'firebase/firestore'
+import { useParams } from 'react-router-dom'
+import { Skeleton } from '@mui/material'
+import Filtros from './Filtros/Filtros'
+
 
 const Categoria = () => {
+
+  const [data, setData] = useState([]);
+  const {categoria} = useParams()
+
+  const filtro = [...data]
+
+  useEffect(()=>{
+   let productsColecction = collection(db, "products")
+   let consulta;
+   if(categoria){
+    consulta = query(productsColecction, where("categoria", "==", categoria));
+   }
+   else{
+    consulta = productsColecction
+   }
+ getDocs(consulta).then((res)=>{
+  let productos = res.docs.map((doc)=>{
+    return {...doc.data(), id: doc.id}
+  })
+  setData(productos)
+ })
+ 
+ },[categoria])
+
+const newData = [...data]
+const mayorMenor = (data)=>{
+  setData(data.sort((a, b) => a.precio - b.precio));
+}
+const menorMayor = (data)=>{
+  setData(data.sort((a, b) => b.precio - a.precio));
+}
+
+const filtrarEstado = (valor)=>{
+  const filtrado = data.filter((producto)=>valor === data.nombre)
+  setData(filtrado)
+}
   return (
     <div className='categoria'>
     <div className='categoria__enalcesCategoria'>
-    <EnlacesCategoria/>
+    <EnlacesCategoria filtro={filtro} filtrarEstado={filtrarEstado} data={data} setData={setData}/>
     </div>
     <div className='categoria__tarjetaProductos'>
      <h1>Chicken Fit Protein</h1>
      <div className='categoria__tarjetaProductos__filtros'>
-     <h2>Mostrar resultados: 16</h2>
-     <Filtros />
+     <h2>Mostrar resultados: {data.length}</h2>
+     <Filtros mayorMenor={mayorMenor}  menorMayor={menorMayor} newData={newData} />
+
      </div>
+  
      <div className='categoria__tarjetaProductos__tarjetas'>
-    
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691798477/CASCANUCES%20SALUDABLE/MUS_005_NEU_01_AK_20_282_29_mlwxfj.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691798501/CASCANUCES%20SALUDABLE/MUS_005_NEU_05_AK_20_282_29_o5bvoy.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804037/CASCANUCES%20SALUDABLE/Koro-Erdbeerscheiben-01esmbq3dvTrQVc_v6ap0c.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804046/CASCANUCES%20SALUDABLE/Koro-Erdbeerscheiben-056mNMcA62hyAg2_ybecuc.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804066/CASCANUCES%20SALUDABLE/MANG_003_NEU_01_aknuec.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804080/CASCANUCES%20SALUDABLE/MANG_003_NEU_03_hydzcx.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804092/CASCANUCES%20SALUDABLE/BIO_Kokosmilch_01_icjeh7.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804100/CASCANUCES%20SALUDABLE/BIO_Kokosmilch_07_b4dkgn.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804121/CASCANUCES%20SALUDABLE/KORO-HASELNUSSMUS-10_z7acjs.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804110/CASCANUCES%20SALUDABLE/KORO-HASELNUSSMUS-04_wiud38.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804200/CASCANUCES%20SALUDABLE/MAND_006-01_20_281_29_gddoxf.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804208/CASCANUCES%20SALUDABLE/MAND_006-03_20_282_29_i6wpse.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804225/CASCANUCES%20SALUDABLE/CRIS_005_01kntwv5bzajYt9_rfu7ey.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804230/CASCANUCES%20SALUDABLE/CRIS_005_04qCPfUp9s62Etr_b3jxiz.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804485/CASCANUCES%20SALUDABLE/CREME_001_01_AK_e76hgy.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804489/CASCANUCES%20SALUDABLE/CREME_001_04_AK_zca6wm.jpg"} />  
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807882/CASCANUCES%20SALUDABLE/BIO_Edamame_01-1_ls7xci.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807903/CASCANUCES%20SALUDABLE/BIO_Edamame_03-1_lul04r.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807913/CASCANUCES%20SALUDABLE/CHI_001_01CxMxuSK4NNV70_xhyuep.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807921/CASCANUCES%20SALUDABLE/CHI_001_03kNM7eeFE6mffk_ygdcj8.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807928/CASCANUCES%20SALUDABLE/RIEGEL_11_01_plmabt.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807943/CASCANUCES%20SALUDABLE/RIEGEL_11_04_cbkfxq.jpg"} />   
-     <TarjetaHoverCategoria imagenPrincipal={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807975/CASCANUCES%20SALUDABLE/BLISS_021_02bQbhZ0cb6dCTE_s057lo.jpg"} imagenSecundaria={"https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807991/CASCANUCES%20SALUDABLE/BLISS_021_04_la6aic.jpg"} />    
+       {
+        data.length > 0 
+        ?(
+          data.map((producto)=>(
+            <TarjetaHoverCategoria key={producto.id} producto={producto} />
+
+          ))
+        )
+        :(
+          <>
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          <Skeleton variant="rectangular" width={220} height={350} />
+          </>
+
+
+         
+        )
+       }
      </div>
     </div>
-   
-  
-    
     </div>
   )
 }

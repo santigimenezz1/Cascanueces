@@ -3,6 +3,7 @@
     height: 145px;
     position: relative;
     overflow: hidden; /* Para recortar cualquier desbordamiento de la imagen */
+
   }
   
   .tarjetaMiniCategoria__imagenContainer {
@@ -24,7 +25,8 @@
     height: 100%;
     object-fit: cover; /* Asegura que la imagen se ajuste y recorte correctamente */
     transition: opacity 0.3s ease; /* Agregamos una transición suave a la opacidad */
-    opacity: 0.9;
+    filter: brightness(0.6);   
+
   }
   
   .tarjetaMiniCategoria:hover .tarjetaMiniCategoria__imagen {

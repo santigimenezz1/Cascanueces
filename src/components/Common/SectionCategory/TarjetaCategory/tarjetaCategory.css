@@ -12,13 +12,19 @@
     width: 100%;
     height: 100%;
     border-radius: 10px;
-    
+    filter: brightness(0.8);   
 }
+.sinStock{
+    filter: brightness(0.4);   
+}
+
+
 .tarjetaHover__corazon{
     position: absolute;
     top: 2%;
     right: 4%;
     color: white;
+    z-index: 4;
 }
 .true{
     color: red;
@@ -45,4 +51,17 @@
 }
 .tarjetaHover__icono:hover{
     transform: scale(1.2);
+}
+.tarjeta__hover__sinStock {
+    position: absolute;
+    top: 45%;  
+    left: 10%;
+    
+}
+.tarjeta__hover__sinStock h1{
+    font-size: 15px;
+}
+.tarjetaHoverCategoria h1{
+    color: white;
+    font-size: 35px;
 }

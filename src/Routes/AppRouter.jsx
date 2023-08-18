@@ -1,11 +1,17 @@
-import React from 'react'
-import { Route, Routes } from 'react-router-dom'
+import React, { useEffect } from 'react'
+import { Route, Routes, useLocation } from 'react-router-dom'
 import Layout from '../components/Layout/Layout/Layout'
 import Carrusel from '../components/Common/SectionHome/Carrusel/Carrusel'
 import { routes } from './Route'
 
 const AppRouter = () => {
-  return (
+  const location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
+  
+  return ( 
     <Routes>
       <Route element={<Layout />}>
        {

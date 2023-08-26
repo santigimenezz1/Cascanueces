@@ -3,7 +3,9 @@ import { createContext, useState } from "react";
 export const CartContext = createContext();
 const CartContextComponent = ({ children }) => {
   const [cart, setCart] = useState([]);
-  const [ocultarBoton, setOcultarBoton] = useState(true);
+  const [favorito, setFavorito] = useState([]); //ESTADO DE SECTION FAVORITOS
+  const [usuarioOn, setUsuarioOn] = useState(false); //ESTADO SECTION CUENTA INICIADA O NO INICIADA
+  const [user, setUser] = useState({});
 
   const addToCart = (item) => {
     const existe = existCart(item.id);
@@ -21,11 +23,15 @@ const CartContextComponent = ({ children }) => {
       setCart([...cart, item]);
     }
   };
-  const clearCart = ()=>{
-    setCart([])
-  }
+  const clearCart = () => {
+    setCart([]);
+  };
   const existCart = (id) => {
     const exist = cart.some((producto) => producto.id === id);
+    return exist;
+  };
+  const existFavorito = (id) => {
+    const exist = favorito.some((producto) => producto.id === id);
     return exist;
   };
   const deleteCart = (id) => {
@@ -44,6 +50,26 @@ const CartContextComponent = ({ children }) => {
     }, 0);
     return total;
   };
+  const addFavorito = (objeto) => {
+    const existe = existFavorito(objeto.id);
+    if (existe) {
+      let nuevoArray = favorito.map((producto) => {
+        //tener en cuenta que el map devuelve un nuevo array y en cada vuelta se an agregando los elementos ==> [ {1} {2} {3} ]
+        if (producto.id === objeto.id) {
+          return { ...objeto, cantidad: objeto.cantidad };
+        } else {
+          return producto;
+        }
+      });
+      setFavorito(nuevoArray);
+    } else {
+      setFavorito([...favorito, objeto]);
+    }
+  };
+  const eliminarFavorito = (id) => {
+    let nuevo = favorito.filter((producto) => producto.id !== id);
+    setFavorito(nuevo);
+  };
 
   let data = {
     cart,
@@ -51,11 +77,18 @@ const CartContextComponent = ({ children }) => {
     deleteCart,
     addToCart,
     calcularFinal,
-    calcularTotalProductos
-    
-    
+    calcularTotalProductos,
+    favorito,
+    addFavorito,
+    setFavorito,
+    eliminarFavorito,
+    existFavorito,
+    usuarioOn,
+    setUsuarioOn,
+    user,
+    setUser,
   };
-  
+
   return (
     <>
       <CartContext.Provider value={data}>{children}</CartContext.Provider>

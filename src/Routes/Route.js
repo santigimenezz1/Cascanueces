@@ -13,56 +13,54 @@ import Carrito from "../components/Layout/NavBar/Carrito/Carrito";
 import Logo from "../components/Layout/NavBar/Logo/Logo";
 
 export let routes = [
-    {
-        id:"Home",
-        path:"/",
-        Element: Home
-    },
-    {
-        id:"categoria",
-        path:"/categoria/:categoria",
-        Element: Categoria
-    },
-    {
-        id:"dashboard",
-        path:"/dashboard",
-        Element: DashBoard
-    },
-    {
-        id:"categoria",
-        path:"/categoria/",
-        Element: Categoria
-    },
-    {
-        id:"favorito",
-        path:"/favorito",
-        Element: SectionFavorito
-    },    {
-        id:"cart",
-        path:"/cart",
-        Element: Cart
-    },
-    {
-        id:"detalle",
-        path:"/detalle/:id",
-        Element: Detalle
-    },
-    {
-        id:"nosotros",
-        path:"/nosotros",
-        Element: Nosotros
-    },
-    {
-        id:"ayuda",
-        path:"/ayuda",
-        Element: Ayuda
-    },
-    {
-        id:"micuenta",
-        path:"/miCuenta",
-        Element: MiCuenta
-    },
-    
-
-
-]
+  {
+    id: "Home",
+    path: "/",
+    Element: Home,
+  },
+  {
+    id: "categoria",
+    path: "/categoria/:categoria",
+    Element: Categoria,
+  },
+  {
+    id: "dashboard",
+    path: "/dashboard",
+    Element: DashBoard,
+  },
+  {
+    id: "categoria",
+    path: "/categoria/",
+    Element: Categoria,
+  },
+  {
+    id: "favorito",
+    path: "/favorito",
+    Element: SectionFavorito,
+  },
+  {
+    id: "cart",
+    path: "/cart",
+    Element: Cart,
+  },
+  {
+    id: "detalle",
+    path: "/detalle/:id",
+    Element: Detalle,
+  },
+  {
+    id: "nosotros",
+    path: "/nosotros",
+    Element: Nosotros,
+  },
+  {
+    id: "ayuda",
+    path: "/ayuda",
+    Element: Ayuda,
+  },
+  {
+    id: "micuenta",
+    path: "/miCuenta",
+    Element: MiCuenta,
+  },
+];

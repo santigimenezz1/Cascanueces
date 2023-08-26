@@ -5,20 +5,20 @@ import { useContext } from "react";
 import { CartContext } from "../../../../Context/CartContext";
 
 const Carrito = () => {
-  const {cart,calcularTotalProductos} = useContext(CartContext)
+  const { cart, calcularTotalProductos } = useContext(CartContext);
 
   return (
     <>
       <div>
-      <Link to={"/cart"}>
-      <Badge
-        badgeContent={calcularTotalProductos()}
-        color="error"
-        style={{ color: "black", cursor: "pointer" }}
-      >
-        <ShoppingCartIcon fontSize="large" />
-      </Badge>
-      </Link>
+        <Link to={"/cart"}>
+          <Badge
+            badgeContent={calcularTotalProductos()}
+            color="error"
+            style={{ color: "black", cursor: "pointer" }}
+          >
+            <ShoppingCartIcon fontSize="large" />
+          </Badge>
+        </Link>
       </div>
     </>
   );

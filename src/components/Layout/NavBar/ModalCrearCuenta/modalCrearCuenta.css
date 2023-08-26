@@ -1,51 +1,63 @@
-.iputs-form{
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    margin-top: 10px;
- 
+.iputs-form {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin-top: 10px;
 }
-.input-name{
-    width: 300px;
+.input-name {
+  width: 300px;
 }
-.input-codigoArea{
-   width: 200px;
+.input-codigoArea {
+  width: 30%;
 }
-.input-telefono{
-    width: 400px;
+.input-telefono {
+  width: 70%;
 }
-.input-password{
-    display: flex;
-    gap: 10px;
+.input-password {
+  display: flex;
+  gap: 10px;
 }
-.container-link{
-    display: flex;
-    justify-content: center;
-    margin-top: 15px;
-    flex-direction: column;
-    justify-content: center;
+.container-link {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  flex-direction: column;
+  justify-content: center;
 }
-.container-link h1{
-    text-align: center;
-    margin: 5px;
+.container-link h1 {
+  text-align: center;
+  margin: 5px;
 }
-.container-inputs{
-    border: 1px solid red;
-    margin-top: 30px;
+.container-inputs {
+  border: 1px solid red;
+  margin-top: 30px;
 }
-.buton-crearCuenta{
-    height: 40px;
-    background-color: purple;
-    border-radius: 4px;
-    border: none;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-    padding: 10px;
-    margin-top: 20px;
-    
+.buton-crearCuenta {
+  height: 40px;
+  background-color: purple;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 20px;
 }
-.container-box{
-    display: flex;
-    gap: 1px;
+.container-box {
+  display: flex;
+  gap: 1px;
+}
+.loading_crearCuenta {
+  margin-top: 20px;
+}
+.displayOff {
+  display: none;
+}
+.input-email {
+  width: 100%;
+}
+.container__telefono__input {
+  display: flex;
+  gap: 30px;
+  width: 100%;
 }

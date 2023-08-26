@@ -46,7 +46,7 @@ export default function ModalFinalizarCompra() {
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
   const [loading, setLoading] = useState(false);
-  const { cart, calcularFinal, clearCart } = useContext(CartContext);
+  const { cart, calcularFinal, clearCart, user } = useContext(CartContext);
   const [idCompra, setIdCompra] = useState("");
 
   //ENVIO DE FORMULARIO POR EMAIL JS
@@ -92,7 +92,7 @@ export default function ModalFinalizarCompra() {
       }, 5000);
 
       // CREAR LA ORDEN EN FIREBASE
-      const ordersCollection = collection(db, "orders");
+      const ordersCollection = collection(db, `${user.email}`);
       addDoc(ordersCollection, order).then((res) => setIdCompra(res.id));
 
       //MODIFICAR STOCK RECORRO EL CARRITO Y RESTO LA CANTIDAD QUE AGREGO MENOS EL STOCK Y CON UPDATE ACTUALIZO

@@ -1,9 +1,6 @@
-
 import { addDoc, collection } from "firebase/firestore";
 import { db } from "../FirebaseConfig";
 import { products } from "../ProductSmock.JS";
-
-
 
 const DashBoard = () => {
   const rellenar = () => {

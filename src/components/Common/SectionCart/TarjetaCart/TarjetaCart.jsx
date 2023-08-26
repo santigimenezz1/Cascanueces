@@ -5,16 +5,16 @@ import { Link } from "react-router-dom";
 import { useContext, useState } from "react";
 import { CartContext } from "../../../../Context/CartContext";
 
-const TarjetaCart = ({producto}) => {
-  const {cart, deleteCart,addToCart} = useContext(CartContext)
-  let totalTarjeta = producto.cantidad * producto.precio
+const TarjetaCart = ({ producto }) => {
+  const { cart, deleteCart, addToCart } = useContext(CartContext);
+  let totalTarjeta = producto.cantidad * producto.precio;
 
   const mostrarPrecioConFormato = (precio, cantidad) => {
     //cambiar formato del precio
     let total = precio * cantidad;
     return total.toLocaleString("es-ES");
   };
-  
+
   const onAdd = (valor) => {
     let productCart = { ...producto, cantidad: valor };
     addToCart(productCart);
@@ -33,10 +33,13 @@ const TarjetaCart = ({producto}) => {
       <div className="container-tituloImage">
         <span className="span"></span>
         <Link to={`/detalle/${producto.id}`}>
-          <img className="terminarCompra-image" src={producto.imagenPrincipal}></img>
+          <img
+            className="terminarCompra-image"
+            src={producto.imagenPrincipal}
+          ></img>
         </Link>
         <h1 className="terminarCompra-title">{producto.nombre}</h1>
-        <div className="cart-mobile" >
+        <div className="cart-mobile">
           <DeleteForeverIcon fontSize="small" className="icon-trash" />
         </div>
       </div>
@@ -47,12 +50,11 @@ const TarjetaCart = ({producto}) => {
           initial={producto.cantidad}
           agregarUnidad={agregarUnidad}
           quitarUnidad={quitarUnidad}
-
         />
         <h2 className="precio-tarjetaCart">
-        ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
+          ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
         </h2>
-        <div onClick={()=>deleteCart(producto.id)} className="icon-delete">
+        <div onClick={() => deleteCart(producto.id)} className="icon-delete">
           <DeleteForeverIcon className="icon-trash" />
         </div>
       </div>

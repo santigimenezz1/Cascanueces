@@ -7,7 +7,7 @@ const Carrusel = () => {
   const images = [
     "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691460247/CASCANUCES%20SALUDABLE/CARRUSEL/4430e09bc1ff6dd9c67058cf7a2638571b157e5f8c65c872992b6535897c84e511222_owf80v.png",
     "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691417709/CASCANUCES%20SALUDABLE/CARRUSEL/adbe5968755ebe8595386e16fad0bfba4cc2d6760f3cfefa03324eb20db6edb111222_qgibvs.jpg",
-    "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691530109/CASCANUCES%20SALUDABLE/CARR1_iqijs4.png                                                                                                                                                                       "
+    "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691530109/CASCANUCES%20SALUDABLE/CARR1_iqijs4.png                                                                                                                                                                       ",
   ];
   const [index, setIndex] = useState(0);
   const [image, setImage] = useState(images[0]);

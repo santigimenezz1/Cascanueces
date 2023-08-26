@@ -1,26 +1,32 @@
-import * as React from 'react';
-import '../CerrarSesion/cerrarSesion.css'
-import Backdrop from '@mui/material/Backdrop';
-import Modal from '@mui/material/Modal';
-import Fade from '@mui/material/Fade';
-import Typography from '@mui/material/Typography';
-import BotonFondoFijo from '../../../Common/SectionHome/FondoFijo/BotonFondoFijo/BotonFondoFijo';
+import * as React from "react";
+import "../CerrarSesion/cerrarSesion.css";
+import Backdrop from "@mui/material/Backdrop";
+import Modal from "@mui/material/Modal";
+import Fade from "@mui/material/Fade";
+import Typography from "@mui/material/Typography";
+import BotonFondoFijo from "../../../Common/SectionHome/FondoFijo/BotonFondoFijo/BotonFondoFijo";
 
 const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
+  position: "absolute",
+  top: "50%",
+  left: "50%",
+  transform: "translate(-50%, -50%)",
   width: 400,
-  bgcolor: 'background.paper',
-  border: 'none',
+  bgcolor: "background.paper",
+  border: "none",
   boxShadow: 24,
   p: 4,
-  borderRadiuis:"10px"
+  borderRadiuis: "10px",
 };
 
-export default function CerrarSesion( {titulo, subtitulo, nombreBoton} ) {
-
+export default function CerrarSesion({
+  titulo,
+  subtitulo,
+  nombreBoton,
+  cerrarSesionUser,
+  usuarioOn,
+  setUsuarioOn,
+}) {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -28,7 +34,7 @@ export default function CerrarSesion( {titulo, subtitulo, nombreBoton} ) {
   return (
     <div>
       <div onClick={handleOpen}>
-      <h1>Cerrar sesion</h1>
+        <h1>Cerrar sesion</h1>
       </div>
 
       <Modal
@@ -45,22 +51,30 @@ export default function CerrarSesion( {titulo, subtitulo, nombreBoton} ) {
         }}
       >
         <Fade in={open}>
-          <div className='container-modal'  >
-            <Typography style={{textAlign:"center"}} id="transition-modal-title" variant="h6" component="h2">
+          <div className="container-modal">
+            <Typography
+              style={{ textAlign: "center" }}
+              id="transition-modal-title"
+              variant="h6"
+              component="h2"
+            >
               {titulo}
             </Typography>
-            <Typography style={{fontSize:"18px", textAlign:"center"}} id="transition-modal-description" sx={{ mt: 2 }}>
+            <Typography
+              style={{ fontSize: "18px", textAlign: "center" }}
+              id="transition-modal-description"
+              sx={{ mt: 2 }}
+            >
               {subtitulo}
             </Typography>
-            <div className='modal__botones'>
-            <div>
-            <BotonFondoFijo text={"Aceptar"} />
+            <div className="modal__botones">
+              <div onClick={() => cerrarSesionUser(false)}>
+                <BotonFondoFijo text={"Aceptar"} />
+              </div>
+              <div onClick={() => handleClose()}>
+                <BotonFondoFijo text={"Cancelar"} />
+              </div>
             </div>
-            <div onClick={()=>handleClose()}>
-            <BotonFondoFijo text={"Cancelar"} />
-            </div>
-            </div>
-
           </div>
         </Fade>
       </Modal>

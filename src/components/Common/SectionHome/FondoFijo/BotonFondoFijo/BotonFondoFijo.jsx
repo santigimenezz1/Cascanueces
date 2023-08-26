@@ -1,10 +1,10 @@
-import '../BotonFondoFijo/botonFondoFijo.css'
-const BotonFondoFijo = ( {text} ) => {
+import "../BotonFondoFijo/botonFondoFijo.css";
+const BotonFondoFijo = ({ text }) => {
   return (
-    <div className='fondoFijo__button'>
-    <button>{text}</button>
+    <div className="fondoFijo__button">
+      <button>{text}</button>
     </div>
-  )
-}
+  );
+};
 
-export default BotonFondoFijo
+export default BotonFondoFijo;

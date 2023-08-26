@@ -1,6 +1,6 @@
 import { Button } from "@mui/material";
 import "../TarjetaOferta/tarjetaOferta.css";
- 
+
 const TarjetaOferta = ({ producto, dcto, cuotas, image }) => {
   return (
     <div className="container-TarjetaOfertas">

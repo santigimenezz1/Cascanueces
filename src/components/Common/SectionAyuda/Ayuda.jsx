@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Ayuda = () => {
-  return (
-    <div>Ayuda</div>
-  )
-}
+  return <div>Ayuda</div>;
+};
 
-export default Ayuda
+export default Ayuda;

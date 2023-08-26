@@ -34,7 +34,7 @@ MyFormControlLabel.propTypes = {
 };
 
 export default function SelectorPago({ total }) {
- let totalConvertido =  total.toLocaleString("es-ES")
+  let totalConvertido = total.toLocaleString("es-ES");
   return (
     <RadioGroup name="use-radio-group" defaultValue="first">
       <div className="container-selector">

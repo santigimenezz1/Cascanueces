@@ -1,12 +1,12 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import InputLabel from '@mui/material/InputLabel';
-import MenuItem from '@mui/material/MenuItem';
-import FormControl from '@mui/material/FormControl';
-import Select from '@mui/material/Select';
+import * as React from "react";
+import Box from "@mui/material/Box";
+import InputLabel from "@mui/material/InputLabel";
+import MenuItem from "@mui/material/MenuItem";
+import FormControl from "@mui/material/FormControl";
+import Select from "@mui/material/Select";
 
-export default function Filtros( {mayorMenor, menorMayor, newData} ) {
-  const [age, setAge] = React.useState('');
+export default function Filtros({ mayorMenor, menorMayor, newData }) {
+  const [age, setAge] = React.useState("");
 
   const handleChange = (event) => {
     setAge(event.target.value);
@@ -23,8 +23,12 @@ export default function Filtros( {mayorMenor, menorMayor, newData} ) {
           label="Age"
           onChange={handleChange}
         >
-          <MenuItem onClick={()=> mayorMenor(newData) } value={10}>Menor a mayor</MenuItem>
-          <MenuItem onClick={()=> menorMayor(newData) } value={20}>Mayor a menor</MenuItem>
+          <MenuItem onClick={() => mayorMenor(newData)} value={10}>
+            Menor a mayor
+          </MenuItem>
+          <MenuItem onClick={() => menorMayor(newData)} value={20}>
+            Mayor a menor
+          </MenuItem>
         </Select>
       </FormControl>
     </Box>

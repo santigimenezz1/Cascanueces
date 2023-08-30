@@ -23,6 +23,8 @@ import ModalCrearCuenta from "../../Layout/NavBar/ModalCrearCuenta/ModalCrearCue
 import UserLogin from "../../Layout/NavBar/UserLogin/UserLogin";
 import TarjetaFavorito from "../SectionFavorito/TarjetaFavorito/TarjetaFavorito";
 import TarjetaModal from "../SectionMiCuenta/ModalMiCuenta/TarjetaModal/TarjetaModal";
+import NavBarResponsive from "../../Layout/NavBar/NavBarResponsive/NavBarResponsive";
+import NavBar from "../../Layout/NavBar/NavBarMobile/NavBarMobile";
 
 const Home = () => {
   const [data, setData] = useState([]);
@@ -103,6 +105,22 @@ const Home = () => {
             }
           />
         </Link>
+        <Link className="tarjetaMiniCategoriaDisplayOff" to={"/categoria"}>
+        <TarjetaMiniCategoria
+          titulo={"Semillas"}
+          imagen={
+            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
+          }
+        />
+      </Link>
+      <Link className="tarjetaMiniCategoriaDisplayOff" to={"/categoria"}>
+      <TarjetaMiniCategoria
+        titulo={"Semillas"}
+        imagen={
+          "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
+        }
+      />
+    </Link>
       </div>
 
       <div className="home__tarjetaCategoria">
@@ -118,12 +136,14 @@ const Home = () => {
           }
           titulo={"Salado"}
         />
-        <TarjetaCategoria
+        <div className={"tarjetaCategoriaDisplay"}>
+        <TarjetaCategoria 
           imagen={
             "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691523142/CASCANUCES%20SALUDABLE/producto-8-adicional-300x300_msratv.jpg"
           }
           titulo={"Infaltable"}
         />
+        </div>
       </div>
       <h1 className="home__titulo">Los más elegidos</h1>
       <div className="home__tarjetaProducto">
@@ -287,6 +307,8 @@ const Home = () => {
       </div>
 
       <FormasPago />
+      <NavBarResponsive />
+      <NavBar />
     </div>
   );
 };

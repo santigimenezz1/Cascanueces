@@ -1,6 +1,6 @@
 .tarjetaGrid {
-  width: 270px;
-  height: 240px;
+  width: 240px;
+  height: 220px;
   position: relative;
   overflow: hidden; /* Para recortar cualquier desbordamiento de la imagen */
 }

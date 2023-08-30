@@ -16,6 +16,7 @@ import ModalCrearCuenta from "../ModalCrearCuenta/ModalCrearCuenta";
 import Swal from "sweetalert2";
 import LoadingCircular from "./LoadingCircular/LoadingCircular";
 import CloseIcon from "@mui/icons-material/Close";
+import ModalRecuperacion from "./ModalRecuperacion/ModalRecuperacion";
 
 export default function ModalInicioSesion({
   usuarioOn,
@@ -56,7 +57,7 @@ export default function ModalInicioSesion({
               showConfirmButton: true,
               timer: 3500,
             });
-          }, 1500);
+          }, 2000);
         } else {
           alert("Esta cuenta no existe");
         }
@@ -97,7 +98,7 @@ export default function ModalInicioSesion({
                   : "container_loadingCircular displayCircular"
               }
             >
-              <LoadingCircular />
+            <div className="loader"></div>
             </div>
             <div className="container-box">
               <CloseIcon
@@ -169,6 +170,7 @@ export default function ModalInicioSesion({
                     setUsuarioOn={setUsuarioOn}
                   />
                 </div>
+                <ModalRecuperacion />
               </form>
             </div>
           </div>

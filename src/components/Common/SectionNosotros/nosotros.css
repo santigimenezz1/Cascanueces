@@ -32,6 +32,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  
 }
 .nosotros__info {
   display: flex;
@@ -41,6 +42,7 @@
   justify-content: center;
   align-items: start;
   background-color: rgba(127, 255, 212, 0.119);
+  
 }
 .nosotros__info__text {
   width: 50%;

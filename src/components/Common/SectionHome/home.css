@@ -8,6 +8,11 @@
   display: flex;
   gap: 10px;
   margin-top: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.tarjetaMiniCategoriaDisplayOff{
+  display: none;
 }
 
 .home__tarjetaCategoria {
@@ -17,6 +22,7 @@
   align-items: center;
   margin-top: 100px;
 }
+
 .home__tarjetaProducto {
   display: flex;
   gap: 10px;
@@ -56,7 +62,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  width: 1200px;
+  width: auto;
   justify-content: center;
   margin: 100px;
 }

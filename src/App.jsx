@@ -8,6 +8,7 @@ import TarjetaProducto from "./components/Common/SectionHome/TarjetaProducto/Tar
 import NavBar from "./components/Layout/NavBar/NavBar";
 import AppRouter from "./Routes/AppRouter";
 import CartContextComponent, { CartContext } from "./Context/CartContext";
+import '../src/mediaQuery.css'
 
 function App() {
   return (

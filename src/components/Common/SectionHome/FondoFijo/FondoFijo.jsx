@@ -7,14 +7,14 @@ const FondoFijo = () => {
       <div className="fondoFijo__containerText">
         <h3>Novedad</h3>
         <div>
-          <h3 style={{ fontSize: "60px" }}>Nuestra sucursal</h3>
+          <h3 className="text__nuestraSucursal" >Nuestra sucursal</h3>
         </div>
         <div className="fondoFijo__containerText__direcciones">
           <div
             style={{ display: "flex", flexDirection: "column", gap: "40px" }}
           >
             <h3 style={{ fontSize: "30px" }}>Oroño 1161</h3>
-            <h3 style={{ fontSize: "60px" }}>Somos Cascanueces</h3>
+            <h3 className="text__somosCascanuces" >Somos Cascanueces</h3>
           </div>
           <div>
             <h3 style={{ fontSize: "25px" }}>

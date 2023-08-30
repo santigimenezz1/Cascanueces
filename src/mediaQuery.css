@@ -1,0 +1,206 @@
+@media (max-width: 900px){
+    
+    .tarjetaMiniCategoriaDisplayOff{  /*TARJETA MINI CATEGORIA */
+        display: flex;
+      }
+      .tarjetaMiniCategoria {
+        width: 205px;
+        height: 164px;
+      }
+      .tarjetaCategoriaDisplay{      /*TARJETA  CATEGORIA GRID  */
+        display: none;
+      }
+      .tarjetaCategoria {
+        width: 410px;
+        height: 390px;
+      }
+     .text__somosCascanuces{        /*FONDO FIJO */
+       font-size: 40px;
+     }
+     .tarjetaGrid{
+        width: 200px;              /*TARJETAS GRID */
+        height: 200px;
+     }
+     .home__tarjetasGrid {     
+        width:850px;
+     }
+     .tarjetaGrid__titulo{
+        font-size: 20px;
+     }
+     .home__formasPago{           /*FORMAS DE PAGO*/
+        gap: 1px;
+     }
+     .footer{                     /*FOOTER */
+        gap: 70px;
+     }
+     .categoria__enalcesCategoria{          /*SECTION CATEGORIA */
+       width: 30%;
+     }
+     .categoria__tarjetaProductos{ 
+        width: 70%;
+     }
+     .nosotros__info{                /*SECTION NOSOTROS*/
+        width: 800px;
+     }
+     .nosotros__info__texto{
+        font-size: 15px;
+     }
+    }
+
+
+
+
+
+
+
+
+                       /*820Px*/
+
+
+    @media (max-width: 820px){
+    
+        .tarjetaMiniCategoriaDisplayOff{  /*TARJETA MINI CATEGORIA */
+            display: none;
+          }
+          .tarjetaMiniCategoria {
+            width: 235px;
+            height: 174px;
+          }
+          .tarjetaCategoriaDisplay{      /*TARJETA  CATEGORIA GRID  */
+            display: none;
+          }
+          .tarjetaCategoria {
+            width: 350px;
+            height: 350px;
+          }
+         .text__somosCascanuces{        /*FONDO FIJO */
+           font-size: 40px;
+         }
+         .text__nuestraSucursal{
+            font-size: 40px;
+          }
+         .tarjetaGrid{
+            width: 180px;              /*TARJETAS GRID */
+            height: 180px;
+         }
+         .home__tarjetasGrid {     
+            width:820px;
+         }
+         .tarjetaGrid__titulo{
+            font-size: 16px;
+         }
+         .home__formasPago{           /*FORMAS DE PAGO*/
+            gap: 1px;
+            
+         }
+         .formasPago{
+            width: 250px;
+         }
+         .footer{                     /*FOOTER */
+            gap: 50px;
+             
+         }
+         .categoria__enalcesCategoria{          /*SECTION CATEGORIA */
+           width: 30%;
+         }
+         .categoria__tarjetaProductos{ 
+            width: 70%;
+         }
+         .nosotros__info{                /*SECTION NOSOTROS*/
+            width: 780px;
+         }
+         .nosotros__info__texto{
+            font-size: 15px;
+         }
+         .favorito__imagen {
+            width:250px;
+          }
+          .favorito__titulo {
+            font-size: 40px;
+          }
+        }
+
+
+
+
+
+
+
+
+          /*600Px*/
+
+
+    @media (max-width: 600px){
+    
+        .tarjetaMiniCategoriaDisplayOff{  /*TARJETA MINI CATEGORIA */
+            display: none;
+          }
+          .tarjetaMiniCategoria {
+            width: 170px;
+            height: 120px;
+          }
+          .tarjetaCategoriaDisplay{      /*TARJETA  CATEGORIA GRID  */
+            display: none;
+          }
+          .tarjetaCategoria {
+            width: 260px;
+            height: 260px;
+          }
+         .text__somosCascanuces{        /*FONDO FIJO */
+           font-size: 40px;
+         }
+         .text__nuestraSucursal{
+            font-size: 40px;
+          }
+         .tarjetaGrid{
+            width: 130px;              /*TARJETAS GRID */
+            height: 130px;
+         }
+         .home__tarjetasGrid {     
+            width:580px;
+         }
+         .tarjetaGrid__titulo{
+            font-size: 14px;
+         }
+         .home__formasPago{           /*FORMAS DE PAGO*/
+            gap: 1px;
+            
+         }
+         .formasPago{
+            width: 250px;
+         }
+         .footer{                     /*FOOTER */
+            gap: 50px;
+             
+         }
+         .categoria__enalcesCategoria{          /*SECTION CATEGORIA */
+           width: 30%;
+         }
+         .categoria__tarjetaProductos{ 
+            width: 70%;
+         }
+         .nosotros__info{                /*SECTION NOSOTROS*/
+            width: 780px;
+            flex-direction: column-reverse;
+         }
+         .nosotros__info__texto{
+            font-size: 15px;
+         }
+         .favorito__imagen {
+            width:250px;
+          }
+          .favorito__titulo {
+            font-size: 40px;
+          }
+
+
+          .enlaces ul{
+            flex-direction: column;
+            margin: 20px;
+            justify-content: start;
+            align-items: start;
+          }
+          .enlaces__link:hover{
+            color: white;
+          }
+        }

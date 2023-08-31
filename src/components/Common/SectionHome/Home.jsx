@@ -3,7 +3,6 @@ import TarjetaCategoria from "./TarjetaCategoria/TarjetaCategoria";
 import "../SectionHome/home.css";
 import TarjetaProducto from "./TarjetaProducto/TarjetaProducto";
 import FondoFijo from "./FondoFijo/FondoFijo";
-import TarjetaOferta from "./TarjetaOferta/TarjetaOferta";
 import IconoWhatsapp from "../../Layout/Layout/IconoWhatsapp/IconoWhatsapp";
 import ImagenesGrid from "./ImagenesGrid/ImagenesGrid";
 import FormasPago from "./FormasPago/FormasPago";

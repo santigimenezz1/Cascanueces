@@ -43,14 +43,7 @@
   margin-bottom: 30px;
   width: 100%;
 }
-.home__tarjetaOferta {
-  display: flex;
-  gap: 40px;
-  justify-content: center;
-  align-items: center;
-  margin: 70px;
-  margin-top: 150px;
-}
+
 .home__iconoWhatsapp {
   position: fixed;
   bottom: 20px;

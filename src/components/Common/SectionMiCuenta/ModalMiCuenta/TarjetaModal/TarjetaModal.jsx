@@ -10,7 +10,7 @@ const TarjetaModal = ({ producto }) => {
   };
 
   return (
-    <div className="container-terminarCompra">
+    <div className="container-terminarCompraMiCuenta">
       <div className="container-tituloImage">
         <span className="span"></span>
         <Link to={`/detalle/${producto.id}`}>
@@ -19,14 +19,20 @@ const TarjetaModal = ({ producto }) => {
             src={producto.imagenPrincipal}
           ></img>
         </Link>
+        <div className="container__nombrePrecioMobile">
         <h1 className="terminarCompra-title">{producto.nombre}</h1>
+        <h1>
+        ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
+        </h1>
+        
+        </div>
         <div className="cart-mobile">
           <DeleteForeverIcon fontSize="small" className="icon-trash" />
         </div>
       </div>
 
       <div className="container-contador">
-        <h2 className="precio-tarjetaCart">
+        <h2 className="precio-tarjetaCartMobile">
           ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
         </h2>
       </div>

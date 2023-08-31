@@ -17,6 +17,7 @@ import Swal from "sweetalert2";
 import LoadingCircular from "./LoadingCircular/LoadingCircular";
 import CloseIcon from "@mui/icons-material/Close";
 import ModalRecuperacion from "./ModalRecuperacion/ModalRecuperacion";
+import PermIdentityIcon from '@mui/icons-material/PermIdentity';
 
 export default function ModalInicioSesion({
   usuarioOn,

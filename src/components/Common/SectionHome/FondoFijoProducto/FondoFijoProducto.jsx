@@ -6,7 +6,7 @@ const FondoFijoProducto = () => {
       <div className="fondoFijo__containerText">
         <h3>Novedad</h3>
         <div>
-          <h3 style={{ fontSize: "60px" }}>Ahora dos sucursales</h3>
+          <h3 className="titulo__fondoFijoProducto" >Ahora dos sucursales</h3>
         </div>
         <div className="fondoFijo__containerText__direcciones">
           <div

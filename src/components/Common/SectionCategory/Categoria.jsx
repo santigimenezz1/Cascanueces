@@ -7,6 +7,7 @@ import { collection, getDocs, query, where } from "firebase/firestore";
 import { useParams } from "react-router-dom";
 import { Skeleton } from "@mui/material";
 import Filtros from "./Filtros/Filtros";
+import EnlacesResponsive from "./EnlacesResponsive/EnlacesResponsive";
 
 const Categoria = () => {
   const [data, setData] = useState([]);
@@ -45,12 +46,15 @@ const Categoria = () => {
   return (
     <div className="categoria">
       <div className="categoria__enalcesCategoria">
+      <EnlacesResponsive />
         <EnlacesCategoria
+        
           filtro={filtro}
           filtrarEstado={filtrarEstado}
           data={data}
           setData={setData}
         />
+        
       </div>
       <div className="categoria__tarjetaProductos">
         <h1>{categoria}</h1>

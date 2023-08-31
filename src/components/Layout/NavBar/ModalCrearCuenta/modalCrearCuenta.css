@@ -61,3 +61,17 @@
   gap: 30px;
   width: 100%;
 }
+.button__crearCuenta button{
+  color: white;
+  background-color: purple;
+  border-radius: 4px;
+  width: 600px;
+  font-size: 16px;
+}
+.my-custom-alert {
+  z-index: 9999;
+}
+
+.my-custom-backdrop {
+  z-index: 9998;
+}

@@ -29,36 +29,41 @@ const TarjetaCart = ({ producto }) => {
     onAdd(nuevo);
   };
   return (
-    <div className="container-terminarCompra">
-      <div className="container-tituloImage">
+    
+    <div className="container-terminarCompraCart">
+    
+      <div className="container-tituloImageCart">
         <span className="span"></span>
         <Link to={`/detalle/${producto.id}`}>
           <img
-            className="terminarCompra-image"
+            className="terminarCompra-imageCart "
             src={producto.imagenPrincipal}
           ></img>
         </Link>
         <h1 className="terminarCompra-title">{producto.nombre}</h1>
+        
         <div className="cart-mobile">
           <DeleteForeverIcon fontSize="small" className="icon-trash" />
         </div>
       </div>
 
-      <div className="container-contador">
+      <div className="container-contadorCart">
         <ContadorUnidades
           stock={producto.stock}
           initial={producto.cantidad}
           agregarUnidad={agregarUnidad}
           quitarUnidad={quitarUnidad}
         />
-        <h2 className="precio-tarjetaCart">
+             
+      <h2 className="precio-tarjetaCart">
           ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
         </h2>
-        <div onClick={() => deleteCart(producto.id)} className="icon-delete">
-          <DeleteForeverIcon className="icon-trash" />
+        <div onClick={() => deleteCart(producto.id)} >
+          <DeleteForeverIcon className="icon-trashCart" />
         </div>
       </div>
     </div>
+    
   );
 };
 export default TarjetaCart;

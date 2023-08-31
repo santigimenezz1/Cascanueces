@@ -14,7 +14,7 @@ const NavBarMobile = () => {
   const [burguerOn, setBurguerOn] = useState(true)
 
   return (
-    <>
+    <div className="container__navBarMobile">
     
     <div className="navBarMobile">
       <div className="navBar__logo">
@@ -53,7 +53,7 @@ const NavBarMobile = () => {
       <Enlaces />
       </div>
       </div>
-    </>
+    </div>
   );
 };
 

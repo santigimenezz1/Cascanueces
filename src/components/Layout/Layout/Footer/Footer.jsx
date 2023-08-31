@@ -22,9 +22,9 @@ const Footer = () => {
           </Link>
         </div>
       </div>
-      <div className="footer__contacto">
+      <div className="footer__contacto contactoDisplay">
         <h1>Contacto</h1>
-        <div className="footer__contacto__direccion">
+        <div className="footer__contacto__direccion ">
           <img
             style={{ width: "25px", height: "25px" }}
             src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691875953/CASCANUCES%20SALUDABLE/home-automation_m1x9nb.png"

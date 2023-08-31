@@ -25,6 +25,7 @@ import TarjetaFavorito from "../SectionFavorito/TarjetaFavorito/TarjetaFavorito"
 import TarjetaModal from "../SectionMiCuenta/ModalMiCuenta/TarjetaModal/TarjetaModal";
 import NavBarResponsive from "../../Layout/NavBar/NavBarResponsive/NavBarResponsive";
 import NavBar from "../../Layout/NavBar/NavBarMobile/NavBarMobile";
+import MyCarousel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
 
 const Home = () => {
   const [data, setData] = useState([]);
@@ -307,8 +308,17 @@ const Home = () => {
       </div>
 
       <FormasPago />
-      <NavBarResponsive />
-      <NavBar />
+      {
+        Object.keys(data).length > 0 &&
+          <MyCarousel  data={data} />
+      }
+      
+       
+      
+      
+      
+      <div>
+      </div>
     </div>
   );
 };

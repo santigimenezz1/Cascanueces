@@ -1,4 +1,4 @@
-.tarjetaHover {
+.tarjetaHoverFavorito {
   width: 280px;
   height: 420px;
   cursor: pointer;
@@ -6,7 +6,12 @@
   position: relative;
   margin-bottom: 100px;
 }
-.tarjetaHover h1 {
+.favorito__tarjetas{
+  width: 100vw;
+  display: flex;
+  justify-content: start;
+}
+.tarjetaHoverFavorito h1 {
   color: white;
   font-size: 35px;
   position: absolute;

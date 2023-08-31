@@ -6,12 +6,11 @@ import Swal from "sweetalert2";
 const SectionFavorito = () => {
   const { favorito } = useContext(CartContext);
   const newFavorito = [...favorito];
-  console.log(newFavorito);
 
-  console.log(typeof favorito);
 
   return (
     <div className="favorito">
+    <h1 className="favorito__titulo">Tus favoritos</h1>
       <div className="favorito__tarjetas">
         {Object.keys(favorito).length > 0 ? (
           favorito.map((producto) => (

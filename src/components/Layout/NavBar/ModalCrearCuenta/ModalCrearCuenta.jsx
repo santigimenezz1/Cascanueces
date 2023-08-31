@@ -76,22 +76,27 @@ export default function ModalCrearCuenta({ usuarioOn, setUsuarioOn, setUser }) {
             handleClose();
           }, 3000);
         } catch (createError) {
-          console.error('Error al crear el usuario:', createError);
+          Swal.fire({
+            position: "center",
+            icon: "error",
+            title: "Este correo ya está registrado!",
+            showConfirmButton: true,
+            timer: 4500,
+            customClass: {
+              container: "my-custom-alert", // Clase personalizada para la alerta
+              backdrop: "my-custom-backdrop", // Clase personalizada para el fondo de la alerta
+            },
+          });
+
         }
       }
     },
   });
 
   return (
-    <div>
-      <Button
-        style={{
-          color: "white",
-          backgroundColor: "purple",
-          borderRadius: "4px",
-          width: "600px",
-          fontSize: "16px",
-        }}
+    <div className="button__crearCuenta">
+      <Button 
+       
         onClick={handleOpen}
       >
         Crear cuenta

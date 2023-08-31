@@ -12,15 +12,12 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
     },
     validateOnChange: false,
     onSubmit: (data) => {
-      console.log(data);
     },
   });
 
-  console.log(newData);
-  console.log(valor);
 
   return (
-    <div className="enlacesCategoria">
+    <div  className="enlacesCategoria">
       <div className="enalcesCategoria__buscador">
         <form onSubmit={handleSubmit} className="enalcesCategoria__form">
           <input
@@ -73,7 +70,7 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
                 hierbas
               </Link>
               <Link className="link" to={"/categoria/pastaMani"}>
-                pastas de mani{" "}
+                pastas de mani
               </Link>
               <Link className="link" to={"/categoria/harinaAvena"}>
                 harinas y Avenas
@@ -84,7 +81,7 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/TostadasGalletas"}>
                 Tostadas y Galletas de arroz
               </Link>
-              <Link className="link" to={"/categoria/Galletitas sin sal"}>
+              <Link className="link" to={"/categoria/GalletitasSinSal"}>
                 Galletitas sin sal
               </Link>
               <Link className="link" to={"/categoria/caldito"}>

@@ -32,7 +32,7 @@ const TarjetaFavorito = ({ imagenPrincipal, imagenSecundaria, producto }) => {
   };
 
   return (
-    <div onMouseOver={() => setImagen(fotoSecundaria)} className="tarjetaHover">
+    <div onMouseOver={() => setImagen(fotoSecundaria)} className="tarjetaHoverFavorito">
       <Link to={`/detalle/${producto.id}`}>
         <img
           onMouseOut={() => setImagen(fotoPrincipal)}

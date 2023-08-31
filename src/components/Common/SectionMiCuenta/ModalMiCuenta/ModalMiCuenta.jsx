@@ -44,7 +44,6 @@ export default function ModalMiCuenta({ producto }) {
   };
 
   let items = producto.items;
-  console.log(items);
 
   return (
     <div>
@@ -68,7 +67,7 @@ export default function ModalMiCuenta({ producto }) {
         }}
       >
         <Fade in={open}>
-          <Box sx={style}>
+          <Box className={"box__modalMiCuenta"} sx={style}>
             <div className="container-retroceso_miCuenta">
               <Typography
                 style={{ fontSize: "35px" }}

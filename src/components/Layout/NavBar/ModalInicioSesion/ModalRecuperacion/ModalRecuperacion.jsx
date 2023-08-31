@@ -46,23 +46,43 @@ export default function ModalRecuperacion() {
     },
     onSubmit: (data) => {
         setObjeto(data)
-      console.log({objeto})
+        recuperar(data) 
   
     },
     validateOnChange: false,
          
 })
 
-const recuperar = async () => {
-    const email = objeto.email; // Usa el correo capturado en el formulario
+const recuperar = async (data) => {
+    const email = data.email; // Usa el correo capturado en el formulario
     if (email) {
       const result = await resetPassword(email);
       if (result) {
-      alert("se envio en enlace correctamente")
-        
+        Swal.fire({
+          position: "center",
+          icon: "success",
+          title: "Verifica tu correo para cambiar la contraseña",
+          showConfirmButton: true,
+          timer: 4500,
+          customClass: {
+            container: "my-custom-alert", // Clase personalizada para la alerta
+            backdrop: "my-custom-backdrop", // Clase personalizada para el fondo de la alerta
+          },
+        });        
+        handleClose()
       } else {
        
-         alert("El email no esta registrado")
+        Swal.fire({
+          position: "center",
+          icon: "error",
+          title: "El correo no existe !  ",
+          showConfirmButton: true,
+          timer: 4500,
+          customClass: {
+            container: "my-custom-alert", // Clase personalizada para la alerta
+            backdrop: "my-custom-backdrop", // Clase personalizada para el fondo de la alerta
+          },
+        });
 
        
       }
@@ -90,7 +110,7 @@ const recuperar = async () => {
         </Typography>     
         <TextField onChange={handleChange} name='email' style={{width:"100%"}} id="standard-basic" label="Email" variant="standard" />
         <div  style={{display:"flex", width:"100%", justifyContent:"center", marginTop:"20px"}}>
-        <button  onClick={()=>recuperar()} type='submit' className='button__recuperar'>Recuperar</button>
+        <button type='submit' className='button__recuperar'>Recuperar</button>
         </div>
         </form>
         </div>

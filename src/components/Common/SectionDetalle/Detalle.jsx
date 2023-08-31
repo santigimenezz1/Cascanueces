@@ -41,11 +41,9 @@ const Detalle = () => {
   useEffect(() => {
     //PETICION SEGUN EL ID
     let productsColeccion = collection(db, "products");
-    console.log(productsColeccion);
     let productRef = doc(productsColeccion, id);
     getDoc(productRef).then((res) => {
       let producto = { ...res.data(), id: res.id };
-      console.log(producto);
       setData(producto);
       filtradoCategoriaId(producto.categoria);
     });

@@ -41,9 +41,8 @@ const MiCuenta = () => {
     try {
       const docRef = doc(db, `${user.email}`, productoId);
       await deleteDoc(docRef);
-      console.log("Documento eliminado correctamente");
     } catch (error) {
-      console.error("Error al eliminar el documento:", error);
+      
     }
   };
 

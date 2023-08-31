@@ -15,9 +15,7 @@ function App() {
     <>
       <BrowserRouter>
         <CartContextComponent>
-          <favoritoContextComponent>
             <AppRouter />
-          </favoritoContextComponent>
         </CartContextComponent>
       </BrowserRouter>
     </>

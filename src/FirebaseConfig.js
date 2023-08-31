@@ -46,10 +46,8 @@ export const create = async ({ email, password }) => {
 export const resetPassword = async (email) => {
   try {
     await sendPasswordResetEmail(auth, email);
-    console.log("Correo de restablecimiento enviado correctamente.");
     return true; // Indicar que el correo se envió con éxito
   } catch (error) {
-    console.error("Error al enviar el correo de restablecimiento:", error);
     return false; // Indicar que ocurrió un error al enviar el correo
   }
 };

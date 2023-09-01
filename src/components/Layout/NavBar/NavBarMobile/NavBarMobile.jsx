@@ -17,7 +17,7 @@ const NavBarMobile = () => {
     <div className="container__navBarMobile">
     
     <div className="navBarMobile">
-      <div className="navBar__logo">
+      <div className="navBar__logo__mobile">
         <img onClick={()=>setBurguerOn(!burguerOn)}  style={{width:"30px", cursor:"pointer",padding:"5px"}} src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1693347152/CASCANUCES%20SALUDABLE/menu_xat1up.png"></img>
       </div>
 

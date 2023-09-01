@@ -16,7 +16,7 @@ import Loading from "./Loading/Loading";
 import CloseIcon from "@mui/icons-material/Close";
 import { db } from "../../../../FirebaseConfig";
 
-const style = {
+const styleModalCrear = {
   position: "absolute",
   top: "50%",
   left: "50%",
@@ -115,7 +115,7 @@ export default function ModalCrearCuenta({ usuarioOn, setUsuarioOn, setUser }) {
         }}
       >
         <Fade in={open}>
-          <Box sx={style}>
+          <Box sx={styleModalCrear}>
             <div className="container-box">
               <CloseIcon
                 onClick={handleClose}

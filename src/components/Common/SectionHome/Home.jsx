@@ -22,7 +22,6 @@ import ModalCrearCuenta from "../../Layout/NavBar/ModalCrearCuenta/ModalCrearCue
 import UserLogin from "../../Layout/NavBar/UserLogin/UserLogin";
 import TarjetaFavorito from "../SectionFavorito/TarjetaFavorito/TarjetaFavorito";
 import TarjetaModal from "../SectionMiCuenta/ModalMiCuenta/TarjetaModal/TarjetaModal";
-import NavBarResponsive from "../../Layout/NavBar/NavBarResponsive/NavBarResponsive";
 import NavBar from "../../Layout/NavBar/NavBarMobile/NavBarMobile";
 import MyCarousel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
 

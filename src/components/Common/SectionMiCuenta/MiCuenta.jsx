@@ -10,10 +10,11 @@ import {
   getDoc,
   deleteDoc,
 } from "firebase/firestore";
-import { db } from "../../../FirebaseConfig";
 import { object } from "yup";
 import ModalMiCuenta from "./ModalMiCuenta/ModalMiCuenta";
 import { CartContext } from "../../../Context/CartContext";
+import { db } from "../../../firebaseConfig";
+
 
 const MiCuenta = () => {
   const [ordenCompra, setOrdenCompra] = useState([]);
@@ -68,10 +69,9 @@ const MiCuenta = () => {
               height: "400px",
             }}
           >
-            <h1 style={{ fontSize: "22px" }}>
-              Iniciá sesión para que podamos mostrarte los datos asociados a tu
-              cuenta
-            </h1>
+            <h2 className="subtitulo__miCuenta">
+             Inicia sesión para ver el contenido
+            </h2>
           </div>
         )}
 

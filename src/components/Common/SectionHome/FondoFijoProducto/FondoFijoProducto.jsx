@@ -12,8 +12,8 @@ const FondoFijoProducto = () => {
           <div
             style={{ display: "flex", flexDirection: "column", gap: "40px" }}
           >
-            <h3 style={{ fontSize: "30px" }}>*Tribunales: Dorrego 1668</h3>
-            <h3>*Abasto: Viamonte 1275 (Solo compras presenciales)</h3>
+            <h3 className="fondoFijoProducto__direccion" >*Tribunales: Dorrego 1668</h3>
+            <h3 className="fondoFijoProducto__direccion2">*Abasto: Viamonte 1275 (Solo compras presenciales)</h3>
           </div>
           <div>
             <h3 style={{ fontSize: "25px" }}>

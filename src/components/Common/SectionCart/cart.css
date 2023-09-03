@@ -43,3 +43,10 @@
   justify-content: end;
   padding-right: 100px;
 }
+
+.cart__boton{
+  padding-right: 100px;
+  display: flex;
+  margin: 0px;
+  justify-content: end;
+}

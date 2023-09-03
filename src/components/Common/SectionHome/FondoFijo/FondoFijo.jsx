@@ -17,7 +17,7 @@ const FondoFijo = () => {
             <h3 className="text__somosCascanuces" >Somos Cascanueces</h3>
           </div>
           <div>
-            <h3 style={{ fontSize: "25px" }}>
+            <h3 className="text__frutoAmor">
               {" "}
               fruto de mucho amor y trabajo.
             </h3>

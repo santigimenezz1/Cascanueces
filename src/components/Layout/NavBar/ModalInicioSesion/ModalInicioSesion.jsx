@@ -138,7 +138,7 @@ export default function ModalInicioSesion({
                 onSubmit={handleSubmit}
               >
                 <TextField
-                  style={{ width: "500px", marginBottom: "10px" }}
+                className="input__inicioSesion"
                   name="email"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}
@@ -149,7 +149,8 @@ export default function ModalInicioSesion({
                   helperText={errors.email}
                 />
                 <TextField
-                  style={{ width: "500px" }}
+                className="input__inicioSesion"
+                  
                   name="password"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}

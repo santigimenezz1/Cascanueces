@@ -101,7 +101,7 @@ const recuperar = async (data) => {
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-        <Box className={"container__modal__recuperacion"} sx={style}>
+        <Box className="container__modal__recuperacion">
        
         <div className='container__recuperacion__button'>
         <form style={{width:"100%",zIndex:"1"}} onSubmit={handleSubmit}>

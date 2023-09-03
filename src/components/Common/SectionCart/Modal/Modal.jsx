@@ -19,6 +19,7 @@ const style = {
   boxShadow: 24,
   p: 4,
   borderRadiuis: "10px",
+  
 };
 
 export default function ModalCart({
@@ -68,7 +69,7 @@ export default function ModalCart({
               {titulo}
             </Typography>
             <Typography
-              style={{ fontSize: "15px" }}
+              style={{ fontSize: "15px", textAlign:"center" }}
               id="transition-modal-description"
               sx={{ mt: 2 }}
             >
@@ -80,7 +81,7 @@ export default function ModalCart({
                   <BotonFondoFijo text={"Aceptar"} />
                 </div>
               </div>
-              <div onClick={() => handleClose()}>
+              <div  onClick={() => handleClose()}>
                 <BotonFondoFijo text={"Cancelar"} />
               </div>
             </div>

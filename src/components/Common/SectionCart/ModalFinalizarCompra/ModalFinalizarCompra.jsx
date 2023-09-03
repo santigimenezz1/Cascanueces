@@ -125,12 +125,7 @@ export default function ModalFinalizarCompra() {
 
   return (
     <div
-      style={{
-        display: "flex",
-        justifyContent: "end",
-        marginRight: "100px",
-        marginBottom: "15px",
-      }}
+    
     >
       <Button
         style={{
@@ -161,7 +156,6 @@ export default function ModalFinalizarCompra() {
             <div
               className="container-general-modal"
               style={{ border: "10px solid purple", borderRadius: "7px" }}
-              sx={style}
             >
               {idCompra === false && (
                 <div className="container-logo-modal">

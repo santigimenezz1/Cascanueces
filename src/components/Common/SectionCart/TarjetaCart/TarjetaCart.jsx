@@ -31,6 +31,9 @@ const TarjetaCart = ({ producto }) => {
   return (
     
     <div className="container-terminarCompraCart">
+    <div className="delete__mobile">
+    <DeleteForeverIcon fontSize="small" className="icon-trash"  onClick={() => deleteCart(producto.id)} />
+    </div>
     
       <div className="container-tituloImageCart">
         <span className="span"></span>
@@ -58,7 +61,7 @@ const TarjetaCart = ({ producto }) => {
       <h2 className="precio-tarjetaCart">
           ${mostrarPrecioConFormato(producto.precio, producto.cantidad)}
         </h2>
-        <div onClick={() => deleteCart(producto.id)} >
+        <div className="deleteCartTrash" onClick={() => deleteCart(producto.id)} >
           <DeleteForeverIcon className="icon-trashCart" />
         </div>
       </div>

@@ -52,6 +52,12 @@ const Home = () => {
     (refrigeracion) => refrigeracion.categoria === "nueces"
   );
 
+
+
+
+
+
+console.log(filtradoAlmendras)
   return (
     <div className="home">
       <Carrusel />

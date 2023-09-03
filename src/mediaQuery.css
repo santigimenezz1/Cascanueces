@@ -300,6 +300,10 @@
           .favorito__titulo {
             font-size: 40px;
           }
+          .favorito__tarjetas{
+            justify-content: start;
+            width: auto;
+          }
 
 
           .enlaces ul{
@@ -470,9 +474,25 @@
         }
         .container-general-tarjetaCupon {
           display: none;
+        } 
+        .container-selector {                 /*SECTION CART*/
+          width: 93%;
+          margin: 15px 10px;
+          flex-direction: column;
+          gap: 20px;
         }
-        .container-selector {
-          width: 450px;
+        .cart__boton{
+          padding: 0px;
+          display: flex;
+          margin: 0px;
+          justify-content: center;
+          margin-bottom: 50px;
+
+        }
+       
+        .container-logoSelector{
+          flex-direction: row;
+          gap: 50px;
         }
         .tituloTarjetaProductos {
           text-align: center;
@@ -540,6 +560,20 @@
           font-size: 20px;
         }
         }
+
+            
+
+
+
+
+
+
+
+
+
+
+
+        
 
 
 
@@ -630,7 +664,188 @@
           height: 400px;
         }
 
-
-
-       
+        .favorito__tarjetas{
+          display: flex;
+          justify-content: center;
         }
+
+        .fondoFijo__containerText{
+          width: 100%;
+          margin: 0px;
+        }
+
+        .text__somosCascanuces{
+          font-size: 25px;
+        }
+
+        .text__frutoAmor{
+          font-size: 22px;
+        }
+
+        .fondoFijo{
+          height: 500px;
+        }
+
+        .fondoFijoProducto{
+          height: 450px;
+        }
+        .titulo__fondoFijoProducto{
+          font-size: 25px;
+        }
+        .fondoFijoProducto__direccion{
+          font-size: 25px;
+        }
+        .fondoFijoProducto__direccion2{
+          font-size: 22px;
+        }
+
+
+        .tarjetaGrid{
+          width: 170px;              /*TARJETAS GRID */
+          height: 170px;
+       }
+       .home__tarjetasGrid {     
+          width:350px;
+       }
+       .tarjetaGrid__titulo{
+          font-size: 14px;
+       }
+
+
+       .container-terminarCompraCart {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        border-radius: 7px;
+        margin: 15px 10px;
+        gap: 10px;
+        box-shadow: 1px 2px 2px rgb(187, 182, 182);
+        background-color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+          flex-direction: column; 
+          position: relative; 
+                  
+      }
+      .container-contadorCart{
+        flex-direction: row;
+      }
+      .precio-tarjetaCart{
+        display: block;
+        font-size: 20px;
+      }
+      .container-tituloImageCart span{
+        display: none;
+      }
+
+      .delete__mobile{
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 20%;
+      }
+
+      .deleteCartTrash{
+        display: none;
+      }
+      .terminarCompra-imageCart{
+        width: 80px;
+      }
+
+
+
+
+
+      .container-modal{        /*ALERTA CARRITO */
+        width: 320px;
+        height: 150px;
+      }
+
+      .input__inicioSesion{
+        width:300px
+      }
+      .container-general-box{
+        height: 420px;
+      }
+
+      .container__modal__recuperacion{
+        width: 340px;
+        height: 170px;
+      }
+      .container__recuperacion__button{
+        padding: 20px;
+      }
+
+
+
+      .container-selector {
+        width: 90%;
+        margin: 15px 10px;
+        flex-direction: column;
+        gap: 20px;
+      }
+     
+      .container-logoSelector{
+        flex-direction: column;
+        gap: 2px;
+        justify-content: center;
+        align-items: center;
+      }
+      .container-selector-Selector{
+        display: flex;
+       padding-left: 25px;
+      }
+
+
+
+      .container-general-modal {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 20px;
+        padding-top: 10px;
+        border: 2px solid #000;
+        width: 300px;
+        height: auto;
+      }
+
+      .container-textos-modalTerminar h1{
+        justify-content:center;
+        text-align: center;
+        
+      }
+     .container__cartVacion h1{
+      font-size: 22px;
+      margin-bottom: 15px;
+     }
+     .container-retroceso{
+      flex-direction: row;
+      gap: 30px;
+      justify-content: space-between;
+      align-items: center;
+      
+     }                                 /*SECTION MI CUENTA */
+
+     .container-retroceso h1{ 
+      font-size: 17px;
+      position: relative;
+      bottom: 4px;
+     }
+
+     .cuenta__retroceso{
+      align-items: end;
+     }
+
+     .subtitulo__miCuenta{
+      font-size: 20px;
+      padding: 20px;
+     
+     }
+    
+     
+    }
+
+    

@@ -50,7 +50,8 @@ export default function SelectorPago({ total }) {
             <MyFormControlLabel
               value="second"
               label="Mercadopago - Tarjetas Online, PagoFacil, RapiPago"
-              control={<Radio />}
+              control={<Radio /> }
+              
             />
           </div>
         </div>

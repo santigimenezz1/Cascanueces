@@ -58,7 +58,7 @@ export default function InicioSesion() {
       }
     },
 
-    validateOnChange: true,
+    validateOnChange: false,
   });
   return (
     <div className="modal__inicioSesion__botonCart">
@@ -103,7 +103,7 @@ export default function InicioSesion() {
 
               <form onSubmit={handleSubmit}>
                 <TextField
-                  style={{ width: "500px" }}
+                  style={{ width: "95%" }}
                   name="email"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}
@@ -114,7 +114,7 @@ export default function InicioSesion() {
                   helperText={errors.email}
                 />
                 <TextField
-                  style={{ width: "500px" }}
+                  style={{ width:  "95%" }}
                   name="password"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}

@@ -94,8 +94,12 @@
   cursor: pointer;
   color: white;
 }
-.modal__inicioSesion__botonCart:hover {
-}
+
 .modal__iniciosesion__person {
   width: 25px;
+}
+.botonInicio__cart{
+  justify-content: end;
+  padding-right: 0px;
+  margin-bottom: 50px;
 }

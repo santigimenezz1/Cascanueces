@@ -5,20 +5,20 @@ import Carrito from "../Carrito/Carrito";
 
 import "../Enlaces/enlaces.css";
 
-const Enlaces = () => {
+const Enlaces = ( {setBurguerOn} ) => {
   return (
     <div className="enlaces">
       <ul>
-        <Link className="enlaces__link" to={"/"}>
+        <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/"}>
           Home
         </Link>
-        <Link className="enlaces__link" to={"/categoria"}>
+        <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/categoria"}>
           productos
         </Link>
-        <Link className="enlaces__link" to={"/nosotros"}>
+        <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/nosotros"}>
           nosotros
         </Link>
-        <Link className="enlaces__link" to={"/ayuda"}>
+        <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/ayuda"}>
           ayuda
         </Link>
       </ul>

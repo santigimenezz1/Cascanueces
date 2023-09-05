@@ -7,6 +7,7 @@ import Fade from "@mui/material/Fade";
 import Typography from "@mui/material/Typography";
 import BotonFondoFijo from "../../SectionHome/FondoFijo/BotonFondoFijo/BotonFondoFijo";
 import { CartContext } from "../../../../Context/CartContext";
+import Swal from "sweetalert2";
 
 const style = {
   position: "absolute",
@@ -37,6 +38,17 @@ export default function ModalCart({
 
   const eliminar = (producto) => {
     eliminarOrden(producto);
+    Swal.fire({
+      position: "center",
+      icon: "success",
+      title: "Orden eliminada correctamente !  ",
+      showConfirmButton: true,
+      timer: 4500,
+      customClass: {
+        container: "my-custom-alert", // Clase personalizada para la alerta
+        backdrop: "my-custom-backdrop", // Clase personalizada para el fondo de la alerta
+      },
+    });
     handleClose();
   };
   return (

@@ -24,6 +24,7 @@ import TarjetaFavorito from "../SectionFavorito/TarjetaFavorito/TarjetaFavorito"
 import TarjetaModal from "../SectionMiCuenta/ModalMiCuenta/TarjetaModal/TarjetaModal";
 import NavBar from "../../Layout/NavBar/NavBarMobile/NavBarMobile";
 import MyCarousel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
+import AgregarImagen from "../AgregarImagen/AgregarImagen";
 
 const Home = () => {
   const [data, setData] = useState([]);
@@ -57,10 +58,11 @@ const Home = () => {
 
 
 
-console.log(filtradoAlmendras)
+(filtradoAlmendras)
   return (
     <div className="home">
-      <Carrusel />
+    
+      <Carrusel /> 
       <div className="home__tarjetaMiniCategoria">
         <Link to={"/categoria"}>
           <TarjetaMiniCategoria
@@ -323,6 +325,7 @@ console.log(filtradoAlmendras)
       
       <div>
       </div>
+      
     </div>
   );
 };

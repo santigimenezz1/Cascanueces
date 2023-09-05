@@ -8,7 +8,7 @@
     width: 100%;
     height: 60px;
     padding-left: 10px;
-
+    
   }
   
   .navBar__enlaces {
@@ -53,9 +53,12 @@
     height: 200px;
     background-color: purple;
     border: none;
+    z-index: 10;
   }
  .contenedor__enlaces__mobileOff{
     display: none;
+    
+
  }
   
 

@@ -1,11 +1,13 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
+import {getDownloadURL, getStorage, ref, uploadBytes} from 'firebase/storage'
 import {
   getAuth,
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
   sendPasswordResetEmail,
 } from "firebase/auth";
+import { v4 } from "uuid";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDluRnb_JCozf_uUqMeli4-GnC-yHkziUs",
@@ -18,6 +20,8 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
 export const auth = getAuth(app);
+export const storage = getStorage(app);
+
 
 export const login = async ({ email, password }) => {
   let res = await signInWithEmailAndPassword(auth, email, password);
@@ -52,5 +56,19 @@ export const resetPassword = async (email) => {
   }
 };
 
+export const subirArchivo = async (file) => {
+  const storageRef = ref(storage, v4()); // Genera un ID único para el archivo
+  try {
+    await uploadBytes(storageRef, file);
+    // Obten la URL de descarga del archivo después de subirlo
+    const downloadURL = await getDownloadURL(storageRef);
+
+    // Devuelve la URL de descarga
+    return downloadURL;
+  } catch (error) {
+    console.error("Error al subir el archivo", error);
+    throw error; // Puedes manejar el error en el componente que llama a esta función
+  }
+};
 
 

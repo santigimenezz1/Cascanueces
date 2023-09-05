@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   margin: 20px;
+  
 }
 .cuenta__retroceso h1 {
   font-size: 25px;
@@ -10,6 +11,7 @@
   background-color: white;
   padding-left: 20px;
   margin-top: 20px;
+  margin-bottom: 50px;
 }
 .cuenta__reservas img {
   width: 50px;

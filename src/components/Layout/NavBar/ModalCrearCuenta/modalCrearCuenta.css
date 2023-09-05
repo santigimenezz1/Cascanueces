@@ -78,14 +78,8 @@
 
 
 .loading_crearCuenta {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: rgba(255, 255, 255, 0.7); /* Fondo semitransparente */
-  padding: 20px;
-  border-radius: 4px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+}
+.displayOff{
+  display: none;
 }

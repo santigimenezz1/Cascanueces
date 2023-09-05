@@ -203,6 +203,11 @@
             width: 200px;
           }
 
+          .favorito__tarjetas{
+            padding-left: 0px;
+
+          }
+
           
 
          }
@@ -488,6 +493,12 @@
           justify-content: center;
           margin-bottom: 50px;
 
+        }
+        .botonInicio__cart{
+          justify-content: center;
+        }
+        .container-general-box{
+          height: 200px;
         }
        
         .container-logoSelector{

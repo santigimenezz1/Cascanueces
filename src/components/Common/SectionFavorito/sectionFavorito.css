@@ -7,6 +7,8 @@
   margin-top: 50px;
   gap: 30px;
   padding: 0px 50px 0px 50px;
+
+  
 }
 .favorito__imagen {
   width: 300px;
@@ -27,6 +29,7 @@
   flex-wrap: wrap;
   gap: 20px;
   width: 1200px;
+  padding-left: 50px;
 }
 .container-sinFavoritos {
   display: flex;

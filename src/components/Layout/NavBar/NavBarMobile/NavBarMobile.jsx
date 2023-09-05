@@ -11,7 +11,7 @@ import Carrito from "../Carrito/Carrito";
 
 const NavBarMobile = () => {
   const { usuarioOn, setUsuarioOn, user, setUser } = useContext(CartContext);
-  const [burguerOn, setBurguerOn] = useState(true)
+  const [burguerOn, setBurguerOn] = useState(false)
 
   return (
     <div className="container__navBarMobile">
@@ -50,7 +50,7 @@ const NavBarMobile = () => {
       </div>
       <div  className={burguerOn ? "contenedor__enlaces__mobile" : "contenedor__enlaces__mobileOff"  }>
        <div className="container__enlaces">
-      <Enlaces />
+      <Enlaces setBurguerOn={setBurguerOn} />
       </div>
       </div>
     </div>

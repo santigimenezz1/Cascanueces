@@ -14,7 +14,8 @@ import Swal from "sweetalert2";
 import { addDoc, collection } from "firebase/firestore";
 import Loading from "./Loading/Loading";
 import CloseIcon from "@mui/icons-material/Close";
-import { db } from "../../../../FirebaseConfig";
+import { db } from "../../../../firebaseConfig";
+import LoadingModal from "../../../Common/SectionCart/LoadingModal/LoadingModal";
 
 const styleModalCrear = {
   position: "absolute",
@@ -257,13 +258,7 @@ export default function ModalCrearCuenta({ usuarioOn, setUsuarioOn, setUser }) {
                     acá
                   </span>
                 </h1>
-                <div
-                  className={
-                    loading
-                      ? "loading_crearCuenta"
-                      : "loading_crearCuenta displayOff"
-                  }
-                >
+                <div className={ loading ? "loading_crearCuenta" : "loading_crearCuenta displayOff"}>
                   <Loading />
                 </div>
               </div>

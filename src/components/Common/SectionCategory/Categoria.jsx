@@ -8,6 +8,7 @@ import { useParams } from "react-router-dom";
 import { Skeleton } from "@mui/material";
 import Filtros from "./Filtros/Filtros";
 import EnlacesResponsive from "./EnlacesResponsive/EnlacesResponsive";
+import AgregarImagen from "../AgregarImagen/AgregarImagen";
 
 const Categoria = () => {
   const [data, setData] = useState([]);

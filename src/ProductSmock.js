@@ -9,7 +9,7 @@ export let products = [
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
     categoria: "caldito",
     imagenPrincipal:
-      "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692729406/CASCANUCES%20SALUDABLE/aji-molido-dulce-10b407bb39b9f3c6cd15132618555966-640-0_rgy3x9.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/3ca2e093-0005-4f4f-9a43-bedc45d6e9d2?alt=media&token=1b9df751-2bf5-44ec-b928-d9908fb3cbda",
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692732961/CASCANUCES%20SALUDABLE/9c932122f1e2cb2bcd87d20d3be0400e5b744f2c560514cbd6fbf7e1ae75280b36517_bntvnj.jpg",
   },

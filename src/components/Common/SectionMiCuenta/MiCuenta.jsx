@@ -13,7 +13,7 @@ import {
 import { object } from "yup";
 import ModalMiCuenta from "./ModalMiCuenta/ModalMiCuenta";
 import { CartContext } from "../../../Context/CartContext";
-import { db } from "../../../firebaseConfig";
+import { db } from "../../../firebaseConfig.js";
 
 
 

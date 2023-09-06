@@ -17,7 +17,7 @@ import {
   updateDoc,
   doc,
 } from "firebase/firestore";
-import { db } from "../../../../firebaseConfig";
+import { db } from "../../../../FirebaseConfig";
 import "../ModalFinalizarCompra/modalFinalizarCompra.css";
 import CheckIcon from "@mui/icons-material/Check";
 import { Link, Navigate } from "react-router-dom";

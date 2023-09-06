@@ -14,7 +14,7 @@ import Swal from "sweetalert2";
 import { addDoc, collection } from "firebase/firestore";
 import Loading from "./Loading/Loading";
 import CloseIcon from "@mui/icons-material/Close";
-import { db } from "../../../../firebaseConfig";
+import { db } from "../../../../FirebaseConfig";
 import LoadingModal from "../../../Common/SectionCart/LoadingModal/LoadingModal";
 
 const styleModalCrear = {

@@ -23,7 +23,6 @@ const MyCarousel = ({ filtradoAlmendras, filtradoHelados,filtradoCaldito,filtrad
     }
   };
 
-  console.log(filtradoAlmendras.length);
 
   return (
     <Carousel className="carruselTarjetasMobile"

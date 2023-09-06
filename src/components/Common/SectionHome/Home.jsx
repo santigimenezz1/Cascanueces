@@ -58,7 +58,6 @@ const Home = () => {
 (filtradoAlmendras)
 
 
-console.log(filtradoAlmendras)
 
 
 

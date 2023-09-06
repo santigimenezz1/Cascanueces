@@ -105,7 +105,6 @@ export default function ModalFinalizarCompra() {
 
     validationSchema: Yup.object({
       user_name: Yup.string().required("Este campo es requerido"),
-
       user_email: Yup.string()
         .required("Este campo es requerido")
         .email("debe contener @"),

@@ -1,3 +1,4 @@
+import { db } from "../../../firebaseConfig";
 import { Link } from "react-router-dom";
 import "../SectionMiCuenta/miCuenta.css";
 import WestIcon from "@mui/icons-material/West";
@@ -13,7 +14,8 @@ import {
 import { object } from "yup";
 import ModalMiCuenta from "./ModalMiCuenta/ModalMiCuenta";
 import { CartContext } from "../../../Context/CartContext";
-import { db } from "../../../firebaseConfig.js";
+
+
 
 
 

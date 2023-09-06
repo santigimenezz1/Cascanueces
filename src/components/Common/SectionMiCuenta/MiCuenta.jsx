@@ -1,4 +1,4 @@
-import { db } from "../../../firebaseConfig";
+import { db } from "../../../FirebaseConfig.js";
 import { Link } from "react-router-dom";
 import "../SectionMiCuenta/miCuenta.css";
 import WestIcon from "@mui/icons-material/West";

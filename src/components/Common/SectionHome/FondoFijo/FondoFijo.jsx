@@ -16,7 +16,7 @@ const FondoFijo = () => {
             <h3 style={{ fontSize: "30px" }}>Oroño 1161</h3>
             <h3 className="text__somosCascanuces" >Somos Cascanueces</h3>
           </div>
-          <div>
+          <div className="container__fondoFijo__textFinal">
             <h3 className="text__frutoAmor">
               {" "}
               fruto de mucho amor y trabajo.

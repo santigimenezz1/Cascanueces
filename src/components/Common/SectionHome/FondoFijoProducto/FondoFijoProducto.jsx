@@ -15,8 +15,8 @@ const FondoFijoProducto = () => {
             <h3 className="fondoFijoProducto__direccion" >*Tribunales: Dorrego 1668</h3>
             <h3 className="fondoFijoProducto__direccion2">*Abasto: Viamonte 1275 (Solo compras presenciales)</h3>
           </div>
-          <div>
-            <h3 style={{ fontSize: "25px" }}>
+          <div className="container__fondoFijoProducto__ultimoTexto">
+            <h3 className="" style={{ fontSize: "18px" }}>
               Un espacio fruto de mucho mucho mucho trabajo.
             </h3>
             <h3>Desde hace ya casi 6 años!</h3>

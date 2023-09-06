@@ -48,7 +48,8 @@ export default function ModalMiCuenta({ producto }) {
   return (
     <div>
       <Button
-        style={{ border: "1px solid purple", color: "black" }}
+      className="boton__verReserva"
+        style={{ border: "1px solid purple", color: "black", width:"140px" }}
         onClick={handleOpen}
       >
         Ver reserva

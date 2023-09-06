@@ -13,17 +13,7 @@ import {
 import { object } from "yup";
 import ModalMiCuenta from "./ModalMiCuenta/ModalMiCuenta";
 import { CartContext } from "../../../Context/CartContext";
-try {
-  // Importación problemática
-  const { db } = require("../../../FirebaseConfig"); // Usa destructuración para obtener db
-  // Resto de tu código que utiliza db
-} catch (error) {
-  // Manejo del error (puedes dejarlo vacío o agregar un mensaje de registro)
-  console.error("Error al importar FirebaseConfig:", error);
-}
-
-
-
+import { db } from "../../../FirebaseConfig";
 
 const MiCuenta = () => {
   const [ordenCompra, setOrdenCompra] = useState([]);

@@ -23,8 +23,10 @@ import UserLogin from "../../Layout/NavBar/UserLogin/UserLogin";
 import TarjetaFavorito from "../SectionFavorito/TarjetaFavorito/TarjetaFavorito";
 import TarjetaModal from "../SectionMiCuenta/ModalMiCuenta/TarjetaModal/TarjetaModal";
 import NavBar from "../../Layout/NavBar/NavBarMobile/NavBarMobile";
-import MyCarousel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
 import AgregarImagen from "../AgregarImagen/AgregarImagen";
+import TarjetaCarrusel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
+import CarouselComponent from "./TarjetaCarruselResponsive/TarjetaCarrusel";
+import MyCarousel from "./TarjetaCarruselResponsive/TarjetaCarrusel";
 
 const Home = () => {
   const [data, setData] = useState([]);
@@ -53,12 +55,13 @@ const Home = () => {
     (refrigeracion) => refrigeracion.categoria === "nueces"
   );
 
-
-
-
-
-
 (filtradoAlmendras)
+
+
+console.log(filtradoAlmendras)
+
+
+
   return (
     <div className="home">
     
@@ -166,6 +169,8 @@ const Home = () => {
             <Skeleton variant="rectangular" width={290} height={400} />
           </div>
         )}
+        
+        
 
         {Object.keys(data).length > 0 ? (
           filtradoCaldito.map((producto) => (
@@ -179,7 +184,20 @@ const Home = () => {
             <Skeleton variant="rectangular" width={290} height={400} />
           </div>
         )}
-      </div>
+
+        </div>
+        <div className="container__tarjeta__carrusel__mobile"  >
+        {
+          filtradoCaldito.length > 0 &&
+            <MyCarousel filtradoAlmendras={filtradoCaldito}  />
+        }
+        </div>
+        <div className="container__tarjeta__carrusel__mobile"  >
+        {
+          filtradoHelados.length > 0 &&
+            <MyCarousel filtradoAlmendras={filtradoHelados}  />
+        }
+        </div>
       <FondoFijo />
       <div className="home__tarjetasGrid">
         <Link to={"/categoria"}>
@@ -283,6 +301,7 @@ const Home = () => {
       <h1 className="home__titulo">Productos en oferta</h1>
       <div className="home__tarjetaProducto"></div>
       <div className="home__tarjetaProducto">
+         
         {Object.keys(data).length > 0 ? (
           filtradoNueces.map((producto) => (
             <TarjetaHover key={producto.id} producto={producto} />
@@ -293,8 +312,9 @@ const Home = () => {
             <Skeleton variant="rectangular" width={290} height={400} />
             <Skeleton variant="rectangular" width={290} height={400} />
             <Skeleton variant="rectangular" width={290} height={400} />
-          </div>
+          </div> 
         )}
+       
 
         {Object.keys(data).length > 0 ? (
           filtradoAlmendras.map((producto) => (
@@ -307,22 +327,31 @@ const Home = () => {
             <Skeleton variant="rectangular" width={290} height={400} />
             <Skeleton variant="rectangular" width={290} height={400} />
           </div>
+          
         )}
+       
+      </div>
+      <div className="container__tarjeta__carrusel__mobile"  >
+      {
+        filtradoNueces.length > 0 &&
+          <MyCarousel filtradoAlmendras={filtradoNueces}  />
+      }
+      
+      </div>
+      <div className="container__tarjeta__carrusel__mobile"  >
+      {
+        filtradoAlmendras.length > 0 &&
+          <MyCarousel filtradoAlmendras={filtradoAlmendras}  />
+      }
       </div>
       <div className="home__iconoWhatsapp">
         <IconoWhatsapp />
       </div>
 
       <FormasPago />
-      {
-        Object.keys(data).length > 0 &&
-          <MyCarousel  data={data} />
-      }
       
-       
-      
-      
-      
+     
+    
       <div>
       </div>
       

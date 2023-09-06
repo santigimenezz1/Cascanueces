@@ -72,7 +72,29 @@
       background-color: rgb(246, 246, 246);
       border: 1px solid rgba(128, 0, 128, 0.397);
     }
-
+                                          /*SECTION DETALLE  */
+       .detalle__info {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        
+}
+.detalle__containerTarjetaDetalle {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+.detalle__info__contadorUnidades {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: start;
+  margin-top: 30px;
+}
+                                         
 
     }
 
@@ -207,6 +229,24 @@
             padding-left: 0px;
 
           }
+          .detalle__containerTarjetaDetalle {
+            height: 100%;
+            width: 100%;
+            display: flex;
+           align-items: center;
+           gap: 60px;
+          }
+          .detalle__info__contadorUnidades {
+            display: flex;
+            justify-content: start;
+            flex-direction: column;
+            align-items: start;
+            margin-top: 30px;
+          }
+        
+
+
+     
 
           
 
@@ -570,6 +610,67 @@
           display: block;
           font-size: 20px;
         }
+
+        .detalle__containerTarjetaDetalle {
+          height: 500px;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 5px;
+        }
+        .detalle__info__contadorUnidades {
+          display: flex;
+          justify-content: start;
+          flex-direction: column;
+          align-items: start;
+         
+        }
+        .detalle__info {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 0px;
+         height: 700px;
+        
+        }
+        .detalle__imagen {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+        }
+        .imagen_detalle{
+          width: 300px;
+          height: 300px;
+        }
+        .detalle__tarjetaProductos {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
+          margin-top: 70px;
+          margin-bottom: 30px;
+          gap: 15px;
+        }
+        .detalle__info__contadorUnidades{
+          margin-top: 0px;
+          height: 300px;
+        }
+        .detalle__containerTarjetaDetalle {
+          height: 100%;
+          width: 80%;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+        .detalle__info__caracteristicas{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
         }
 
             
@@ -856,6 +957,21 @@
      
      }
     
+                                           /*TARJETAS PRODUCTO CARRUSEL */
+
+     .container__tarjeta__carrusel__mobile{
+      width:100%;
+      height:550px;
+       padding-left:50px;
+       display: block;
+   }
+   .home__tarjetaProducto{
+    display: none;
+   }
+
+   .home__titulo{
+    font-size: 30px;
+   }
      
     }
 

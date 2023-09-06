@@ -1,45 +1,55 @@
 import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
+import "../TarjetaCarruselResponsive/tarjetaCarrusel.css";
 import TarjetaHover from "../TarjetasHover/TarjetaHover";
-import '../TarjetaCarruselResponsive/tarjetaCarrusel.css'
 
-const MyCarousel = ( {data} ) => {
+const MyCarousel = ({ filtradoAlmendras, filtradoHelados,filtradoCaldito,filtradoNueces, ...props }) => {
   const responsive = {
-    superLargeDesktop: {
-      breakpoint: { max: 4000, min: 3000 },
-      items: 5,
-    },
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
       items: 3,
+      slidesToSlide: 3 // opcional, por defecto es 1.
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
       items: 2,
+      slidesToSlide: 2 // opcional, por defecto es 1.
     },
     mobile: {
       breakpoint: { max: 464, min: 0 },
       items: 1,
-    },
+      slidesToSlide: 1 // opcional, por defecto es 1.
+    }
   };
 
+  console.log(filtradoAlmendras.length);
+
   return (
-    <div className="tarjeta__carrusel" style={{ height:"auto", width:"340px"}}>
-    <Carousel  responsive={responsive}>
-    {
-         Object.keys(data).length > 0 &&(
-         data.map((producto)=>(
-          <div style={{ border:"1px solid red"}} key={producto.id}>
-          <TarjetaHover  producto={producto} />
+    <Carousel className="carruselTarjetasMobile"
+      swipeable={false}
+      draggable={false}
+      showDots={true}
+      responsive={responsive}
+      ssr={true}
+      infinite={true}
+      keyBoardControl={true}
+      customTransition="all 0.5s ease-in-out"
+      transitionDuration={500}
+      containerClass="carousel-container"
+      deviceType={props.deviceType}
+      dotListClass="custom-dot-list-style"
+      itemClass="carousel-item-padding-40-px"
+    >
+      {filtradoAlmendras.length > 0 &&
+        filtradoAlmendras.map((producto) => (
+          <div className="inputs__tarjetaCarrrusel" key={producto.id}>
+            <TarjetaHover producto={producto} />
           </div>
-         ))
-         )
-    }
-     
+        ))}
+
     </Carousel>
-    </div>
-  ); 
+  );
 };
 
 export default MyCarousel;

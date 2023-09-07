@@ -18,12 +18,10 @@ import LoadingCircular from "./LoadingCircular/LoadingCircular";
 import CloseIcon from "@mui/icons-material/Close";
 import ModalRecuperacion from "./ModalRecuperacion/ModalRecuperacion";
 import PermIdentityIcon from '@mui/icons-material/PermIdentity';
+import { CartContext } from "../../../../Context/CartContext";
 
-export default function ModalInicioSesion({
-  usuarioOn,
-  setUsuarioOn,
-  setUser,
-}) {
+export default function ModalInicioSesion() {
+  const { usuarioOn, setUsuarioOn, user, setUser } = React.useContext(CartContext);
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);

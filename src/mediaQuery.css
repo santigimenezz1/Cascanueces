@@ -1113,15 +1113,22 @@
     .tarjetaGrid{
       width: 120px;              /*TARJETAS GRID */
       height: 120px;
-      border: 1px solid red;
    }
    .home__tarjetasGrid {     
-      border: 1px solid red;
       flex-wrap: wrap;
    }
    .tarjetaGrid__titulo{
       font-size: 14px;
    }
+   .home__tarjetasGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: auto;
+    justify-content: center;
+    margin: 100px;
+    width: 90%;
+  }
    
 
 
@@ -1355,6 +1362,8 @@ font-size: 13px;
   gap: 50px;
    
 }
+
+
  
 }
 

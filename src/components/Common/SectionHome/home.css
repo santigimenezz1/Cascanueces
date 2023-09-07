@@ -58,6 +58,7 @@
   width: auto;
   justify-content: center;
   margin: 100px;
+  width: 100%;
 }
 .tarjetaHome__esqueleton {
   display: flex;

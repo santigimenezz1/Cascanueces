@@ -1,28 +1,25 @@
 import * as React from "react";
-import Backdrop from "@mui/material/Backdrop";
-import Box from "@mui/material/Box";
-import Modal from "@mui/material/Modal";
-import Fade from "@mui/material/Fade";
-import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
-import { TextField } from "@mui/material";
-import "../InicioSesion/inicioSesion.css";
-import HighlightOffIcon from "@mui/icons-material/HighlightOff";
+import '../InicioSesion/inicioSesion.css'
 import { useFormik } from "formik";
-import * as Yup from "yup";
-import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
-import { create, login } from "../../../../FirebaseConfig";
+import { login } from "../../../../FirebaseConfig";
+import { Backdrop, Fade, Modal, TextField, Typography } from "@mui/material";
 import Swal from "sweetalert2";
 import ModalCrearCuenta from "../../../Layout/NavBar/ModalCrearCuenta/ModalCrearCuenta";
+import ModalRecuperacion from "../../../Layout/NavBar/ModalInicioSesion/ModalRecuperacion/ModalRecuperacion";
 import { CartContext } from "../../../../Context/CartContext";
+import HighlightOffIcon from "@mui/icons-material/HighlightOff";
+import * as Yup from "yup";
+import CloseIcon from "@mui/icons-material/Close";
 
-export default function InicioSesion() {
-  const { usuarioOn, setUsuarioOn } = React.useContext(CartContext);
-  const [user, setUser] = React.useState({});
+
+
+export default function ModalInicioSesion() {
+  const { usuarioOn, setUsuarioOn, user, setUser } = React.useContext(CartContext);
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
   const [estado, setEstado] = React.useState(false);
+  const [circular, setCircular] = React.useState(false);
 
   const { handleChange, handleSubmit, errors } = useFormik({
     initialValues: {
@@ -42,14 +39,17 @@ export default function InicioSesion() {
         setUser(data);
         let resultado = await login(data);
         if (resultado.user) {
-          setUsuarioOn(!usuarioOn);
-          Swal.fire({
-            position: "center",
-            icon: "success",
-            title: "Ya puedes finalizar tu compra! ",
-            showConfirmButton: true,
-            timer: 3500,
-          });
+          setCircular(true);
+          setTimeout(() => {
+            setUsuarioOn(!usuarioOn);
+            Swal.fire({
+              position: "center",
+              icon: "success",
+              title: "Bienvenido a Cascanueces saludable ! ",
+              showConfirmButton: true,
+              timer: 3500,
+            });
+          }, 2000);
         } else {
           alert("Esta cuenta no existe");
         }
@@ -61,8 +61,10 @@ export default function InicioSesion() {
     validateOnChange: false,
   });
   return (
-    <div className="modal__inicioSesion__botonCart">
-      <button onClick={handleOpen}>Iniciar sesion</button>
+    <div className="modal__inicioSesion__boton">
+      <button className="button__incioSesion__cart " onClick={handleOpen}>
+       <h1>Iniciar sesion</h1>
+      </button>
       <Modal
         aria-labelledby="transition-modal-title"
         aria-describedby="transition-modal-description"
@@ -78,32 +80,53 @@ export default function InicioSesion() {
       >
         <Fade in={open}>
           <div className="container-general-box">
+            <div
+              className={
+                circular
+                  ? "container_loadingCircular"
+                  : "container_loadingCircular displayCircular"
+              }
+            >
+            <div className="loader"></div>
+            </div>
             <div className="container-box">
-              <HighlightOffIcon
+              <CloseIcon
                 onClick={handleClose}
                 className="icon-box"
-                fontSize="medium"
+                fontSize="small"
               />
               <div className="tipografia-box">
                 <Typography
-                  style={{ color: "black" }}
+                  style={{ color: "black", fontSize: "25px" }}
                   id="transition-modal-title"
                   variant="h6"
                   component="h2"
                 >
-                  Iniciar sesion
+                  Iniciar sesión
                 </Typography>
                 <Typography
-                  style={{ color: "black" }}
+                  style={{
+                    color: "purple",
+                    fontSize: "15px",
+                    fontWeight: "200",
+                  }}
                   id="transition-modal-description"
                 >
-                  Para comenzar ingresa tu email
+                  Para comenzar ingresá tu email
                 </Typography>
               </div>
 
-              <form onSubmit={handleSubmit}>
+              <form
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "center",
+                  alignItems: "center",
+                }}
+                onSubmit={handleSubmit}
+              >
                 <TextField
-                  style={{ width: "95%" }}
+                className="input__inicioSesion"
                   name="email"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}
@@ -114,7 +137,8 @@ export default function InicioSesion() {
                   helperText={errors.email}
                 />
                 <TextField
-                  style={{ width:  "95%" }}
+                className="input__inicioSesion"
+                  
                   name="password"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}
@@ -136,6 +160,7 @@ export default function InicioSesion() {
                     setUsuarioOn={setUsuarioOn}
                   />
                 </div>
+                <ModalRecuperacion />
               </form>
             </div>
           </div>
@@ -144,3 +169,4 @@ export default function InicioSesion() {
     </div>
   );
 }
+

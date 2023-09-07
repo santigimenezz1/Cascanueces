@@ -30,9 +30,6 @@ const NavBar = () => {
           <div className="navBar__enlaces__icons__login">
             {usuarioOn ? (
               <UserLogin
-                user={user}
-                usuarioOn={usuarioOn}
-                setUsuarioOn={setUsuarioOn}
               />
             ) : (
               <ModalInicioSesion

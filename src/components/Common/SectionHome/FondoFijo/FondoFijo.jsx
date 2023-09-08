@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../FondoFijo/fondoFijo.css";
 import BotonFondoFijo from "./BotonFondoFijo/BotonFondoFijo";
 
@@ -24,7 +25,9 @@ const FondoFijo = () => {
             <h3>Desde hace ya casi 4 años!</h3>
             <h3>Envíos a todo Rosario, VGG y Fisherton</h3>
           </div>
+          <Link to={'/nosotros'}>
           <BotonFondoFijo text={"Sobre nosotross"} />
+          </Link>
         </div>
       </div>
     </div>

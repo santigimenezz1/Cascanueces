@@ -53,17 +53,18 @@ export default function ModalFinalizarCompra() {
   const form = useRef();
   const sendEmail = () => {
     emailjs
-      .sendForm(
-        "service_pq131eq",
-        "template_0thietb",
-        form.current,
-        "XjMquqg7KQ908ur2Z"
-      )
-      .then(
-        (result) => {},
-        (error) => {}
-      );
-  };
+    .sendForm(
+      "service_pq131eq",
+      "template_0thietb",
+      form.current,
+      "XjMquqg7KQ908ur2Z",
+      
+    )
+    .then(
+      (result) => {},
+      (error) => {}
+    );
+};
 
   const cruzClear = () => {
     clearCart();
@@ -76,15 +77,18 @@ export default function ModalFinalizarCompra() {
       user_email: "",
       user_apellido: "",
       user_telefono: "",
+      user_probando: "probando"
     },
 
     onSubmit: (data) => {
+      console.log(data)
       let order = {
         buyer: data,
         items: cart,
         total: calcularFinal(),
         date: serverTimestamp(),
       };
+     
       setLoading(true);
       setTimeout(() => {
         setLoading(false);
@@ -94,6 +98,7 @@ export default function ModalFinalizarCompra() {
       // CREAR LA ORDEN EN FIREBASE
       const ordersCollection = collection(db, `${user.email}`);
       addDoc(ordersCollection, order).then((res) => setIdCompra(res.id));
+
 
       //MODIFICAR STOCK RECORRO EL CARRITO Y RESTO LA CANTIDAD QUE AGREGO MENOS EL STOCK Y CON UPDATE ACTUALIZO
       cart.forEach((product) => {
@@ -284,6 +289,7 @@ export default function ModalFinalizarCompra() {
                         <div className="container-boton-modal">
                           <button type="submit">Enviar</button>
                         </div>
+                        
                       </div>
                       {loading && <LoadingModal />}
                     </form>

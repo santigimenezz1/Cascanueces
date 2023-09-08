@@ -40,7 +40,6 @@ const TarjetaHoverCarrusel = ({ imagenPrincipal, imagenSecundaria, producto }) =
     <div onMouseOver={() => setImagen(fotoSecundaria)} className="tarjetaHoverCarrusel">
       <Link to={`/detalle/${producto.id}`}>
         <img
-          onClick={() => alert(producto.id)}
           onMouseOut={() => setImagen(fotoPrincipal)}
           className={
             producto.stock > 0

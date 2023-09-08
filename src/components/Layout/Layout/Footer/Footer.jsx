@@ -29,7 +29,7 @@ const Footer = () => {
             style={{ width: "25px", height: "25px" }}
             src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691875953/CASCANUCES%20SALUDABLE/home-automation_m1x9nb.png"
           ></img>
-          <h3>Dorrego 1668</h3>
+          <h3>Oroño 1161</h3>
         </div>
         <div className="footer__contacto__whatsapp">
           <img
@@ -43,7 +43,7 @@ const Footer = () => {
             style={{ width: "25px", height: "25px" }}
             src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691875688/CASCANUCES%20SALUDABLE/correo-electronico_lnhlmm.png"
           ></img>
-          <h1>CascanuecesSaludable@gmail.com</h1>
+          <h1>Cascanueces@gmail.com</h1>
         </div>
       </div>
       <div className="footer__redes">

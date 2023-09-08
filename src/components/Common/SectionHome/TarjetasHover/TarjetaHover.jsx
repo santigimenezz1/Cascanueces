@@ -40,7 +40,6 @@ const TarjetaHover = ({ imagenPrincipal, imagenSecundaria, producto }) => {
     <div onMouseOver={() => setImagen(fotoSecundaria)} className="tarjetaHover">
       <Link to={`/detalle/${producto.id}`}>
         <img
-          onClick={() => alert(producto.id)}
           onMouseOut={() => setImagen(fotoPrincipal)}
           className={
             producto.stock > 0
@@ -84,8 +83,8 @@ const TarjetaHover = ({ imagenPrincipal, imagenSecundaria, producto }) => {
         )}
       </div>
       <div className="tarjetaHover__nombrePrecio">
-        <h3>Crema de almendras 500g</h3>
-        <h3>$2.500</h3>
+        <h3>{producto.nombre}</h3>
+        <h3>{producto.precio}</h3>
       </div>
     </div>
   );

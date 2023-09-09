@@ -9,9 +9,9 @@ export let products = [
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
     categoria: "caldito",
     imagenPrincipal:
-      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/3ca2e093-0005-4f4f-9a43-bedc45d6e9d2?alt=media&token=1b9df751-2bf5-44ec-b928-d9908fb3cbda",
-    imagenSecundaria:
-      "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692732961/CASCANUCES%20SALUDABLE/9c932122f1e2cb2bcd87d20d3be0400e5b744f2c560514cbd6fbf7e1ae75280b36517_bntvnj.jpg",
+    "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692729406/CASCANUCES%20SALUDABLE/images_2_iaw44o.jpg",
+  imagenSecundaria:
+    "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692729406/CASCANUCES%20SALUDABLE/3311-c47f46d571eab459ff16232731149136-640-0-1_nfuvzh.png",
   },
   {
     nombre: "Pimenton por 200g ",
@@ -367,7 +367,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "semillas",
+    categoria: "helados",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692735494/CASCANUCES%20SALUDABLE/SEMILLAS/portada_semillas_lino-t.jpg_yhflo9.webp",
     imagenSecundaria:
@@ -381,7 +381,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "helados",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738248/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/nueces-mariposa-extra-light-x-10kg-venta-mayorista-d_nq_np_845711-mla33012615540_112019-f1-8f48c52c126dfe2d8015946852667264-640-0_aookvo.jpg",
     imagenSecundaria:

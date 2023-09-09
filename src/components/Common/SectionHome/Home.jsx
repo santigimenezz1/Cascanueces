@@ -66,7 +66,7 @@ const Home = () => {
     
       <Carrusel /> 
       <div className="home__tarjetaMiniCategoria">
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/frutosSecos"}>
           <TarjetaMiniCategoria
             titulo={"Frutos secos "}
             imagen={
@@ -74,7 +74,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/cereales"}>
           <TarjetaMiniCategoria
             titulo={"Cereales"}
             imagen={
@@ -82,7 +82,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/granola"}>
           <TarjetaMiniCategoria
             titulo={"Granola"}
             imagen={
@@ -90,7 +90,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/reposteria"}>
           <TarjetaMiniCategoria
             titulo={"Reposteria"}
             imagen={
@@ -98,7 +98,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/salados"}>
           <TarjetaMiniCategoria
             titulo={"Salados"}
             imagen={
@@ -106,7 +106,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/semillas"}>
           <TarjetaMiniCategoria
             titulo={"Semillas"}
             imagen={
@@ -133,25 +133,31 @@ const Home = () => {
       </div>
 
       <div className="home__tarjetaCategoria">
+      <Link to={'/detalle/NuKJM6j3V3smpw56SxxU'}>
+      <TarjetaCategoria
+        imagen={
+          "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/avellana-cruda-pelada-13272331-8c74f78730ee13cbd616455354039316-1024-1024_a6oprw.jpg"
+        }
+        titulo={"Avellanas"}
+      />
+      </Link>
+        <Link to={'/detalle/diOCYllBAuWZgllriMOn'}>
         <TarjetaCategoria
           imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691520563/CASCANUCES%20SALUDABLE/alfajor-nutriraw-nuevo_juzfoy.jpg"
+            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/f894324e-ae36-4fd9-b742-ae093a2cd21f_nube-9b8fa46ea1cca99b7b16009617791612-1024-1024_lmjzha.jpg"
           }
-          titulo={"Dulce"}
+          titulo={"Nueces"}
         />
-        <TarjetaCategoria
-          imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691522883/CASCANUCES%20SALUDABLE/60e1557a-23ca-4eaf-9f8c-77a9892e17b7-300x300_g88q76.jpg"
-          }
-          titulo={"Salado"}
-        />
+        </Link>
         <div className={"tarjetaCategoriaDisplay"}>
+        <Link to={'/detalle/NvRZldpV2ufA2t3cGfsd'}>
         <TarjetaCategoria 
           imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691523142/CASCANUCES%20SALUDABLE/producto-8-adicional-300x300_msratv.jpg"
+            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748460/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/arveja1-c436381c66e3a1944115849157282648-640-0_hppytn.jpg"
           }
-          titulo={"Infaltable"}
+          titulo={"Arvejas"}
         />
+        </Link>
         </div>
       </div>
       <h1 className="home__titulo">Los más elegidos</h1>
@@ -198,8 +204,9 @@ const Home = () => {
         }
         </div>
       <FondoFijo />
+      <h1 className="titulo__comeSano">Comé sano, viví mejor :)</h1>
       <div className="home__tarjetasGrid">
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/frutosSecos"}>
           <TarjetaGrid
             titulo={"Frutos secos "}
             imagen={
@@ -207,7 +214,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/hierbas"}>
           <TarjetaGrid
             titulo={"Hierbas"}
             imagen={
@@ -215,7 +222,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/frutasDesecadas"}>
           <TarjetaGrid
             titulo={"Frutas desecadas"}
             imagen={
@@ -223,7 +230,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/cereales"}>
           <TarjetaGrid
             titulo={"Cereales"}
             imagen={
@@ -231,7 +238,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/granola"}>
           <TarjetaGrid
             titulo={"Granola"}
             imagen={
@@ -239,7 +246,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/legumbresArroz"}>
           <TarjetaGrid
             titulo={"Legumbres y arroz"}
             imagen={
@@ -247,7 +254,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/salados"}>
           <TarjetaGrid
             titulo={"Salados"}
             imagen={
@@ -255,7 +262,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/sales"}>
           <TarjetaGrid
             titulo={"Sales"}
             imagen={
@@ -263,7 +270,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/pastaMani"}>
           <TarjetaGrid
             titulo={"Pastas de mani"}
             imagen={
@@ -271,7 +278,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/harinaAvena"}>
           <TarjetaGrid
             titulo={"Harina y avenas"}
             imagen={
@@ -279,7 +286,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/reposteria"}>
           <TarjetaGrid
             titulo={"Reposteria"}
             imagen={
@@ -287,7 +294,7 @@ const Home = () => {
             }
           />
         </Link>
-        <Link to={"/categoria"}>
+        <Link to={"/categoria/galletitasSinSal"}>
           <TarjetaGrid
             titulo={"Galletitas"}
             imagen={

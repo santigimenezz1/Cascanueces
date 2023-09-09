@@ -681,6 +681,9 @@
           justify-content: center;
           align-items: center;
         }
+        .navBarMobile{
+          display: flex;
+        }
         }
 
             

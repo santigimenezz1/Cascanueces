@@ -1,4 +1,4 @@
-import "../TarjetaFormaPago/tarjetaFormaPago.css";
+import "../TarjetaFormaPago/TarjetaFormaPago.css";
 const TarjetaFormaPago = ({ imagen, titulo }) => {
   return (
     <div className="formasPago">

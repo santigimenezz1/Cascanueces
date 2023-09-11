@@ -78,7 +78,7 @@ const MiCuenta = () => {
           usuarioOn &&
           ordenCompra.map((producto) => (
             <>
-              <div className="container__reserva">
+              <div className="container__reserva" key={producto.id}>
                 <div className="cuenta__reservas__container-reserva">
                   <h1 className="fontf"> N reserva: {producto.id}</h1>
                   <h1 className="fontf">

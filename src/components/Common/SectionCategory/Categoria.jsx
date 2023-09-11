@@ -3,7 +3,12 @@ import "../SectionCategory/categoria.css";
 import EnlacesCategoria from "./EnlacesCategoria/EnlacesCategoria";
 import TarjetaHoverCategoria from "./TarjetaCategory/TarjetaCategory";
 import { db } from "../../../FirebaseConfig";
-import { collection, getDocs, query, where } from "firebase/firestore";
+import {
+  collection,
+  onSnapshot, // Importa onSnapshot para escuchar cambios en tiempo real
+  query,
+  where,
+} from "firebase/firestore";
 import { useParams } from "react-router-dom";
 import { Skeleton } from "@mui/material";
 import Filtros from "./Filtros/Filtros";
@@ -14,58 +19,52 @@ const Categoria = () => {
   const [data, setData] = useState([]);
   const { categoria } = useParams();
 
-  const filtro = [...data];
-
   useEffect(() => {
-    let productsColecction = collection(db, "products");
+    const productsCollection = collection(db, "products");
     let consulta;
     if (categoria) {
-      consulta = query(productsColecction, where("categoria", "==", categoria));
+      consulta = query(productsCollection, where("categoria", "==", categoria));
     } else {
-      consulta = productsColecction;
+      consulta = productsCollection;
     }
-    getDocs(consulta).then((res) => {
-      let productos = res.docs.map((doc) => {
-        return { ...doc.data(), id: doc.id };
-      });
+
+    // Crea un oyente en la consulta para obtener datos en tiempo real
+    const unsubscribe = onSnapshot(consulta, (querySnapshot) => {
+      const productos = querySnapshot.docs.map((doc) => ({
+        ...doc.data(),
+        id: doc.id,
+      }));
       setData(productos);
     });
+
+    // Devuelve una función de limpieza para detener el oyente cuando el componente se desmonta
+    return () => unsubscribe();
   }, [categoria]);
 
-  const newData = [...data];
   const mayorMenor = (data) => {
-    setData(data.sort((a, b) => a.precio - b.precio));
+    setData([...data].sort((a, b) => a.precio - b.precio));
   };
+
   const menorMayor = (data) => {
-    setData(data.sort((a, b) => b.precio - a.precio));
+    setData([...data].sort((a, b) => b.precio - a.precio));
   };
 
   const filtrarEstado = (valor) => {
-    const filtrado = data.filter((producto) => valor === data.nombre);
+    const filtrado = data.filter((producto) => valor === producto.nombre);
     setData(filtrado);
   };
+
   return (
     <div className="categoria">
       <div className="categoria__enalcesCategoria">
-      <EnlacesResponsive />
-        <EnlacesCategoria
-        
-          filtro={filtro}
-          filtrarEstado={filtrarEstado}
-          data={data}
-          setData={setData}
-        />
-        
+        <EnlacesResponsive />
+        <EnlacesCategoria filtro={data} filtrarEstado={filtrarEstado} data={data} />
       </div>
       <div className="categoria__tarjetaProductos">
         <h1>{categoria}</h1>
         <div className="categoria__tarjetaProductos__filtros">
           <h2>Mostrar resultados: {data.length}</h2>
-          <Filtros
-            mayorMenor={mayorMenor}
-            menorMayor={menorMayor}
-            newData={newData}
-          />
+          <Filtros mayorMenor={mayorMenor} menorMayor={menorMayor} newData={data} />
         </div>
 
         <div className="categoria__tarjetaProductos__tarjetas">
@@ -75,18 +74,9 @@ const Categoria = () => {
             ))
           ) : (
             <>
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
-              <Skeleton variant="rectangular" width={220} height={350} />
+              {Array(12).fill().map((_, index) => (
+                <Skeleton key={index} variant="rectangular" width={220} height={350} />
+              ))}
             </>
           )}
         </div>

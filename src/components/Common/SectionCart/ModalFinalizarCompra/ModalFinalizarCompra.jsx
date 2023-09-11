@@ -88,6 +88,16 @@ export default function ModalFinalizarCompra() {
         total: calcularFinal(),
         date: serverTimestamp(),
       };
+
+      let pedido = {
+        buyer: data,
+        items: cart,
+        total: calcularFinal(),
+        date: serverTimestamp(),
+        user
+      };
+
+
       setLoading(true);
       setTimeout(() => {
         setLoading(false);
@@ -97,6 +107,10 @@ export default function ModalFinalizarCompra() {
       // CREAR LA ORDEN EN FIREBASE
       const ordersCollection = collection(db, `${user.email}`);
       addDoc(ordersCollection, order).then((res) => setIdCompra(res.id));
+
+      // CREAR LA ORDEN EN FIREBASE
+      const pedidosCollection = collection(db, `pedidos`);
+      addDoc(pedidosCollection, pedido).then((res) => setIdCompra(res.id));
 
       //MODIFICAR STOCK RECORRO EL CARRITO Y RESTO LA CANTIDAD QUE AGREGO MENOS EL STOCK Y CON UPDATE ACTUALIZO
       cart.forEach((product) => {

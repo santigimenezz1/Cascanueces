@@ -104,6 +104,17 @@
   margin-top: 30px;
  
 }
+.favorito__imagen {
+  width:250px;
+}
+.favorito__titulo {
+  font-size: 40px;
+}
+.favorito__tarjetas{
+  justify-content: start;
+  width: auto;
+}
+
                                          
 
     }

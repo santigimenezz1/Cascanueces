@@ -218,7 +218,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Hierbas"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788033/CASCANUCES%20SALUDABLE/KoRo-Nussmuse-Nusscreme-Bio-Qualita_CC_88t-gesund-vegan-ohne-Zuckerzusatz-gu_CC_88nstig-online-kaufen-bestellen-1kg-5kg_bbkhmw.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692801805/CASCANUCES%20SALUDABLE/HIERVAS/farmacia-angulo-blog-58_aoxfnj.webp"
             }
           />
         </Link>
@@ -226,7 +226,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Frutas desecadas"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788114/CASCANUCES%20SALUDABLE/KoRo-gewu_CC_88rzte-Nu_CC_88sse-pikant-gero_CC_88stet-gesalzen-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_iexbmb.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742176/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/Arandanos-desecados-e1591445229705_e1thvq.jpg"
             }
           />
         </Link>
@@ -234,7 +234,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Cereales"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788191/CASCANUCES%20SALUDABLE/KoRo-Nussmischung-Nussmix-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_id334u.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692744077/CASCANUCES%20SALUDABLE/CEREALES/d_nq_np_758184-mla42735306467_072020-o1-af69ab170adb82d38e16353799434227-640-0_hdbfmg.jpg"
             }
           />
         </Link>
@@ -242,7 +242,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Granola"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788211/CASCANUCES%20SALUDABLE/KoRo-Schokonu_CC_88sse-schokolierte-Nu_CC_88sse-mit-Schokoladenu_CC_88berzug-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_ipjsnu.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692746636/CASCANUCES%20SALUDABLE/GRANOLA/receta-basica-granola-casera_1_sepaks.jpg"
             }
           />
         </Link>
@@ -250,7 +250,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Legumbres y arroz"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748449/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_29_aw5ekf.jpg"
             }
           />
         </Link>
@@ -258,7 +258,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Salados"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804092/CASCANUCES%20SALUDABLE/BIO_Kokosmilch_01_icjeh7.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692752394/CASCANUCES%20SALUDABLE/SALADOS/Maiz-tostado1_y0gmmy.webp"
             }
           />
         </Link>
@@ -266,7 +266,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Sales"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804080/CASCANUCES%20SALUDABLE/MANG_003_NEU_03_hydzcx.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692754721/CASCANUCES%20SALUDABLE/SALES/SAL-ROSADA-DEL-HIMALAYA_r8jalr.jpg"
             }
           />
         </Link>
@@ -274,7 +274,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Pastas de mani"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788016/CASCANUCES%20SALUDABLE/KoRo-Naturbelassene-Nu_CC_88sse-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen-onlineshop-ohne-Zucker-ohne-Salz-ohne-Gewu_CC_88rz_q7wze2.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/download_46_zwwdrj.jpg"
             }
           />
         </Link>
@@ -282,7 +282,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Harina y avenas"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691804485/CASCANUCES%20SALUDABLE/CREME_001_01_AK_e76hgy.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815332/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-de-almendras1-4d993e44b85fbeb45c15887161412979-640-0_r0ce3h.jpg"
             }
           />
         </Link>
@@ -290,7 +290,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Reposteria"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807928/CASCANUCES%20SALUDABLE/RIEGEL_11_01_plmabt.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692817602/CASCANUCES%20SALUDABLE/REPOSTERIA/download_52_ixxctm.jpg"
             }
           />
         </Link>
@@ -298,7 +298,7 @@ const Home = () => {
           <TarjetaGrid
             titulo={"Galletitas"}
             imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691807991/CASCANUCES%20SALUDABLE/BLISS_021_04_la6aic.jpg"
+              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692892500/CASCANUCES%20SALUDABLE/GALLETITAS%20SIN%20SAL/screenshot_20210722-225217_2-11-4830c6ba0e376181c716273331020955-640-0_wg5nrr.png"
             }
           />
         </Link>

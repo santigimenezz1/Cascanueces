@@ -116,7 +116,7 @@ export default function ModalCrearCuenta({ usuarioOn, setUsuarioOn, setUser }) {
         }}
       >
         <Fade in={open}>
-          <Box sx={styleModalCrear}>
+          <div className="stylesModalCrear"  sx={styleModalCrear}>
             <div className="container-box">
               <CloseIcon
                 onClick={handleClose}
@@ -264,7 +264,7 @@ export default function ModalCrearCuenta({ usuarioOn, setUsuarioOn, setUser }) {
               </div>
             </form>
           </div>
-        </Box>
+        </div>
       </Fade>
     </Modal>
   </div>

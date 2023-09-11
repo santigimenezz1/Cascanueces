@@ -87,3 +87,15 @@
 .displayOff{
   display: none;
 }
+.stylesModalCrear{
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 500px;
+height: auto;
+background-color: white; /* Cambia var(--background-paper) por el color deseado */
+padding: 16px; /* Asumiendo que deseas un padding de 16px (equivalente a 4 en píxeles) */
+border-radius: 4px;
+border: none;
+}

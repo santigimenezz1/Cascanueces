@@ -3,7 +3,6 @@ import { styled } from "@mui/material/styles";
 import RadioGroup, { useRadioGroup } from "@mui/material/RadioGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Radio from "@mui/material/Radio";
-import "../TarjetaSelectorPago/tarjetaSelectorPago.css"
 import Logo from "../../../Layout/NavBar/Logo/Logo";
 
 const StyledFormControlLabel = styled((props) => (

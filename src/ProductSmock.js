@@ -5268,7 +5268,7 @@ export let products = [
   //Galletitas ----------------------------------------------------------------------
 
   {
-    nombre: "barritas Integra x42g: Almendra y nuez",
+    nombre: "coockies integrales La Francia x 200g: algarroba y lino",
     precio: 3100,
     stock: 10,
     home: true,
@@ -5276,10 +5276,520 @@ export let products = [
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
     categoria: "yerbas",
     imagenPrincipal:
-      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226434_barra-de-cereal-integra-de-almendra-y-nuez-x-42-g_imagen-1.png?alt=media&token=40866ea0-a356-478a-ab2c-f176b8079ec6",
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F1_1000x1000.jpg?alt=media&token=9390eecc-1686-4223-8aa0-3f66f84a6204",
     imagenSecundaria:
-      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/barra-de-cereal-integra-banana-y-nuez-x-42-g.jpg?alt=media&token=51ad25a9-a480-4b0c-a390-87918e8e7233",
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F1_1000x1000.jpg?alt=media&token=9390eecc-1686-4223-8aa0-3f66f84a6204",
   },
+  {
+    nombre: "coockies integrales La Francia x 200g: vainilla y pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F118476553_3462092963814309_93508832131211452_o.jpg?alt=media&token=fac1eb0c-3829-4efd-a0a8-e7eaa674325b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F118476553_3462092963814309_93508832131211452_o.jpg?alt=media&token=fac1eb0c-3829-4efd-a0a8-e7eaa674325b",
+  },
+  {
+    nombre: "coockies integrales La Francia x 200g: limón y chia",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload.jfif?alt=media&token=f28e1579-20ef-4f9c-888f-17cbf3839a21",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fe0f4b8fcc0ba9adeefe927d89e5b050847925426eac3e979355bbae1e49f26ec11222.jpeg?alt=media&token=31a0c1f5-cc6a-4508-8623-9dd8073fadf8",
+  },
+  {
+    nombre: "coockies integrales La Francia x 200g: naranja y lino",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload.jfif?alt=media&token=3064a9c4-402c-4802-a5c0-e76d5f3e1567",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(12).jfif?alt=media&token=ce40946e-c686-4e89-a859-578d3dc89039",
+  },
+  {
+    nombre: "coockies integrales La Francia x 200g: , chocolate y mani",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FCOOKIESINTEGRALESDECHOCOLATEYMANIX200GRS-LAFRANCIA_1400x%20(1).PNG?alt=media&token=44559212-afb6-472e-bbe9-261528d526e2",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(3).jfif?alt=media&token=f6e843e8-4d63-4400-ae8c-8f0a92dd5cda",
+  },
+  {
+    nombre: "Pepas integrales La Francia x 250g : algarroba y membrillo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepas-algarroba-la-francia1-cdd720c14e2ed817fd16588633585891-480-0.jpg?alt=media&token=b6328e76-74a2-4eef-974e-261eaf14e2bd",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepas-algarroba-la-francia1-cdd720c14e2ed817fd16588633585891-480-0.jpg?alt=media&token=b6328e76-74a2-4eef-974e-261eaf14e2bd",
+  },
+  {
+    nombre: "Pepas integrales La Francia x 250g : batata y chia",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepa-membrillo.jpg?alt=media&token=aa14108f-4f3c-4b5e-8a6c-e1c8c65d8034",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepa-membrillo.jpg?alt=media&token=aa14108f-4f3c-4b5e-8a6c-e1c8c65d8034",
+  },
+  {
+    nombre: "Pepas integrales La Francia x 250g : membrillo y chia",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FWhatsApp-Image-2023-08-10-at-13.26.40.jpeg?alt=media&token=c4ecdc89-255b-4dcf-899e-60960cb9dbbc",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FWhatsApp-Image-2023-08-10-at-13.26.40.jpeg?alt=media&token=c4ecdc89-255b-4dcf-899e-60960cb9dbbc",
+  },
+  {
+    nombre: "Galletas dulces integrales Sanat x180g: multisemilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmulticereal.jpg?alt=media&token=e7d2a720-94b7-4c38-b145-8406b92dbd8d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmulticereal.jpg?alt=media&token=e7d2a720-94b7-4c38-b145-8406b92dbd8d",
+  },
+  {
+    nombre: "Galletas dulces integrales Sanat x180g: algarroba y sesamo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
+  },
+  {
+    nombre: "Galletas dulces integrales Sanat x180g: avena y coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
+  },
+  {
+    nombre: "Marineras Sanat x180g: chia",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(2).jfif?alt=media&token=3d85192d-6ea2-48c8-94de-ca026477cd6d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(2).jfif?alt=media&token=3d85192d-6ea2-48c8-94de-ca026477cd6d",
+  },
+  {
+    nombre: "Marineras Sanat x180g: lino",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
+  },
+  
+  {
+    nombre: "Marineras Sanat x180g: lino",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
+  },
+  {
+    nombre: "Marineras Sanat x180g: sesamo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FDSC_0711-copy.jpg?alt=media&token=9a520a97-f284-4c7e-9782-332c333d4f11",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FDSC_0711-copy.jpg?alt=media&token=9a520a97-f284-4c7e-9782-332c333d4f11",
+  },
+  {
+    nombre: "Grisines saborizados Sanat x180g: multisemilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
+  },
+  {
+    nombre: "Grisines saborizados Sanat x180g: multisemilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
+  },
+  {
+    nombre: "Grisines saborizados Sanat x180g: finas hierbas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F06bf6d40-63c1-11ed-9566-efd4ba0ff2bc%20(1).png?alt=media&token=a78b0ea1-7eef-4d18-bd7d-8410c55d2363",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F06bf6d40-63c1-11ed-9566-efd4ba0ff2bc%20(1).png?alt=media&token=a78b0ea1-7eef-4d18-bd7d-8410c55d2363",
+  },
+  {
+    nombre: "Coockies dulces Meltaim x150g: limón y frutos rojos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Flimon-y-frutilla1-4d22f91e240d4ef6ba16025375336002-640-01-41f9b5eff17ca9400716548294858764-640-0.jpg?alt=media&token=4a0bba65-13fe-4cdc-b427-3bc7630e410f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Flimon-y-frutilla1-4d22f91e240d4ef6ba16025375336002-640-01-41f9b5eff17ca9400716548294858764-640-0.jpg?alt=media&token=4a0bba65-13fe-4cdc-b427-3bc7630e410f",
+  },
+  {
+    nombre: "Coockies dulces Meltaim x150g: avena y coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies_avena-y-coco%20(1).png?alt=media&token=d6c42521-e959-4947-bc29-cc56157170ce",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies_avena-y-coco%20(1).png?alt=media&token=d6c42521-e959-4947-bc29-cc56157170ce",
+  },
+  {
+    nombre: "Coockies dulces Meltaim x150g: avena y pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmeltaim-avena-y-pasas.jpg?alt=media&token=3345afe5-c3d3-487d-93c3-e1db0df028e5",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmeltaim-avena-y-pasas.jpg?alt=media&token=3345afe5-c3d3-487d-93c3-e1db0df028e5",
+  },
+  {
+    nombre: "Coockies dulces Meltaim x150g: Cacao y chips de chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcacao-y-chips1-ef4ed28b106811a37116025373661676-1024-10241-dbc935a200e266034d16547441734022-240-0.jpg?alt=media&token=f54f446a-99f6-4df2-8a27-f1ca459d66b0",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcacao-y-chips1-ef4ed28b106811a37116025373661676-1024-10241-dbc935a200e266034d16547441734022-240-0.jpg?alt=media&token=f54f446a-99f6-4df2-8a27-f1ca459d66b0",
+  },
+  {
+    nombre: "Coockies dulces Meltaim x150g: , vainilla y chips de chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fvainilla-y-chips1-90d174c636f81043f316025300885184-640-01-2449196ed8f88283e416548296228951-640-0.jpg?alt=media&token=88d72148-6823-4354-ab66-1e4a45268767",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fvainilla-y-chips1-90d174c636f81043f316025300885184-640-01-2449196ed8f88283e416548296228951-640-0.jpg?alt=media&token=88d72148-6823-4354-ab66-1e4a45268767",
+  },
+  {
+    nombre: "Snacks saladas Meltaim x 150g : queso crema y cebolla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrema-y-cebolla1-267495aec114e75b1916475172154801-1024-1024.jpg?alt=media&token=970994d7-0f13-4359-8555-eb440e34152d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrema-y-cebolla1-267495aec114e75b1916475172154801-1024-1024.jpg?alt=media&token=970994d7-0f13-4359-8555-eb440e34152d",
+  },
+  {
+    nombre: "Snacks saladas Meltaim x 150g : queso y finas hierbas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(5).jfif?alt=media&token=3d5e3cd1-12cc-4619-9b93-091d41dfaa1b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(5).jfif?alt=media&token=3d5e3cd1-12cc-4619-9b93-091d41dfaa1b",
+  },
+  {
+    nombre: "Snacks saladas Meltaim x 150g : oliva",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
+  },
+  {
+    nombre: "Snacks saladas Meltaim x 150g : oliva",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
+  },
+  {
+    nombre: "Cookies dulces Integra x120g : limón y amapola",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies-limon-y-amapola1-552c83cf8ecb19390316093424377283-640-01-6d6f061ec5fa85a94b16155815832902-240-0.png?alt=media&token=270ab1fd-6d7b-4a70-8920-c57d3d96a2f1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies-limon-y-amapola1-552c83cf8ecb19390316093424377283-640-01-6d6f061ec5fa85a94b16155815832902-240-0.png?alt=media&token=270ab1fd-6d7b-4a70-8920-c57d3d96a2f1",
+  },
+  {
+    nombre: "Cookies dulces Integra x120g : almedra y coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_649786-MLU71081798280_082023-O.png?alt=media&token=026f69f4-a56e-4a68-b85d-bb0ca38c9715",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_649786-MLU71081798280_082023-O.png?alt=media&token=026f69f4-a56e-4a68-b85d-bb0ca38c9715",
+  },
+  {
+    nombre: "Cookies dulces Integra x120g : chocolate y avellanas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_761751-MLU71119668347_082023-O.png?alt=media&token=3ca8735b-e2bc-467f-a493-24ecf94d2ff6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_761751-MLU71119668347_082023-O.png?alt=media&token=3ca8735b-e2bc-467f-a493-24ecf94d2ff6",
+  },
+  {
+    nombre: "Crackers saladas Integra x120g: semillas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-semillas-5-e1656601356528.png?alt=media&token=3d9b1c2b-3936-437a-83cc-89a594d9f78e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-semillas-5-e1656601356528.png?alt=media&token=3d9b1c2b-3936-437a-83cc-89a594d9f78e",
+  },
+  {
+    nombre: "Crackers saladas Integra x120g: parmesano",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-parmesano1-2b70a202e63cbc4bee16503668826606-640-0.jpg?alt=media&token=b6f7f007-05f6-48bd-912a-f1e3dfb46244",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-parmesano1-2b70a202e63cbc4bee16503668826606-640-0.jpg?alt=media&token=b6f7f007-05f6-48bd-912a-f1e3dfb46244",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: algarroba y mani",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(8).jfif?alt=media&token=4abb165c-e7c8-4eb0-b73f-920be9f6d9eb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(8).jfif?alt=media&token=4abb165c-e7c8-4eb0-b73f-920be9f6d9eb",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: corazones de jengibre y miel",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(9).jfif?alt=media&token=98810d2e-60d9-4388-8627-016b399bb5b4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(9).jfif?alt=media&token=98810d2e-60d9-4388-8627-016b399bb5b4",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: muesli",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(10).jfif?alt=media&token=236bf19e-4a46-4356-8fe0-d47bf8e6a429",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(10).jfif?alt=media&token=236bf19e-4a46-4356-8fe0-d47bf8e6a429",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: palitos de anís",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcorazones-jengibre-y-miel-editada-1-380x38011-acdae3cf72b66fd9d916243045370070-640-0.png?alt=media&token=546d53d8-5364-420f-98a7-8f7dd97f6c35",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcorazones-jengibre-y-miel-editada-1-380x38011-acdae3cf72b66fd9d916243045370070-640-0.png?alt=media&token=546d53d8-5364-420f-98a7-8f7dd97f6c35",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FnARA.png?alt=media&token=7a6fc800-6fcf-4edd-953d-1e29c268b671",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FnARA.png?alt=media&token=7a6fc800-6fcf-4edd-953d-1e29c268b671",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(13).jfif?alt=media&token=1150b31e-5673-4653-9147-505c4d291cdd",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fe0f4b8fcc0ba9adeefe927d89e5b050847925426eac3e979355bbae1e49f26ec11222.jpeg?alt=media&token=d45ac421-38c2-4e80-9edc-c276c0bc5cbc",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(14).jfif?alt=media&token=7541b043-14aa-42ad-9588-b030ecc3c88a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(14).jfif?alt=media&token=7541b043-14aa-42ad-9588-b030ecc3c88a",
+  },
+  {
+    nombre: "Galletitas integrales dulces Murke x250g:pepas de membrillo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepasmembrillo.png?alt=media&token=9d61c2f7-9e71-4866-a478-6bf158b236bc",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepasmembrillo.png?alt=media&token=9d61c2f7-9e71-4866-a478-6bf158b236bc",
+  },
+  
+  
   
   
   

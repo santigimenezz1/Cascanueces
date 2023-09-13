@@ -239,7 +239,13 @@ export let products = [
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692732340/CASCANUCES%20SALUDABLE/oregano_c29e7db2_230316103212_1200x630_1_bxtqul.jpg",
   },
 
-  //SEMILLAS
+
+
+
+  //SEMILLAS --------------------------------------------------------------------------------------
+ 
+ 
+ 
   {
     nombre: "Semillas de girasol por 200g ",
     precio: 2500,
@@ -373,6 +379,8 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692735494/CASCANUCES%20SALUDABLE/SEMILLAS/6VJXGAJKDFAVPESM3MW743O4AA_m2vqzh.webp",
   },
+
+  //FRUTOS SECOS ----------------------------------------------------------------------
 
   {
     nombre: "Nueces mariposa extra light ",
@@ -547,7 +555,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738245/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/mix-frutos-secos-salado_ihsz9u.jpg",
   },
-
+//FRUTOS DESECADAS ----------------------------------------------------------------------
   {
     nombre: "Arandanos por 200g ",
     precio: 4200,
@@ -655,7 +663,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742261/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/download_16_piigum.jpg",
   },
-
+//CEREALES ----------------------------------------------------------------------
   {
     nombre: "Almohaditas de frutilla  ",
     precio: 4200,
@@ -843,7 +851,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692744209/CASCANUCES%20SALUDABLE/CEREALES/images_9_qdljxh.jpg",
   },
-
+//GRANOLA ----------------------------------------------------------------------
   {
     nombre: "Granola integral",
     precio: 3100,
@@ -963,7 +971,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692746675/CASCANUCES%20SALUDABLE/GRANOLA/integra_granola_clasica_350gr_almaverdesaludable_ykbg0k.jpg",
   },
-
+//LEGUMBES Y ARROZ ----------------------------------------------------------------------
   {
     nombre: "Lenteja",
     precio: 3100,
@@ -1190,7 +1198,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748455/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/7c9856ca-71d4-489a-bd69-548ff725b197_16-9-discover-aspect-ratio_default_0_ydy6sl.jpg",
   },
-
+//SALADOS ----------------------------------------------------------------------
   {
     nombre: "Mani saborizado",
     precio: 3100,
@@ -1271,7 +1279,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692752458/CASCANUCES%20SALUDABLE/SALADOS/palitos-de-pan-con-oregano_bhklfx.jpg",
   },
-
+//LECHES VEGETALES ----------------------------------------------------------------------
   {
     nombre: "Leche de almendras pampa vida original",
     precio: 3100,
@@ -1392,7 +1400,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753783/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/Bebida-Vegetal-Notmilk-Original-1l-1-879818_xc6uxe.webp",
   },
-
+//SALES ----------------------------------------------------------------------
   {
     nombre: "Sal rosada del himalaya",
     precio: 3100,
@@ -1499,7 +1507,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692754838/CASCANUCES%20SALUDABLE/SALES/sal-imagem2_jrscra.jpg",
   },
-
+//HIERBAS ----------------------------------------------------------------------
   {
     nombre: "Manzanilla",
     precio: 3100,
@@ -1645,7 +1653,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692801908/CASCANUCES%20SALUDABLE/HIERVAS/download_45_mtjung.jpg",
   },
-
+//PASTA DE MANI ----------------------------------------------------------------------
   {
     nombre: "Pasta de maní Entre nuts x370g: Natural",
     precio: 3100,
@@ -1725,7 +1733,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/MANTEQUILLA_2_1_rvvlms.jpg",
   },
-
+//HARINA Y AVENA ----------------------------------------------------------------------
   {
     nombre: "Harina de almendras con piel",
     precio: 3100,
@@ -1950,7 +1958,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815515/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/Trigo-Burgol-672x372_xva2it.jpg",
   },
-
+//REPOSTERIA ----------------------------------------------------------------------
   {
     nombre: "Gelatina sin sabor",
     precio: 3100,
@@ -2135,7 +2143,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692817660/CASCANUCES%20SALUDABLE/REPOSTERIA/download_57_snhsqp.jpg",
   },
-
+//MIEL ----------------------------------------------------------------------
   {
     nombre: "Miel santa rita",
     precio: 3100,
@@ -2204,7 +2212,7 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692819445/CASCANUCES%20SALUDABLE/REPOSTERIA/dulce-de-leche-entrenuts-sin-azucar1-4994ce5a7ca53cd03516575699793219-640-0_hadget.jpg",
   },
-
+//TOSTADAS Y GALLETAS ----------------------------------------------------------------------
   {
     nombre: "tostadas de arroz sin t.a.c.c. Molinos Ala x150g: clásicas",
     precio: 3100,
@@ -2481,4 +2489,2826 @@ export let products = [
     imagenSecundaria:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692892500/CASCANUCES%20SALUDABLE/GALLETITAS%20SIN%20SAL/screenshot_20210722-225217_2-11-4830c6ba0e376181c716273331020955-640-0_wg5nrr.png",
   },
+  //YERBAS ----------------------------------------------------------------------
+  {
+    nombre: "Yerba Antiácida orgánica ajedrez sin palo x 500 gr ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/631-a4cfdebf4019e3339815886366236275-480-0.png?alt=media&token=e87740ea-4209-4c8c-b57d-2d625e2fd45c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/631-a4cfdebf4019e3339815886366236275-480-0.png?alt=media&token=e87740ea-4209-4c8c-b57d-2d625e2fd45c",
+  },
+  {
+    nombre: "Verdeflor antiácida x500gr Hierbas serranas",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images.jfif?alt=media&token=a3ba60bc-12f1-46a1-813c-b60c692d2e9d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/1690679019175.webp?alt=media&token=a90538e8-0fc0-4ca3-aa35-9b2fad2fe9fc",
+  },
+  {
+    nombre:  "Verdeflor antiácida x500gr Naranja",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Verdeflor-NARANJA-500-FRENTE-3-CON-SOMBRA-scaled.jpg?alt=media&token=1e4dc416-609c-48b5-b390-25bfb14b8499",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/NARANJA%20(1).webp?alt=media&token=bbf34dfb-9a94-4a1b-b0f8-e30e4f393078",
+  },
+  {
+    nombre: "Verdeflor antiácida x500gr Boldo",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Verdeflor-BOLDO-500-FRENTE-3-CON-SOMBRA-scaled%20(1).jpg?alt=media&token=5bf6dc02-1d3a-45d5-8b22-5833e6480f82",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/221371_yerba-mate-verdeflor-boldo-x-500-g__imagen-1.png?alt=media&token=8909d8b5-ad59-44e7-89db-c5cd46aa4ca1",
+  },
+  {
+    nombre:  "Verdeflor antiácida x500gr Cedron",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=79b895dd-d67e-436f-8bcd-3c3caa3448db",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=79b895dd-d67e-436f-8bcd-3c3caa3448db",
+  },
+  {
+    nombre: "Verdeflor antiácida x500gr Melisa",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/melisa.png?alt=media&token=13d29e41-2a25-463b-a188-929067ac80b9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yerba-Melisa-Verdeflor-500-gr-1-12917.png?alt=media&token=1d16145f-2bea-4251-bbeb-d88fa94989b5",
+  },
+  {
+    nombre: "Verdeflor antiácida x500gr Peperina",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Verdeflor-PEPERINA-500-FRENTE-3-CON-SOMBRA-scaled.jpg?alt=media&token=5d4b8bf7-531e-4b9b-b2e8-994a589f0ed0",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/1690679121959.webp?alt=media&token=3f7196e6-132b-44b4-8058-298fd305d76b",
+  },
+  {
+    nombre: "Don Arregui x500gr cedron",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cedron1-a11a15e714b7aa1bb516581935377750-640-0.png?alt=media&token=33f8a7bd-d63b-4cb0-8036-e9870ae88570",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/21387_imagen_812x812xrecortarxagrandar.jpg?alt=media&token=cd884ee1-8860-41b9-ba4e-c01dafd17b34",
+  },
+  {
+    nombre: "Don Arregui x500gr Boldo y poleo",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=82d1e341-be01-4e19-94a3-c713ee56b3f8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=82d1e341-be01-4e19-94a3-c713ee56b3f8",
+  },
+
+  {
+    nombre: "Don Arregui x500gr Burrito",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(2).jfif?alt=media&token=2c0085c6-e5d3-4170-bfb0-99a08146ccd1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/2010384_f.jpg?alt=media&token=15481713-4a3f-433f-957d-b456e93023de",
+  },
+
+  {
+    nombre: "Don Arregui x500gr Hierbas serranas",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_657990-MLA51528880768_092022-O%20(1).png?alt=media&token=18c284f7-da39-4847-83c3-db6759cacab2",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_657990-MLA51528880768_092022-O%20(1).png?alt=media&token=18c284f7-da39-4847-83c3-db6759cacab2",
+  },
+
+  {
+    nombre: "Don Arregui x500gr cedron",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cedron1-a11a15e714b7aa1bb516581935377750-640-0.png?alt=media&token=33f8a7bd-d63b-4cb0-8036-e9870ae88570",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/21387_imagen_812x812xrecortarxagrandar.jpg?alt=media&token=cd884ee1-8860-41b9-ba4e-c01dafd17b34",
+  },
+
+  {
+    nombre: "Antiacida organica Tahiang x500gr",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2020-04-01-at-18-42-481-efc1c8acf7263a4ce815857782715287-1024-1024.jpeg?alt=media&token=5f42a8b3-e97b-4100-bdde-9d93f280d380",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_986332-MLA50098447487_052022-O.webp?alt=media&token=65ba0e50-8e29-4c3e-a0f4-943810cc74bd",
+  },
+
+
+  //ALFAJORES Y GOLOSINAS SIN AGREGADOS DE AZUCAR ----------------------------------------------------------------------
+  {
+    nombre: "Alfajores Murke x45g: integral con dulce de leche ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
+  },
+  {
+    nombre: "Alfajores Murke x45g: integral con chocolate y dulce de leche ",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
+  },
+  {
+    nombre:"Barritas de arroz Murke x12g: chocolate con sesamo",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+  },
+  {
+    nombre:"Barritas de arroz Murke x12g: chocolate con Amaranto",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+  },
+  {
+    nombre:"Barritas de arroz Murke x12g: chocolate con Chia",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
+  },
+  {
+    nombre: "Alfajores sin t.a.c.c. Cerro Azul x55g: dulce de leche",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=6b171a71-dbf9-4b4c-9922-c9a7f1c202ec",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=6b171a71-dbf9-4b4c-9922-c9a7f1c202ec",
+  },
+  {
+    nombre: "Caramelos Icy x35g: mentol",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O.webp?alt=media&token=ae06c673-0ab0-4181-b28c-c940889aca53",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O.webp?alt=media&token=ae06c673-0ab0-4181-b28c-c940889aca53",
+  },
+  {
+    nombre: "Caramelos Icy x35g: maracuya",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=5110642c-6de0-4fe8-a228-732727fbef6e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=5110642c-6de0-4fe8-a228-732727fbef6e",
+  },
+  {
+    nombre: "Caramelos Icy x35g:(sin t.a.c.c.) menta",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=c8d4dec0-4b2a-4df3-987b-f7ac50b8455a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=c8d4dec0-4b2a-4df3-987b-f7ac50b8455a",
+  },
+
+  {
+    nombre: "Caramelos Icy x35g:(sin t.a.c.c.) sandia",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=16379a1e-a74a-44fa-a5da-48ab551d7262",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=16379a1e-a74a-44fa-a5da-48ab551d7262",
+  },
+
+  {
+    nombre: "Caramelos Icy x35g:(sin t.a.c.c.) ananá",
+    precio: 3100,
+    stock: 4,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=1986bc29-c1dc-4825-9283-c5dc7a5a063f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=1986bc29-c1dc-4825-9283-c5dc7a5a063f",
+  },
+
+
+  //GALLETITAS SIN T.A.A.C. ----------------------------------------------------------------------
+  {
+    nombre: "Galletitas dulces Frank’s x120g: limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-limon1-c75627bdbd8190fc9b16825495369359-640-0.webp?alt=media&token=512f9a66-b19f-4380-9add-0617a8d4ab16",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=23bfff09-aafc-4619-bc73-08f5a8b9b478",
+  },
+
+  {
+    nombre: "Galletitas dulces Frank’s x120g: chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_924094-MLU70036381836_062023-O.webp?alt=media&token=fd017594-c215-45c7-907c-8c74d39e52f3",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=6c0a04ec-a3a0-4361-adf5-2b363a9b12ea",
+  },
+
+  {
+    nombre: "Galletitas dulces Frank’s x120g: vainilla con chips de chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=38ae0d93-7aaf-4b4a-b43f-566fba4c2051",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=082c19f4-49eb-4743-a17c-514f0503b174",
+  },
+
+  {
+    nombre: "Galletitas dulces Aldana x 160g: galletas dulces",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-dulces-aldana.jpg?alt=media&token=6822d16c-699c-443f-8bdf-1c2919af4beb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-dulces-aldana.jpg?alt=media&token=6822d16c-699c-443f-8bdf-1c2919af4beb",
+  },
+
+  {
+    nombre: "Galletitas dulces Aldana x 160g: galletas piropos con chispas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=1ae5870d-7b67-4e44-9463-079639494b7b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=1ae5870d-7b67-4e44-9463-079639494b7b",
+  },
+
+  {
+    nombre: "Galletitas dulces Aldana x 160g: Dulces piropos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2021-09-09-at-15-56-261-7e983d1c2a13fa0fbd16312772782686-640-0.jpeg?alt=media&token=6d1fad7c-ea8a-4d6d-8261-d0eb529e14ef",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2021-09-09-at-15-56-261-7e983d1c2a13fa0fbd16312772782686-640-0.jpeg?alt=media&token=6d1fad7c-ea8a-4d6d-8261-d0eb529e14ef",
+  },
+
+  {
+    nombre: "Galletitas dulces Aldana x 160g: triángulos azucarados",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_triangulos_azucarados_878x%20(1).png?alt=media&token=5fdb0f13-9554-496c-949d-2eeec4f8a490",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_triangulos_azucarados_878x%20(1).png?alt=media&token=5fdb0f13-9554-496c-949d-2eeec4f8a490",
+  },
+
+  {
+    nombre: "Galletitas dulces Aldana x 160g: Bizcochitos dulces",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_bizcochitosdulcesfinallogo.jpg?alt=media&token=a80d6c30-b1fb-4e6f-94c8-beaab9ae397d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_bizcochitosdulcesfinallogo.jpg?alt=media&token=a80d6c30-b1fb-4e6f-94c8-beaab9ae397d",
+  },
+
+  {
+    nombre: "Galletitas saladas Aldana x160g : galateas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_Galateas_700x.png?alt=media&token=220cce63-6007-4402-b69d-35b05774b31d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_Galateas_700x.png?alt=media&token=220cce63-6007-4402-b69d-35b05774b31d",
+  },
+
+  {
+    nombre: "Galletitas saladas Aldana x160g : bizcochitos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(6).jfif?alt=media&token=d939bb1a-6441-49f2-8576-1391e20183f1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(6).jfif?alt=media&token=d939bb1a-6441-49f2-8576-1391e20183f1",
+  },
+
+  {
+    nombre: "Galletitas saladas Aldana x160g : saladas con orégano",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_oreganofinallogo.jpg?alt=media&token=35375a44-e2bd-433d-86fa-ce4d775bae46",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_oreganofinallogo.jpg?alt=media&token=35375a44-e2bd-433d-86fa-ce4d775bae46",
+  },
+
+  {
+    nombre: "Galletitas dulces Smams x200g: chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chocoSMAMS200.jpg?alt=media&token=2ad044b7-c55f-47bc-aa23-96c12fb5d219",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/213234_galletas-dulce-smams-choco-x-250-gr_imagen-1.webp?alt=media&token=9b48926b-5597-41f8-9e7d-511503ce2255",
+  },
+
+  {
+    nombre: "Smams veggie x120g : coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cod67.polvorones.veggie.coco.jpg?alt=media&token=94356ce7-5117-42a3-8695-a2e741887fc8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/228970_polvorones-smams-coco-veggies-x-120-g_imagen-1.png?alt=media&token=2b8b9bb6-0243-45dc-9f6d-599c0d65e3c5",
+  },
+
+  {
+    nombre: "Palmeritas Naquet x160g",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_665044-MLU69692597728_052023-O.webp?alt=media&token=2188b424-246a-40a5-8791-52dd8db6b51f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_665044-MLU69692597728_052023-O.webp?alt=media&token=2188b424-246a-40a5-8791-52dd8db6b51f",
+  },
+
+  {
+    nombre: "Smams crackers sin sal x150g",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crackers-sin-sal-smams1-6fb8526c09cedf70a416298483736535-640-0.jpg?alt=media&token=4800c2d9-f7e1-4381-adb1-e11f055e9f9c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=aa8f6a75-cf1f-4241-9f12-7898a3bfd977",
+  },
+
+
+  //GALLETITAS SIN AZUCAR ----------------------------------------------------------------------
+  {
+    nombre: "galletitas integrales sin agregado de azúcar Ceral x180g: avena y pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas.webp?alt=media&token=d95432aa-8cde-4082-b70e-0b3621084e05",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas.webp?alt=media&token=d95432aa-8cde-4082-b70e-0b3621084e05",
+  },
+
+  {
+    nombre: "galletitas integrales sin agregado de azúcar Ceral x180g: naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja%20(1).jpg?alt=media&token=e2989d86-50be-4705-b075-73eac6d5cea1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja%20(1).jpg?alt=media&token=e2989d86-50be-4705-b075-73eac6d5cea1",
+  },
+  {
+    nombre: "galletitas integrales sin agregado de azúcar Ceral x180g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(1).jfif?alt=media&token=9526fe24-eb91-42ed-a499-ffd711386401",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(1).jfif?alt=media&token=9526fe24-eb91-42ed-a499-ffd711386401",
+  },
+  {
+    nombre: "galletitas integrales sin agregado de azúcar Ceral x180g: limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/limon_700x.jpg?alt=media&token=9920fb4c-1380-48fb-882b-be855960315d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/limon_700x.jpg?alt=media&token=9920fb4c-1380-48fb-882b-be855960315d",
+  },
+  {
+    nombre: "galletitas integrales sin agregado de azúcar Ceral x180g: semillas y pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/thumb.png?alt=media&token=dd9ff160-5463-4921-89ac-b7c3da1a25f3",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/thumb.png?alt=media&token=dd9ff160-5463-4921-89ac-b7c3da1a25f3",
+  },
+
+  {
+    nombre: "Galletitas sin agregado de azúcar Ceral x190g: avena y pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas%20(1).jpg?alt=media&token=1fafac81-ac7e-4422-991d-5ef5fff9629c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas%20(1).jpg?alt=media&token=1fafac81-ac7e-4422-991d-5ef5fff9629c",
+  },
+  {
+    nombre: "Galletitas sin agregado de azúcar Ceral x190g: naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja.webp?alt=media&token=22184b14-bce4-4e24-bbd0-f84cd50539c8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja.webp?alt=media&token=22184b14-bce4-4e24-bbd0-f84cd50539c8",
+  },
+
+  {
+    nombre: "Galletitas sin agregado de azúcar Ceral x190g: avena y semillas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/avena1-52ee2e77644de9016016324998184386-640-0.jpg?alt=media&token=0661094c-b571-4eae-8552-29a333b2e661",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/avena1-52ee2e77644de9016016324998184386-640-0.jpg?alt=media&token=0661094c-b571-4eae-8552-29a333b2e661",
+  },
+
+  {
+    nombre: "Galletitas sin agregado de azúcar y sal Ceral Teisty x190g: avena",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+  },
+  {
+    nombre: "Galletitas sin agregado de azúcar y sal Ceral Teisty x190g: pasas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+  },
+  {
+    nombre: "Galletitas sin agregado de azúcar y sal Ceral Teisty x190g: nueces",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+  },
+  {
+    nombre: "Galletitas sin agregado de azúcar y sal Ceral Teisty x190g: mani y castañas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
+  },
+
+
+  //ALFAJORES, BARRITAS Y COLOSINAS SIN TACC ----------------------------------------------------------------------
+  {
+    nombre: "Alfajores Frank’s x50g chocolate, mousse de limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Screenshot_3-4.png?alt=media&token=4daaf78e-9b13-4a6e-a857-ac15fa148f7b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_929478-MLA49278631228_032022-O.webp?alt=media&token=04a25fce-daf8-4983-8db2-ce199b109a10",
+  },
+  {
+    nombre: "Alfajores Frank’s chocolate y frutos del bosque",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=cdf37f5b-5fdb-40fa-b57f-7ee6e3130087",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=cdf37f5b-5fdb-40fa-b57f-7ee6e3130087",
+  },
+  {
+    nombre: "Alfajores Frank’s x50g chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frank01_1-67a4d48687d60658de16406942714001-640-0.jpg?alt=media&token=4af999bf-9530-4e6f-862b-bb11d83168df",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frank01_1-67a4d48687d60658de16406942714001-640-0.jpg?alt=media&token=4af999bf-9530-4e6f-862b-bb11d83168df",
+  },
+  {
+    nombre: ". Bocaditos Frank’s x40g: dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_645112-MLA46214615829_052021-O.png?alt=media&token=66c0fe90-3422-4eab-99ff-b37357871ce1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_645112-MLA46214615829_052021-O.png?alt=media&token=66c0fe90-3422-4eab-99ff-b37357871ce1",
+  },
+  {
+    nombre: "Alfajores Celienergy x50g: nuez",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222857_alfajor-de-nuez-celienergy-relleno-de-dulce-de-leche-x-50-g_imagen-1.png?alt=media&token=f15d3025-511a-4ce1-b3c2-85973b46e0b8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222857_alfajor-de-nuez-celienergy-relleno-de-dulce-de-leche-x-50-g_imagen-1.png?alt=media&token=f15d3025-511a-4ce1-b3c2-85973b46e0b8",
+  },
+  {
+    nombre: "Alfajores Celienergy x50g: zapallo y algarroba",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222856_alfajor-celienergy-algarroba-zapallo-y-relleno-de-dulce-de-leche-x-50-g_imagen-1%20(1).png?alt=media&token=82910842-cf2e-4b62-b356-e3c47c665603",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222856_alfajor-celienergy-algarroba-zapallo-y-relleno-de-dulce-de-leche-x-50-g_imagen-1%20(1).png?alt=media&token=82910842-cf2e-4b62-b356-e3c47c665603",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/BARRITA-DE-ARROZ-SABOR-CHOCOLATE-CROWIE.jpg?alt=media&token=dc781d3b-b097-46b1-9c23-488f65978980",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/BARRITA-DE-ARROZ-SABOR-CHOCOLATE-CROWIE.jpg?alt=media&token=dc781d3b-b097-46b1-9c23-488f65978980",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/BARRITA-CROWIE-FRUTILLA.jpg?alt=media&token=e9928699-0950-4d60-90e0-850fd425c918",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_876465-MLA49702586765_042022-O.png?alt=media&token=57aef1c5-27d9-403f-93f9-7cd9b083e919",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/86979.jpg?alt=media&token=5bfe7982-3443-4ff6-a802-199702dddac2",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crowie-coco1-8b67b09c9a9f8f5c4616021902390216-640-0.jpg?alt=media&token=9234ae5e-996f-439b-807d-3c4726476353",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/86977.jpg?alt=media&token=cc89a1e8-257c-406b-ad49-b053f34b42db",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/20210129_182832-01-scaled.png?alt=media&token=6eda21bb-3b98-4206-80f4-a3a99a67d1ee",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: marroc",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/5921-3d225792e3010379e016079867827791-640-0.jpg?alt=media&token=e98f9fa7-1635-468d-b98c-77993c1cfb7c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=01d7fb34-761f-4bfa-b472-6cf1f8124a39",
+  },
+  {
+    nombre: "Barritas de arroz Crowie x12g: chocolate blanco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=55c66568-7f0d-4a01-8506-66b290db83c1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_655426-MLA51111003376_082022-O.png?alt=media&token=059a2e25-f6a1-4637-927d-8d39d58e87af",
+  },
+  {
+    nombre: ". Snack dulce Crowie minibars x50g: frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocofrutilla_crowie_50gr_thumb1.jpg?alt=media&token=766f4e81-f4ad-4c0a-a7d9-49795e6ab13a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/maxresdefault.jpg?alt=media&token=be89a0e3-0331-4fb0-8fc4-0f66a7726820",
+  },
+  {
+    nombre: ". Snack dulce Crowie minibars x50g: limon",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_1_thumb1.jpg?alt=media&token=94f2f718-73d4-40f6-90d0-108b6c2b17cb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_1_thumb1.jpg?alt=media&token=94f2f718-73d4-40f6-90d0-108b6c2b17cb",
+  },
+  {
+    nombre: ". Snack dulce Crowie minibars x50g: chocomani",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_thumb1.jpg?alt=media&token=a0e089b6-582b-4c18-b3ac-e3536e7da2b2",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_thumb1.jpg?alt=media&token=a0e089b6-582b-4c18-b3ac-e3536e7da2b2",
+  },
+  {
+    nombre: "Alfajores de arroz Lulemuu x26g: yogurt y vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor-frutilla_02.png?alt=media&token=af85d60c-0428-4f01-b20b-50041db100ed",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor-frutilla_02.png?alt=media&token=af85d60c-0428-4f01-b20b-50041db100ed",
+  },
+  {
+    nombre: "Alfajores de arroz Lulemuu x26g: limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Screenshot_3-4.png?alt=media&token=b429b9ab-0974-4334-90ae-63a1c1e4c68e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_929478-MLA49278631228_032022-O.webp?alt=media&token=ed3d4085-279f-427c-a557-13b3d19ffe58",
+  },
+  {
+    nombre: "Alfajores de arroz Lulemuu x26g: dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
+  },
+  {
+    nombre: "Alfajores Aldana x50g: hojaldre y dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
+  },
+  {
+    nombre: "Alfajores Aldana x50g: hojaldre y dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfsantaf11-62e1829ca04af8dcd916192068390187-240-0.jpg?alt=media&token=9c866984-1a95-4ea0-b718-9e88841f43b5",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfsantaf11-62e1829ca04af8dcd916192068390187-240-0.jpg?alt=media&token=9c866984-1a95-4ea0-b718-9e88841f43b5",
+  },
+  {
+    nombre: "Alfajores Aldana x50g: hojaldre y membrillo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfcampero11-32eaf5015b3acff1a616192068125045-640-0.jpg?alt=media&token=1a784efa-5d28-4be4-bb4b-cb200b366740",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfcampero11-32eaf5015b3acff1a616192068125045-640-0.jpg?alt=media&token=1a784efa-5d28-4be4-bb4b-cb200b366740",
+  },
+  {
+    nombre: "Oblea mulemuu x15g: avellanas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Cubanito-de-Arroz-Lulemuu-Negro-con-avellana-15-Gr-_1.png?alt=media&token=e6e15af8-ab89-4c1e-857e-a63fcf6589a6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=a6934617-0195-4afd-99ba-dba84766a4f7",
+  },
+
+    //Alfajores y golosinas sin agregado de azúcar ----------------------------------------------------------------------
+
+    {
+      nombre: "Alfajores Murke x45g: integral con dulce de leche",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
+    },
+    {
+      nombre: "Alfajores Murke x45g: integral de chocolate con dulce de leche",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
+    },
+    {
+      nombre: "Barritas de arroz Murke x12g: chocolate con sesamo",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
+    },
+    {
+      nombre: "Barritas de arroz Murke x12g: amaranto y chia",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
+    },
+    {
+      nombre: "Alfajores sin t.a.c.c. Cerro Azul x55g: dulce de leche",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=aed2aa1f-0581-43db-8f2d-28ea479df75c",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=aed2aa1f-0581-43db-8f2d-28ea479df75c",
+    },
+    {
+      nombre: "Caramelos Icy x35g: mentol",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O%20(1).png?alt=media&token=dc26ce19-47af-420e-8517-8c8f8d7d40c7",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O%20(1).png?alt=media&token=dc26ce19-47af-420e-8517-8c8f8d7d40c7",
+    },
+    {
+      nombre: "Caramelos Icy x35g: maracuyá",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=54ccbc04-48a2-4db4-9d1b-0e5ef6e6c037",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=54ccbc04-48a2-4db4-9d1b-0e5ef6e6c037",
+    },
+    {
+      nombre: "Caramelos Icy x35g: (sin t.a.c.c.) menta",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=8b20af07-5426-4e1c-a289-6372f0e0b181",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=8b20af07-5426-4e1c-a289-6372f0e0b181",
+    },
+    {
+      nombre: "Caramelos Icy x35g: (sin t.a.c.c.) sandia",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=f10eadfd-6757-4ff7-9ea8-432047aa8c44",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=f10eadfd-6757-4ff7-9ea8-432047aa8c44",
+    },
+    {
+      nombre: "Caramelos Icy x35g: (sin t.a.c.c.) ananá",
+      precio: 3100,
+      stock: 10,
+      home: true,
+      caracteristica1: "crema de almendras con proteina",
+      caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+      categoria: "yerbas",
+      imagenPrincipal:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=74d94913-db5d-4b98-b191-cff2e5ca72de",
+      imagenSecundaria:
+        "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=74d94913-db5d-4b98-b191-cff2e5ca72de",
+    },
+  
+  //Snacks sin t.a.c.c ----------------------------------------------------------------------
+
+  {
+    nombre: "tostaditas Molino Ala x 100g: arroz y arvejas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/7791120100406_02.PNG?alt=media&token=fe9cabee-fefa-47a2-9fb8-e1ec65fdf483",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/7791120100406_02.PNG?alt=media&token=fe9cabee-fefa-47a2-9fb8-e1ec65fdf483",
+  },
+  {
+    nombre: "tostaditas Molino Ala x 100g: arroz y garbanzos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-05-19-at-7-44-38-pm1-922ad506713c127b8c16530485960144-640-0.jpeg?alt=media&token=88a7e31e-3397-4ac9-b171-c713d7314ab0",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-05-19-at-7-44-38-pm1-922ad506713c127b8c16530485960144-640-0.jpeg?alt=media&token=88a7e31e-3397-4ac9-b171-c713d7314ab0",
+  },
+  {
+    nombre: "Snack salado miniarrocitas x53g: finas hierbas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0277-1.png?alt=media&token=702ff0d1-4f38-435a-8152-ae7f28ee2156",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0277-1.png?alt=media&token=702ff0d1-4f38-435a-8152-ae7f28ee2156",
+  },
+  {
+    nombre: "Snack salado miniarrocitas x53g: queso romano",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/MINI-ARROCITAS-QUESO-ROMANO.jpg?alt=media&token=0a8c72bc-61ee-4c52-9991-d342868a7c3b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/MINI-ARROCITAS-QUESO-ROMANO.jpg?alt=media&token=0a8c72bc-61ee-4c52-9991-d342868a7c3b",
+  },
+  {
+    nombre: "Snack dulces Miniarrocitas x53g : choco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/miniarrocitaschoco1-1c88a48b72c46a6cb716222481103574-640-0.png?alt=media&token=f1c86cf9-d6db-47ec-bb97-e5651fb8a321",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/miniarrocitaschoco1-1c88a48b72c46a6cb716222481103574-640-0.png?alt=media&token=f1c86cf9-d6db-47ec-bb97-e5651fb8a321",
+  },
+  {
+    nombre: "Snack dulces Miniarrocitas x53g : caramelo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0278-1.png?alt=media&token=e8e0a133-1029-4058-a356-fe56633e090e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0278-1.png?alt=media&token=e8e0a133-1029-4058-a356-fe56633e090e",
+  },
+  {
+    nombre: "Snacks salados Nuetros Sabores x80g : chips de papas c/ pimienta negra y sal marina",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=5a06cf02-8620-4fb4-8381-67190a54df1d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=5a06cf02-8620-4fb4-8381-67190a54df1d",
+  },
+  {
+    nombre: "chips de batatitas con sal marina",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chips_batatas_y_sal_marina_x_80_g_sin_tacc_nuestros_sabores.png?alt=media&token=28e3baa8-6078-4cdc-b5fc-51b49c2dccdb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chips_batatas_y_sal_marina_x_80_g_sin_tacc_nuestros_sabores.png?alt=media&token=28e3baa8-6078-4cdc-b5fc-51b49c2dccdb",
+  },
+  {
+    nombre: "chips de batatas con berken patagonico",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/271970830_2081334675357493_8305872941662752572_n.jpg?alt=media&token=7d03d34a-bdf7-4481-8501-f30c3ebf7e77",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-911-092a75493d62a6bfd916518613291471-640-01-dc33e94752a197c28616553213755787-640-0.png?alt=media&token=c711ae5a-6a98-4a68-bed7-2b01a786cbd5",
+  },
+  {
+    nombre: "chips de remolachas, batatas y sal marina",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/remolacha.jpg?alt=media&token=cb95593e-6f41-422a-ae2d-4ce74455ba0a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chips_remolachas_y_batata_x_80_g_sin_tacc_nuestros_sabores.png?alt=media&token=698b0040-8a66-402b-a20b-9e23719dc400",
+  },
+  {
+    nombre: "chips de zanahoria con sal marina",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=cc00c60f-ce21-4f53-ac50-d5360c9137cb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/zanahoria11-bcf5bf5076c4ef269316742227918766-640-0.jpg?alt=media&token=a3809dfd-08a0-4831-b93d-a8f0e2276c3f",
+  },
+  {
+    nombre: "tortilla chips de maíz y chia",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=35f8d41d-044e-4373-8434-8f0b823c78f1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=35f8d41d-044e-4373-8434-8f0b823c78f1",
+  },
+  {
+    nombre: "Snaks de arroz Crowie x50g: pizza",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=0ecd6f8d-62bf-441d-a3af-33b0adb60d1c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=0ecd6f8d-62bf-441d-a3af-33b0adb60d1c",
+  },
+  {
+    nombre: "Snack de arroz salados Don Marcos x80g : cheddar",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-cheddar1-ecdea19f4d4682e99116364720978226-640-0.jpeg?alt=media&token=10bff3bb-7dc5-4dfb-a61f-446621786c89",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-arroz.jpg?alt=media&token=f607eead-db07-4d45-8505-e0b8e3a6bba1",
+  },
+  {
+    nombre: "Snack de arroz salados Don Marcos x80g :finas hierbas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-hierbas1-541c989724d1e76dca16364722904621-640-0.jpeg?alt=media&token=9be8e653-fc09-4974-bf4e-bc54a0c5e046",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-arroz.jpg?alt=media&token=f607eead-db07-4d45-8505-e0b8e3a6bba1",
+  },
+  {
+    nombre: "Snack de arroz salados Don Marcos x80g : mediterráneo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snack-mediterraneo1-11309b3b2f0a0cd92e16364726083929-640-0.jpeg?alt=media&token=c65978c5-13bb-4c4d-9838-3fde0d4d0290",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-arroz.jpg?alt=media&token=f607eead-db07-4d45-8505-e0b8e3a6bba1",
+  },
+  {
+    nombre: "Snack salados Integra x90g: nachos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=8eb55957-ad5d-4ca8-82eb-5373798f3864",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=8eb55957-ad5d-4ca8-82eb-5373798f3864",
+  },
+  {
+    nombre: "Snack salados Netsal x250g: nachos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/zzz131-796400b955488fdacd16226504629809-480-0.jpg?alt=media&token=3ade59d5-8c4c-4c35-bda9-ba8f9e66d708",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/nachos%20ketsal.jpg?alt=media&token=5c73446d-9c77-4149-b001-31ef96c1493d",
+  },
+  
+  //Heladera ----------------------------------------------------------------------
+
+  {
+    nombre: "Tofu soyana orgánico x350gr",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Tofu-Soyana-768x768-1.png?alt=media&token=39fc9cf2-8e3e-4a6d-b72d-0a16b9d01790",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Tofu-Soyana-768x768-1.png?alt=media&token=39fc9cf2-8e3e-4a6d-b72d-0a16b9d01790",
+  },
+  {
+    nombre: "Yogurth: Dahi natural ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogur-Dahi-Descremado-Sabor-Natural-200g-1-30318.png?alt=media&token=b3d93d04-d657-4463-a66c-81cde96233a6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogur-Dahi-Descremado-Sabor-Natural-200g-1-30318.png?alt=media&token=b3d93d04-d657-4463-a66c-81cde96233a6",
+  },
+  {
+    nombre: "Yogurth: con colchon de frutilla ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Entero-Dahi-Con-Colchon-De-Frutilla-200-Gr-1-14228.png?alt=media&token=9a16b413-3d32-4fa2-a120-a40fe2ffd10a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Entero-Dahi-Con-Colchon-De-Frutilla-200-Gr-1-14228.png?alt=media&token=9a16b413-3d32-4fa2-a120-a40fe2ffd10a",
+  },
+  {
+    nombre: "Yogurth: con colchon de frutos del bosque ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/500635-500-auto.png?alt=media&token=daca9f9c-f8d5-4fef-a778-ed55dda5274a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/500635-500-auto.png?alt=media&token=daca9f9c-f8d5-4fef-a778-ed55dda5274a",
+  },
+  {
+    nombre: "Yogurth: con colchon de ciruela ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ciruelass.png?alt=media&token=81f0f329-8443-408d-a9ad-2e9ebd15c2eb",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ciruelass.png?alt=media&token=81f0f329-8443-408d-a9ad-2e9ebd15c2eb",
+  },
+  {
+    nombre: "Yogurth: con colchon de limon ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Dahi-con-Frutas-Descremado-Limon.png?alt=media&token=fd453aab-0e77-4780-b3e4-f7794dc81407",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Dahi-con-Frutas-Descremado-Limon.png?alt=media&token=fd453aab-0e77-4780-b3e4-f7794dc81407",
+  },
+  {
+    nombre: "Yogurth: con colchon de durazno ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/77981368701321-15e1a00c66b3df842316837509717383-1024-1024.jpg?alt=media&token=61848191-4d1d-4152-abe3-f41991ea1cbf",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/77981368701321-15e1a00c66b3df842316837509717383-1024-1024.jpg?alt=media&token=61848191-4d1d-4152-abe3-f41991ea1cbf",
+  },
+  {
+    nombre: "Yogurth: con colchon de mango y maracuya ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Descremado-Dahi-Con-Colchon-De-Maracuya-Y-Mango-200-Gr-1-7279.png?alt=media&token=af5c193a-41d2-4769-9943-f227536af82d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Descremado-Dahi-Con-Colchon-De-Maracuya-Y-Mango-200-Gr-1-7279.png?alt=media&token=af5c193a-41d2-4769-9943-f227536af82d",
+  },
+  {
+    nombre: "Crudda coco natural frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/coco-iogo-sabor-frutilla-sin-azucar-agregada-crudda.jpg?alt=media&token=db42585a-dd0a-40d5-83e4-fdb5f3bb2a83",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/coco-iogo-sabor-frutilla-sin-azucar-agregada-crudda.jpg?alt=media&token=db42585a-dd0a-40d5-83e4-fdb5f3bb2a83",
+  },
+  {
+    nombre: "Crudda coco natural arandanos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/351-5162505a875e20f29315962164605934-640-0.png?alt=media&token=ea798a73-3ce9-4b86-877e-d2a165ffd840",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/351-5162505a875e20f29315962164605934-640-0.png?alt=media&token=ea798a73-3ce9-4b86-877e-d2a165ffd840",
+  },
+  {
+    nombre: "Crudda coco natural maracuya",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crudda-coco-y-maracuya.png?alt=media&token=a7f206d5-f76d-43b8-a712-2cdb533bf5c4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crudda-coco-y-maracuya.png?alt=media&token=a7f206d5-f76d-43b8-a712-2cdb533bf5c4",
+  },
+  {
+    nombre: "Crudda coco natural vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
+  },
+  {
+    nombre: "Crudda coco natural vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
+  },
+  {
+    nombre: "Felices las vacas Frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/20221129_105338.jpg?alt=media&token=3a0632f5-53ae-40ae-a737-c6b943be720b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/20221129_105338.jpg?alt=media&token=3a0632f5-53ae-40ae-a737-c6b943be720b",
+  },
+  {
+    nombre: "Felices las vacas vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur_vainilla.jpeg?alt=media&token=f04ce2c3-7e52-4850-a0a5-d5684bfc5955",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur_vainilla.jpeg?alt=media&token=f04ce2c3-7e52-4850-a0a5-d5684bfc5955",
+  },
+  {
+    nombre: "Felices las vacas durazno",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/felices-las-vacas-yogurt-durazno-600x600%20(1).png?alt=media&token=7acb08c3-5ed9-4bab-a8a9-46c87dadb6f6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/felices-las-vacas-yogurt-durazno-600x600%20(1).png?alt=media&token=7acb08c3-5ed9-4bab-a8a9-46c87dadb6f6",
+  },
+  {
+    nombre: "Felices las vacas con colchon maracuyá",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Mock-up_Yogur-190_colchon-mango-y-maracuya.jpg?alt=media&token=75bf9f1a-fdb7-4880-89c7-2a13eb701d15",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Mock-up_Yogur-190_colchon-mango-y-maracuya.jpg?alt=media&token=75bf9f1a-fdb7-4880-89c7-2a13eb701d15",
+  },
+  {
+    nombre: "Felices las vacas con colchon frutos del bosque",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frutos-del-bosque1-1b21c553eee1d6648016789068521039-240-0.png?alt=media&token=6c7102e9-cbd2-4997-b836-a89d5f01e2f9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frutos-del-bosque1-1b21c553eee1d6648016789068521039-240-0.png?alt=media&token=6c7102e9-cbd2-4997-b836-a89d5f01e2f9",
+  },
+  {
+    nombre: "Dulce de leche vegano flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/dulce-de-leche-de-almendras-x-250g-felices-las-vacas-the-fresh-market1-25dea144388e8aa31e16461808851910-640-0.jpg?alt=media&token=66539bd4-b398-4cda-bf78-41734794bf50",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/dulce-de-leche-de-almendras-x-250g-felices-las-vacas-the-fresh-market1-25dea144388e8aa31e16461808851910-640-0.jpg?alt=media&token=66539bd4-b398-4cda-bf78-41734794bf50",
+  },
+  {
+    nombre: "hummus flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0.jfif?alt=media&token=a92cc586-c279-4d98-9182-9fb877d46cba",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0.jfif?alt=media&token=a92cc586-c279-4d98-9182-9fb877d46cba",
+  },
+  {
+    nombre: "queso untable finas hierbas flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/queso_fantastique_finas_hierbas_felices_las_vacas__1__copy.png?alt=media&token=b3191203-bc1e-4e51-b476-d80701487bf0",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/queso_fantastique_finas_hierbas_felices_las_vacas__1__copy.png?alt=media&token=b3191203-bc1e-4e51-b476-d80701487bf0",
+  },
+  {
+    nombre: "queso untable tradicional flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(2).jfif?alt=media&token=6d429fd1-4c31-481d-8035-cad6be9a8066",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(2).jfif?alt=media&token=6d429fd1-4c31-481d-8035-cad6be9a8066",
+  },
+  {
+    nombre: "Cheddar en fetas flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/6-2.png?alt=media&token=8b5e93d3-838d-40c9-8f66-34ead4ed06ec",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(3).jfif?alt=media&token=6c90ac73-f8c8-4039-98e6-9b0c7ee15a99",
+  },
+  {
+    nombre: "danvo en fetas flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=f3cd3222-b163-4b38-9f87-04ba3ae6c97f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=f3cd3222-b163-4b38-9f87-04ba3ae6c97f",
+  },
+  {
+    nombre: "muzzalmendra x500 / 250 gr flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=d742b9bb-6332-4746-8627-81203b680bd5",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=d742b9bb-6332-4746-8627-81203b680bd5",
+  },
+  {
+    nombre: "cremoso x500 / 250gr flv",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=df926992-7001-459a-aaba-413835880e93",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=df926992-7001-459a-aaba-413835880e93",
+  },
+  {
+    nombre: "Hummus kyrios original",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Hummus-Clasico-Sin-TACC-Kyros-230gr_1.jpg?alt=media&token=1bcff741-e4a7-4691-9715-296102633c93",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Hummus-Clasico-Sin-TACC-Kyros-230gr_1.jpg?alt=media&token=1bcff741-e4a7-4691-9715-296102633c93",
+  },
+  {
+    nombre: "Hummus kyrios pimenton",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almacen-hummus-kyros-conpimenton1-831cdd60962692732c16655181757222-640-0.png?alt=media&token=279bb3b3-7b31-4a56-bc07-6950911072d4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almacen-hummus-kyros-conpimenton1-831cdd60962692732c16655181757222-640-0.png?alt=media&token=279bb3b3-7b31-4a56-bc07-6950911072d4",
+  },
+  {
+    nombre: "Hummus kyrios oliva",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/OLIVA.png?alt=media&token=d37197e2-fb34-457d-97a5-59497e9da844",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/OLIVA.png?alt=media&token=d37197e2-fb34-457d-97a5-59497e9da844",
+  },
+  {
+    nombre: "Jugos naturales los naranjos naranja frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-frutilla-x-500cc-estancia-los-naranjos1-dee7f83e321b7014c916242296684775-640-0.jpg?alt=media&token=d2a2c9ee-dd49-44ce-b5b1-372ca30b21ea",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Jugo-Natural-de-Naranja-Frutilla-500ml-Estancia-Los-Naranjos-1.jpg?alt=media&token=07bb040c-cdf7-4569-a6e8-5c0bbd21197b",
+  },
+  {
+    nombre: "Jugos naturales los naranjos naranja maracuya",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-maracuya-x-500cc-estancia-los-naranjos1-3e206c418fbc0c55c816242294471218-640-0.jpg?alt=media&token=6f4c6104-7ba1-40d9-961b-b171dacac2e2",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Jugo-Estancia-Los-Naranjos-Naranja-1-938560.png?alt=media&token=8cd910f4-f851-48e3-8dc4-2c36a6d750ae",
+  },
+  {
+    nombre: "Jugos naturales los naranjos naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=e17f56f2-3e72-4fcf-811c-0470d0fdba07",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=e17f56f2-3e72-4fcf-811c-0470d0fdba07",
+  },
+  {
+    nombre: "Jugos naturales los naranjos naranja durazno",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Estancia-los-naranjos-naranja-y-durazno.jpg?alt=media&token=5b302bcf-c400-4eea-8da0-d8c95f2c006b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Jugo-Estancia-Los-Naranjos-Naranja-1-938560.png?alt=media&token=8cd910f4-f851-48e3-8dc4-2c36a6d750ae",
+  },
+  {
+    nombre: "Jugos naturales los naranjos limon menta jengibre",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(8).jfif?alt=media&token=0d595da0-c63e-42f9-bdae-0686976fa1da",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(8).jfif?alt=media&token=0d595da0-c63e-42f9-bdae-0686976fa1da",
+  },
+  {
+    nombre: "Jugos naturales los naranjos pomelo",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-pomelo-x-500cc-estancia-los-naranjos1-40bcf7f8862eceb02716242290465917-640-0.jpg?alt=media&token=f64c1b92-11a9-4a7b-b9c7-77d6b6791874",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_848932-MLA52109121038_102022-O.png?alt=media&token=1e4adc29-c733-4488-ac9c-cf19bb65da99",
+  },
+  {
+    nombre: "Kefir manzana",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+  },
+  {
+    nombre: "Kefir naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+  },
+  {
+    nombre: "Kefir frutos rojos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+  },
+  {
+    nombre: "Kefir maracuyá",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
+  },
+  {
+    nombre: "Jugos cuarto creciente ",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugos-cuarto-creciente.jpg?alt=media&token=f2baea6a-2746-459b-83c8-9a4c215b2cf6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugos-cuarto-creciente.jpg?alt=media&token=f2baea6a-2746-459b-83c8-9a4c215b2cf6",
+  },
+
+
+  //productos proteicos ----------------------------------------------------------------------
+
+  {
+    nombre: "barritas energéticas alta en proteínas Low Carb x45g: brownie crocante",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
+  },
+  {
+    nombre: "barritas energéticas alta en proteínas Low Carb x45g: pasta de maní crocante",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
+  },
+  {
+    nombre: "Barritas energéticas alta en proteína Iron Bar x46g: chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Proteinas-Gentech-sabor-_0003_IRON-BAR-2020-CHOCOLATE-1-768x768.jpg?alt=media&token=f02cbabd-095a-476c-be40-9bdbc8bc903a",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Proteinas-Gentech-_0003_CAJA-IRON-BAR-CHOCOLATE.jpg?alt=media&token=3034dc78-dcf7-47b1-a906-c32f4417e77c",
+  },
+  {
+    nombre: "Barritas energéticas alta en proteína Iron Bar x46g: frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-frutilla-el-banquito-market-1.jpg?alt=media&token=2fde98e9-2aff-4764-94d5-a10e70edaec0",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img1642176839-Gentech%20Iron%20bar%20frutilla%20caja.jpg?alt=media&token=1612fa29-8c9e-4658-bc5f-cbfb2f5dee4e",
+  },
+  {
+    nombre: "Barritas energéticas alta en proteína Iron Bar x46g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-Coco-46Grs-el-banquito-market.jpg?alt=media&token=10e45dbf-d429-4e8a-8d1c-df10bc264e4b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images.jfif?alt=media&token=052ec2e8-5e3e-4aef-8430-a9bc2b533749",
+  },
+  {
+    nombre: "Barritas energéticas alta en proteína Iron Bar x46g: banana",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-banana-el-banquito-market.jpg?alt=media&token=16662df2-f324-40cf-a14b-36dbd4e2dedc",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Proteinas-Gentech-_0004_CAJA-IRON-BAR-BANANA.jpg?alt=media&token=b447740f-3e8f-412b-b958-cf68161fee74",
+  },
+  {
+    nombre: "Barritas energéticas alta en proteína Iron Bar x46g: menta granizada",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=9b20341a-c716-41f0-964c-b08a4c580a92",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(1).jfif?alt=media&token=cfc566cb-4fa5-4b66-81da-c4ad2486682b",
+  },
+  {
+    nombre: "Snack proteico Muscle-Pro x50g: frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ffb6a2650f57a0b4a7cc294f7924bfc9e56ef5ed30049b60c907e22427de0c1549797.jpg?alt=media&token=8cdd9311-461c-4d77-994c-b52b4745035d",
+  },
+  {
+    nombre: "Snack proteico Muscle-Pro x50g: avellanas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ffb6a2650f57a0b4a7cc294f7924bfc9e56ef5ed30049b60c907e22427de0c1549797.jpg?alt=media&token=8cdd9311-461c-4d77-994c-b52b4745035d",
+  },
+  {
+    nombre: "Snack proteico Muscle-Pro x50g: dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ffb6a2650f57a0b4a7cc294f7924bfc9e56ef5ed30049b60c907e22427de0c1549797.jpg?alt=media&token=8cdd9311-461c-4d77-994c-b52b4745035d",
+  },
+  {
+    nombre: "Snack proteico Muscle-Pro x50g: pasta de mani",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ffb6a2650f57a0b4a7cc294f7924bfc9e56ef5ed30049b60c907e22427de0c1549797.jpg?alt=media&token=8cdd9311-461c-4d77-994c-b52b4745035d",
+  },
+  {
+    nombre: "Snack proteico Muscle-Pro x50g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ffb6a2650f57a0b4a7cc294f7924bfc9e56ef5ed30049b60c907e22427de0c1549797.jpg?alt=media&token=8cdd9311-461c-4d77-994c-b52b4745035d",
+  },  
+  {
+    nombre: "Barritas proteicas Ki-Bar x40g: Cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_948395-MLA70093726660_062023-F.jpg?alt=media&token=807117b8-149d-4380-83e2-e86b3be8a5c1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_948395-MLA70093726660_062023-F.jpg?alt=media&token=807117b8-149d-4380-83e2-e86b3be8a5c1",
+  },
+  {
+    nombre: "Barritas proteicas Ki-Bar x40g: coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_916318-MLA53971306501_022023-V.jpg?alt=media&token=d5b8ae73-6428-4cf2-b391-544781f4248b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_916318-MLA53971306501_022023-V.jpg?alt=media&token=d5b8ae73-6428-4cf2-b391-544781f4248b",
+  },  
+  {
+    nombre: "Barritas proteicas Ki-Bar x40g: vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-vainilla.webp?alt=media&token=82ed0088-9d19-4e56-b6eb-8e46a780ed4b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-vainilla.webp?alt=media&token=82ed0088-9d19-4e56-b6eb-8e46a780ed4b",
+  },  
+  {
+    nombre: "Barritas proteicas Ki-Bar x40g: manzana",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-manzana-021-602b7eb0209e9aacd716764204002606-240-0.jpg?alt=media&token=d60b1104-55ac-442a-8d0f-a8c2a3747b2d",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-manzana-021-602b7eb0209e9aacd716764204002606-240-0.jpg?alt=media&token=d60b1104-55ac-442a-8d0f-a8c2a3747b2d",
+  },  
+  {
+    nombre: "Barritas proteicas Ki-Bar x40g: café con leche de coco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cafe-x61-6ab39d73b7ec0da33316803736542948-640-0.png?alt=media&token=061b7c63-9cc3-4e27-a72d-b9dc70b797da",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cafe-x61-6ab39d73b7ec0da33316803736542948-640-0.png?alt=media&token=061b7c63-9cc3-4e27-a72d-b9dc70b797da",
+  },
+  {
+    nombre: "Barritas energéticas proteicas Infitness x22g: chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_782670-MLA48450100630_122021-O.webp?alt=media&token=d8324622-7709-414c-a188-67ceb3c78d62",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_737939-MLA48449990781_122021-O.webp?alt=media&token=42b8d630-0ff2-42f1-8095-6c0ce94882a6",
+  },   
+  {
+    nombre: "Barritas energéticas proteicas Infitness x22g: dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_737939-MLA48449990781_122021-O.webp?alt=media&token=42b8d630-0ff2-42f1-8095-6c0ce94882a6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_737939-MLA48449990781_122021-O.webp?alt=media&token=42b8d630-0ff2-42f1-8095-6c0ce94882a6",
+  },    
+  {
+    nombre: "Barritas energéticas proteicas Infitness x22g: frutilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_765160-MLA52845381465_122022-O.webp?alt=media&token=7fa839ce-fb92-4e5f-9d72-40d830d4cd9f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_761562-MLA52845355519_122022-O.webp?alt=media&token=13d212a3-193c-488e-a048-89af39f3330d",
+  },   
+  {
+    nombre: "Premezcla proteicas para pancakes keto Vento x420g: harina de almedras y Cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-11-04-at-18-57-471-53e811c420560a59a516676102942836-240-0.jpeg?alt=media&token=7de70d2c-497a-4ad2-8ab4-5474ee6a6251",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-11-04-at-18-57-471-53e811c420560a59a516676102942836-240-0.jpeg?alt=media&token=7de70d2c-497a-4ad2-8ab4-5474ee6a6251",
+  },  
+  {
+    nombre: "Premezcla proteicas para pancakes keto Vento x420g: harina de almedras y vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/vento-premezcla1-2c0de49f370376f40e16604085600987-640-0.jpg?alt=media&token=c5d0462c-8cfe-48a5-81a3-063a3867a7e6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/vento-premezcla1-2c0de49f370376f40e16604085600987-640-0.jpg?alt=media&token=c5d0462c-8cfe-48a5-81a3-063a3867a7e6",
+  },
+  {
+    nombre: "Premezcla proteicas para pancakes keto Vento x420g: harina de almedras salado",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+  },
+  {
+    nombre: "Premezcla proteicas para pancakes keto Vento x420g: harina de almedras salado",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+  },
+  {
+    nombre: "Premezcla proteicas para pancakes keto  x420g: harina de arroz y Cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+  },
+  {
+    nombre: "Premezcla proteicas para pancakes keto  x420g: harina de arroz y vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+  },
+  {
+    nombre: "Premezcla proteicas para pancakes keto  x420g: harina de arroz salado",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
+  },
+  {
+    nombre: "Premezcla proteica para pancakes Granger x450g: harina de avena y Cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
+  },
+  {
+    nombre: "Premezcla proteica para pancakes Granger x450g: harina de avena y vainilla",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
+  },
+  {
+    nombre: "Premezcla proteica para pancakes keto Granger x450g: harina de almedras y castañas de cajú",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/pancakes-keto-ok1-f804be720da2f179f116812309651783-640-0.jpeg?alt=media&token=f243ff01-782b-47ed-8f50-7bc858d7bc7b",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/pancakes-keto-ok1-f804be720da2f179f116812309651783-640-0.jpeg?alt=media&token=f243ff01-782b-47ed-8f50-7bc858d7bc7b",
+  },
+  {
+    nombre: "Premezcla proteica para cupcakes Granger x450g: harina de avena y cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=10e76e99-6b82-4a7a-8ae6-fb926a93fb0e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=10e76e99-6b82-4a7a-8ae6-fb926a93fb0e",
+  },
+  {
+    nombre: "Premezcla proteica para omelettes Granger x 450g",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/omelette-jyq1-62e08b79b76e3d1b5716831209468879-640-0.png?alt=media&token=eade4576-379b-40f7-875b-7b15210b71b1",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/omelette-jyq1-62e08b79b76e3d1b5716831209468879-640-0.png?alt=media&token=eade4576-379b-40f7-875b-7b15210b71b1",
+  },
+  {
+    nombre: "Proteína de Soja Granger x 750g",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/soja1-1351f05dcffd85e0fd16428596206540-640-0.jpg?alt=media&token=9135cf44-625c-4c16-bac1-21b8708d0748",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/soja1-1351f05dcffd85e0fd16428596206540-640-0.jpg?alt=media&token=9135cf44-625c-4c16-bac1-21b8708d0748",
+  },
+  {
+    nombre: "Proteína de arvejas  Granger x360g",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/granger_proteina_de_arvejas_750grs_fisicalzone_web11-110a8077f7c59456c616841714004824-640-0.png?alt=media&token=ce3a9e67-8457-4327-9996-cfd5b3a5d82f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_881486-MLA50041825541_052022-O.webp?alt=media&token=eb6b2dbb-9b64-4d1d-be5d-6437f0693217",
+  },
+  {
+    nombre: "Fórmula proteica Gentech x500g: Whey Protein 7900.",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/67271024-85a5-4b28-aa33-6e1edbfdc38d.jpg?alt=media&token=fe149f01-6682-46f9-bf9d-2a16534895ef",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/67271024-85a5-4b28-aa33-6e1edbfdc38d.jpg?alt=media&token=fe149f01-6682-46f9-bf9d-2a16534895ef",
+  },
+  
+  //Alfajores, barritas y golosinas sin t.a.c.c./ veggie ----------------------------------------------------------------------
+
+  {
+    nombre: "Alfajores Felices las vacas x60g: dulce de leche",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/maicena-e1645136609263.jpg?alt=media&token=4dad9690-450f-4ad4-bf17-b2797ee6905c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/maicena-e1645136609263.jpg?alt=media&token=4dad9690-450f-4ad4-bf17-b2797ee6905c",
+  },
+  {
+    nombre: "Alfajores Felices las vacas x60g: pasta de maní",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=0f9380c0-927b-4a78-8573-2a1f58a8131e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images.jfif?alt=media&token=911068cb-f94b-43fe-a357-5c66572e1163",
+  },
+  {
+    nombre: "Alfajores NutiRaw x50g: Pasta de maní",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/f08f030c-a67f-43e2-be28-5091778365ab1-fe55c00784f4fa8c0016329562200653-640-0.jpeg?alt=media&token=a4faa1ed-889f-48f6-a382-1be5858ff1c8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(1).jfif?alt=media&token=a465dd65-0436-4cd2-9ae7-433244e2e748",
+  },
+  {
+    nombre: "Alfajores NutiRaw x50g: mousse de café",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_778787-MLA49693650463_042022-O.png?alt=media&token=8e90b73b-4365-4ef6-b63f-0e35636d7c9e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_778787-MLA49693650463_042022-O.png?alt=media&token=8e90b73b-4365-4ef6-b63f-0e35636d7c9e",
+  },
+  {
+    nombre: "Alfajores NutiRaw x50g: coco y maní",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/741-c0e72c377b7ec1d18716735678050021-640-0.png?alt=media&token=4c9db2f3-4643-46eb-baa0-7fbe72ed0467",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/741-c0e72c377b7ec1d18716735678050021-640-0.png?alt=media&token=4c9db2f3-4643-46eb-baa0-7fbe72ed0467",
+  },
+  {
+    nombre: "Alfajores NutiRaw x50g: frutal",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=56403785-3e74-42db-8f72-8a5b0069f908",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=2b98032f-8c93-4142-b62a-d26954060a07",
+  },
+  {
+    nombre: "Barritas Integra x27g: arándanos y semillas",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(6).jfif?alt=media&token=53a30d91-fc27-4ad7-ab68-885001558e64",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226432_barra-de-cereal-integra-de-girasol-y-arandano-x-43-g_imagen-1.webp?alt=media&token=cabdaf01-4afe-414a-9a6a-ca5f18e4329e",
+  },
+ 
+  {
+    nombre: "Barritas Wik Taste x20g: Quinoa inflada y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(10).jfif?alt=media&token=498fcb2c-f038-4213-9943-e0c829396b02",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(10).jfif?alt=media&token=498fcb2c-f038-4213-9943-e0c829396b02",
+  },
+  {
+    nombre: "Barritas Wake up x20g: quinoa inflada y chocolate blanco",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chocolate-blanco-ficha.jpg?alt=media&token=aae20cd0-bbac-435f-83eb-b9ef8d154c75",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chocolate-blanco-ficha.jpg?alt=media&token=aae20cd0-bbac-435f-83eb-b9ef8d154c75",
+  },
+  {
+    nombre: "Alfajores Cerro Azul x55g: mousse de chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cerr09_1-d64b95f194d56c2ca616608523567649-480-0.jpg?alt=media&token=72a76192-6b5e-46e2-bc50-e56c1efb0d65",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cerr09_1-d64b95f194d56c2ca616608523567649-480-0.jpg?alt=media&token=72a76192-6b5e-46e2-bc50-e56c1efb0d65",
+  },
+  {
+    nombre: "Alfajores Cerro Azul x55g: musse de limón",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ALFAJOR-DE-LIMON-CERRO-AZUL.jpg?alt=media&token=9e7a8205-c1ac-4cb0-b14b-8a094b6be5da",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ALFAJOR-DE-LIMON-CERRO-AZUL.jpg?alt=media&token=9e7a8205-c1ac-4cb0-b14b-8a094b6be5da",
+  },
+  {
+    nombre: "Snak dulce Fitbeans x40g: grabanzos bañados con chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(12).jfif?alt=media&token=ecb27d4f-6e25-4156-9eb2-73c375a8ed3f",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(12).jfif?alt=media&token=ecb27d4f-6e25-4156-9eb2-73c375a8ed3f",
+  },
+  {
+    nombre: "Snaks salados Fitbeans x40g: garbanzos tostados con sal marina",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).png?alt=media&token=d877d034-35e6-4075-88a9-e72a13b6fa6c",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).jfif?alt=media&token=e0c2f764-1f24-42f6-9b6b-f49cf1d92ce6",
+  },
+  {
+    nombre: "Snaks salados Fitbeans X75g: garbanzos tostados saborizados",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).jfif?alt=media&token=e0c2f764-1f24-42f6-9b6b-f49cf1d92ce6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).jfif?alt=media&token=e0c2f764-1f24-42f6-9b6b-f49cf1d92ce6",
+  },
+
+
+  //Barritas y golosinas veggie ----------------------------------------------------------------------
+
+  {
+    nombre: "barritas Integra x42g: Almendra y nuez",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226434_barra-de-cereal-integra-de-almendra-y-nuez-x-42-g_imagen-1.png?alt=media&token=40866ea0-a356-478a-ab2c-f176b8079ec6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/barra-de-cereal-integra-banana-y-nuez-x-42-g.jpg?alt=media&token=51ad25a9-a480-4b0c-a390-87918e8e7233",
+  },
+  {
+    nombre: "barritas Integra x42g: , arándanos y girasol",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226432_barra-de-cereal-integra-de-girasol-y-arandano-x-43-g_imagen-1.webp?alt=media&token=99490726-4f6d-4391-abc9-c35794d878a5",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=a7af4d88-b6ab-41a5-b8ed-5e6c950973c9",
+  },
+  {
+    nombre: "barritas Integra x42g: , arándanos y castañas de cajú",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/integra-caju-arandanos1-cdaa55cc6dc1e91f2216164259557073-640-0.jpg?alt=media&token=90651313-c57f-4e56-af6b-8a5a62c315d3",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/caju1-aa50e2f6056fac69d316904680865472-640-0.png?alt=media&token=1673cd48-d55b-4ae2-bf9c-df8987adc7ad",
+  },
+  {
+    nombre: "barritas Integra x42g: banana y nuez",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226436_barra-de-cereal-integra-de-banana-y-nuez-x-44-g_imagen-1.png?alt=media&token=110f6161-2ade-4567-8fdb-ea7a1373a3f9",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/barra-de-cereal-integra-banana-y-nuez-x-42-g.jpg?alt=media&token=b0eaa9bb-314b-4af5-964d-cd7917752ddc",
+  },
+  {
+    nombre: "barritas Integra x42g: avena y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226433_barra-de-cereal-integra-de-chocolate-y-avena-x-40-g_imagen-1.png?alt=media&token=4fac0896-74bf-4f7c-932d-d45df5df9a08",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(14).jfif?alt=media&token=123963d1-f0cf-4607-8b38-7a7b3177035a",
+  },
+  {
+    nombre: "barritas Integra x42g: base de choco con mani y arándanos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/335127414047_ifgoxnolbvyi_727453856088_fojtxnkbnteu_471330_1.png?alt=media&token=49e80762-730d-4922-bff7-95413aa97491",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/combosbase-051-5a6277a0704ce949ab16529630460867-640-01-46fb05e630d9fa5d3016649141548375-640-0.jpg?alt=media&token=092168e0-4f88-4dfc-bcc9-5ab5a6da2465",
+  },
+  {
+    nombre: "barritas Integra x42g: base de choco con mani y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/335127414047_ifgoxnolbvyi_727453856088_fojtxnkbnteu_471330_1.png?alt=media&token=49e80762-730d-4922-bff7-95413aa97491",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/combosbase-051-5a6277a0704ce949ab16529630460867-640-01-46fb05e630d9fa5d3016649141548375-640-0.jpg?alt=media&token=092168e0-4f88-4dfc-bcc9-5ab5a6da2465",
+  },
+  {
+    nombre: "Bocaditos Integra x26g: arándanos y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Bocadito-Integra-Man-Ar-n-Y-Choco-X26g-1-958298.png?alt=media&token=96d2f1ba-64b0-4ed5-8d66-78f7e4b7d7fd",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/bocadito-integra1-3e94753cce9c6774fd16636157642629-640-0.png?alt=media&token=f2e97a91-20be-417e-b061-b2f9165aa058",
+  },
+  {
+    nombre: "Bocaditos Integra x26g: arándanos y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/231641_bocaditos-integra-chocolate-y-mani-x-26-g_imagen-1.png?alt=media&token=6a89174b-a872-4ac3-9e2d-abfbc30cf118",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/c1fd86a02c323a10ef1db3a06c9e644ab7471b491e658c45baa5616e396dcad249797.png?alt=media&token=b9fb6935-0f1a-4bb7-84f0-337e1d536d6d",
+  },
+  {
+    nombre: "Alfajores Animal Kind x50g: mousse de avellanas y chocolate",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor%20animal.jpg?alt=media&token=41ab0d46-4b13-43f9-96a1-c3a43752281e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor%20animal.jpg?alt=media&token=41ab0d46-4b13-43f9-96a1-c3a43752281e",
+  },
+  {
+    nombre: "Alfajores Animal Kind x50g: mantequilla de maní",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-01-26-at-10-50-43-62e88ad704616%20(1).jpeg?alt=media&token=74620cca-35fc-41cc-87cf-1a434f2509a8",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-01-26-at-10-50-43-62e88ad704616%20(1).jpeg?alt=media&token=74620cca-35fc-41cc-87cf-1a434f2509a8",
+  },
+  {
+    nombre: ". Oblea Arba veggie x28g: Cacao",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Arba-Veggie-Portada.png?alt=media&token=db0eb2c0-db30-47ad-a921-9074cd3ecfd4",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/3058-1.png?alt=media&token=1178b990-d336-482a-b42b-98394a8bb35b",
+  },
+  {
+    nombre: ". Oblea Arba veggie x28g: marroc",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(16).jfif?alt=media&token=82cd909a-3f67-403b-87a2-cb604033d135",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Caja-Cubanitos-Arba-Veggi-Publicidad.png?alt=media&token=70db592a-cff4-4bdc-8cc8-d459572bb0e3",
+  },
+  {
+    nombre: ". Oblea Arba veggie x28g: café",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Caja-Cubanitos-Arba-Veggi-Publicidad.png?alt=media&token=70db592a-cff4-4bdc-8cc8-d459572bb0e3",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Caja-Cubanitos-Arba-Veggi-Publicidad.png?alt=media&token=70db592a-cff4-4bdc-8cc8-d459572bb0e3",
+  },
+  {
+    nombre: "Brownie del rey x90g: original",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(17).jfif?alt=media&token=b1874191-32f9-4338-9890-9d42f90ba784",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(17).jfif?alt=media&token=b1874191-32f9-4338-9890-9d42f90ba784",
+  },
+  {
+    nombre: "Brownie del rey x90g: mantequilla de maní",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(18).jfif?alt=media&token=5c6370b1-baa5-4f92-9c5c-cb9ee562fb01",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(18).jfif?alt=media&token=5c6370b1-baa5-4f92-9c5c-cb9ee562fb01",
+  },
+  {
+    nombre: "Brownie del rey x90g: nueces",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.42.58.jpeg?alt=media&token=d962e7af-e5c9-427b-831c-f4aab44c15ec",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.42.58.jpeg?alt=media&token=d962e7af-e5c9-427b-831c-f4aab44c15ec",
+  },
+  {
+    nombre: "Brownie del rey x90g: naranja",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/naranja.jfif?alt=media&token=bb88b78b-4e02-401a-a219-a62979940a3e",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/naranja.jfif?alt=media&token=bb88b78b-4e02-401a-a219-a62979940a3e",
+  },
+  {
+    nombre: "Brownie del rey x90g: frutos rojos",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.55.43.jpeg?alt=media&token=e850817c-5005-4601-a100-1951e60414e5",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.55.43.jpeg?alt=media&token=e850817c-5005-4601-a100-1951e60414e5",
+  },
+  
+  //Galletitas ----------------------------------------------------------------------
+
+  {
+    nombre: "barritas Integra x42g: Almendra y nuez",
+    precio: 3100,
+    stock: 10,
+    home: true,
+    caracteristica1: "crema de almendras con proteina",
+    caracteristica2: "otra de las caracteristicas dinamicas de firebase",
+    categoria: "yerbas",
+    imagenPrincipal:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226434_barra-de-cereal-integra-de-almendra-y-nuez-x-42-g_imagen-1.png?alt=media&token=40866ea0-a356-478a-ab2c-f176b8079ec6",
+    imagenSecundaria:
+      "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/barra-de-cereal-integra-banana-y-nuez-x-42-g.jpg?alt=media&token=51ad25a9-a480-4b0c-a390-87918e8e7233",
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+
+
+
+
+  
 ];

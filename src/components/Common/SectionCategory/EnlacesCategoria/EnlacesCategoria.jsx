@@ -84,8 +84,8 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/GalletitasSinSal"}>
                 Galletitas sin sal
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Medialunas integrales
+              <Link className="link" to={"/categoria/yerbas"}>
+                Yerbas
               </Link>
               <Link className="link" to={"/categoria/caldito"}>
                 Pepas

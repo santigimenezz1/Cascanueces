@@ -70,7 +70,11 @@ const CartContextComponent = ({ children }) => {
     let nuevo = favorito.filter((producto) => producto.id !== id);
     setFavorito(nuevo);
   };
-
+  const logout = () => {
+    localStorage.removeItem("userData");
+    setUsuarioOn(false);
+    setUser({});
+  };
   let data = {
     cart,
     clearCart,
@@ -87,6 +91,7 @@ const CartContextComponent = ({ children }) => {
     setUsuarioOn,
     user,
     setUser,
+    logout
   };
 
   return (

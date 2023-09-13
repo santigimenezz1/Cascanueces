@@ -2673,7 +2673,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
     imagenSecundaria:
@@ -2686,7 +2686,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/img_16371-4a822cc990e009a9d715890384511040-480-0.jpg?alt=media&token=98611e4b-909f-4bec-bd3d-8633da65115f",
     imagenSecundaria:
@@ -2699,7 +2699,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
     imagenSecundaria:
@@ -2712,7 +2712,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
     imagenSecundaria:
@@ -2725,7 +2725,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=856ce64f-f628-4547-b399-e508ab6e71e9",
     imagenSecundaria:
@@ -2738,7 +2738,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=6b171a71-dbf9-4b4c-9922-c9a7f1c202ec",
     imagenSecundaria:
@@ -2751,7 +2751,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O.webp?alt=media&token=ae06c673-0ab0-4181-b28c-c940889aca53",
     imagenSecundaria:
@@ -2764,7 +2764,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=5110642c-6de0-4fe8-a228-732727fbef6e",
     imagenSecundaria:
@@ -2777,7 +2777,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=c8d4dec0-4b2a-4df3-987b-f7ac50b8455a",
     imagenSecundaria:
@@ -2791,7 +2791,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=16379a1e-a74a-44fa-a5da-48ab551d7262",
     imagenSecundaria:
@@ -2805,7 +2805,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-golosinas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=1986bc29-c1dc-4825-9283-c5dc7a5a063f",
     imagenSecundaria:
@@ -2821,7 +2821,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-limon1-c75627bdbd8190fc9b16825495369359-640-0.webp?alt=media&token=512f9a66-b19f-4380-9add-0617a8d4ab16",
     imagenSecundaria:
@@ -2835,7 +2835,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_924094-MLU70036381836_062023-O.webp?alt=media&token=fd017594-c215-45c7-907c-8c74d39e52f3",
     imagenSecundaria:
@@ -2849,7 +2849,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=38ae0d93-7aaf-4b4a-b43f-566fba4c2051",
     imagenSecundaria:
@@ -2863,7 +2863,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-dulces-aldana.jpg?alt=media&token=6822d16c-699c-443f-8bdf-1c2919af4beb",
     imagenSecundaria:
@@ -2877,7 +2877,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=1ae5870d-7b67-4e44-9463-079639494b7b",
     imagenSecundaria:
@@ -2891,7 +2891,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2021-09-09-at-15-56-261-7e983d1c2a13fa0fbd16312772782686-640-0.jpeg?alt=media&token=6d1fad7c-ea8a-4d6d-8261-d0eb529e14ef",
     imagenSecundaria:
@@ -2905,7 +2905,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_triangulos_azucarados_878x%20(1).png?alt=media&token=5fdb0f13-9554-496c-949d-2eeec4f8a490",
     imagenSecundaria:
@@ -2919,7 +2919,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_bizcochitosdulcesfinallogo.jpg?alt=media&token=a80d6c30-b1fb-4e6f-94c8-beaab9ae397d",
     imagenSecundaria:
@@ -2933,7 +2933,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Aldana_Galateas_700x.png?alt=media&token=220cce63-6007-4402-b69d-35b05774b31d",
     imagenSecundaria:
@@ -2947,7 +2947,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(6).jfif?alt=media&token=d939bb1a-6441-49f2-8576-1391e20183f1",
     imagenSecundaria:
@@ -2961,7 +2961,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldana_oreganofinallogo.jpg?alt=media&token=35375a44-e2bd-433d-86fa-ce4d775bae46",
     imagenSecundaria:
@@ -2975,7 +2975,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chocoSMAMS200.jpg?alt=media&token=2ad044b7-c55f-47bc-aa23-96c12fb5d219",
     imagenSecundaria:
@@ -2989,7 +2989,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cod67.polvorones.veggie.coco.jpg?alt=media&token=94356ce7-5117-42a3-8695-a2e741887fc8",
     imagenSecundaria:
@@ -3003,7 +3003,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_665044-MLU69692597728_052023-O.webp?alt=media&token=2188b424-246a-40a5-8791-52dd8db6b51f",
     imagenSecundaria:
@@ -3017,7 +3017,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crackers-sin-sal-smams1-6fb8526c09cedf70a416298483736535-640-0.jpg?alt=media&token=4800c2d9-f7e1-4381-adb1-e11f055e9f9c",
     imagenSecundaria:
@@ -3033,7 +3033,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas.webp?alt=media&token=d95432aa-8cde-4082-b70e-0b3621084e05",
     imagenSecundaria:
@@ -3047,7 +3047,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja%20(1).jpg?alt=media&token=e2989d86-50be-4705-b075-73eac6d5cea1",
     imagenSecundaria:
@@ -3060,7 +3060,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(1).jfif?alt=media&token=9526fe24-eb91-42ed-a499-ffd711386401",
     imagenSecundaria:
@@ -3073,7 +3073,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/limon_700x.jpg?alt=media&token=9920fb4c-1380-48fb-882b-be855960315d",
     imagenSecundaria:
@@ -3086,7 +3086,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/thumb.png?alt=media&token=dd9ff160-5463-4921-89ac-b7c3da1a25f3",
     imagenSecundaria:
@@ -3100,7 +3100,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Integral-Avena-y-Pasas%20(1).jpg?alt=media&token=1fafac81-ac7e-4422-991d-5ef5fff9629c",
     imagenSecundaria:
@@ -3113,7 +3113,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Ceral-Sin-Azucar-Naranja.webp?alt=media&token=22184b14-bce4-4e24-bbd0-f84cd50539c8",
     imagenSecundaria:
@@ -3127,7 +3127,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/avena1-52ee2e77644de9016016324998184386-640-0.jpg?alt=media&token=0661094c-b571-4eae-8552-29a333b2e661",
     imagenSecundaria:
@@ -3141,7 +3141,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
     imagenSecundaria:
@@ -3154,7 +3154,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
     imagenSecundaria:
@@ -3167,7 +3167,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
     imagenSecundaria:
@@ -3180,7 +3180,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas-sin-azucar",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas-teisty-190-grs1-fd30c8d4b418762a9516298126151100-640-0%20(1).jpg?alt=media&token=97a2035a-12f9-4742-8884-f9d76594f756",
     imagenSecundaria:
@@ -3209,7 +3209,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=cdf37f5b-5fdb-40fa-b57f-7ee6e3130087",
     imagenSecundaria:
@@ -3222,7 +3222,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frank01_1-67a4d48687d60658de16406942714001-640-0.jpg?alt=media&token=4af999bf-9530-4e6f-862b-bb11d83168df",
     imagenSecundaria:
@@ -3235,7 +3235,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_645112-MLA46214615829_052021-O.png?alt=media&token=66c0fe90-3422-4eab-99ff-b37357871ce1",
     imagenSecundaria:
@@ -3248,7 +3248,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222857_alfajor-de-nuez-celienergy-relleno-de-dulce-de-leche-x-50-g_imagen-1.png?alt=media&token=f15d3025-511a-4ce1-b3c2-85973b46e0b8",
     imagenSecundaria:
@@ -3261,7 +3261,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/222856_alfajor-celienergy-algarroba-zapallo-y-relleno-de-dulce-de-leche-x-50-g_imagen-1%20(1).png?alt=media&token=82910842-cf2e-4b62-b356-e3c47c665603",
     imagenSecundaria:
@@ -3274,7 +3274,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/BARRITA-DE-ARROZ-SABOR-CHOCOLATE-CROWIE.jpg?alt=media&token=dc781d3b-b097-46b1-9c23-488f65978980",
     imagenSecundaria:
@@ -3287,7 +3287,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/BARRITA-CROWIE-FRUTILLA.jpg?alt=media&token=e9928699-0950-4d60-90e0-850fd425c918",
     imagenSecundaria:
@@ -3300,7 +3300,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/86979.jpg?alt=media&token=5bfe7982-3443-4ff6-a802-199702dddac2",
     imagenSecundaria:
@@ -3313,7 +3313,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/86977.jpg?alt=media&token=cc89a1e8-257c-406b-ad49-b053f34b42db",
     imagenSecundaria:
@@ -3326,7 +3326,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/5921-3d225792e3010379e016079867827791-640-0.jpg?alt=media&token=e98f9fa7-1635-468d-b98c-77993c1cfb7c",
     imagenSecundaria:
@@ -3339,7 +3339,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=55c66568-7f0d-4a01-8506-66b290db83c1",
     imagenSecundaria:
@@ -3352,7 +3352,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocofrutilla_crowie_50gr_thumb1.jpg?alt=media&token=766f4e81-f4ad-4c0a-a7d9-49795e6ab13a",
     imagenSecundaria:
@@ -3365,7 +3365,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_1_thumb1.jpg?alt=media&token=94f2f718-73d4-40f6-90d0-108b6c2b17cb",
     imagenSecundaria:
@@ -3378,7 +3378,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/minibars_chocomani_crowie_50gr_thumb1.jpg?alt=media&token=a0e089b6-582b-4c18-b3ac-e3536e7da2b2",
     imagenSecundaria:
@@ -3391,7 +3391,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor-frutilla_02.png?alt=media&token=af85d60c-0428-4f01-b20b-50041db100ed",
     imagenSecundaria:
@@ -3404,7 +3404,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Screenshot_3-4.png?alt=media&token=b429b9ab-0974-4334-90ae-63a1c1e4c68e",
     imagenSecundaria:
@@ -3417,7 +3417,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
     imagenSecundaria:
@@ -3430,7 +3430,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Alfajor-de-Arroz-Lulemuu-Chocolate-Blanco-con-Dulce-de-Leche-26-Gr-_1.png?alt=media&token=061025f9-11a7-4980-93c3-f80931aa2652",
     imagenSecundaria:
@@ -3443,7 +3443,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfsantaf11-62e1829ca04af8dcd916192068390187-240-0.jpg?alt=media&token=9c866984-1a95-4ea0-b718-9e88841f43b5",
     imagenSecundaria:
@@ -3456,7 +3456,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/aldanaalfcampero11-32eaf5015b3acff1a616192068125045-640-0.jpg?alt=media&token=1a784efa-5d28-4be4-bb4b-cb200b366740",
     imagenSecundaria:
@@ -3469,7 +3469,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golosinas-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Cubanito-de-Arroz-Lulemuu-Negro-con-avellana-15-Gr-_1.png?alt=media&token=e6e15af8-ab89-4c1e-857e-a63fcf6589a6",
     imagenSecundaria:
@@ -3485,7 +3485,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
       imagenSecundaria:
@@ -3498,7 +3498,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_Q_NP_963476-MLU69912723849_062023-O.webp?alt=media&token=000748d7-8042-456f-9e90-6b5b6b8a2271",
       imagenSecundaria:
@@ -3511,7 +3511,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
       imagenSecundaria:
@@ -3524,7 +3524,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/murke-barrita-de-arroz-chocolate.jpg?alt=media&token=e7ecaf81-cdc6-4400-91c8-508623d2e8f1",
       imagenSecundaria:
@@ -3537,7 +3537,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Cerro-Azul-Alfajor-DDL-sin-Azucar.png?alt=media&token=aed2aa1f-0581-43db-8f2d-28ea479df75c",
       imagenSecundaria:
@@ -3550,7 +3550,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_978917-MLA50925503233_072022-O%20(1).png?alt=media&token=dc26ce19-47af-420e-8517-8c8f8d7d40c7",
       imagenSecundaria:
@@ -3563,7 +3563,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_630608-MLA50925319903_072022-O.png?alt=media&token=54ccbc04-48a2-4db4-9d1b-0e5ef6e6c037",
       imagenSecundaria:
@@ -3576,7 +3576,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/menta-61-d08783ab87d0b3bcf816591072835346-640-0.png?alt=media&token=8b20af07-5426-4e1c-a289-6372f0e0b181",
       imagenSecundaria:
@@ -3589,7 +3589,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/diseno-sin-titulo-111-9361a52733996485b016829792493134-480-0.jpg?alt=media&token=f10eadfd-6757-4ff7-9ea8-432047aa8c44",
       imagenSecundaria:
@@ -3602,7 +3602,7 @@ export let products = [
       home: true,
       caracteristica1: "crema de almendras con proteina",
       caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-      categoria: "yerbas",
+      categoria: "alfajores-golosinas-sin-azucar",
       imagenPrincipal:
         "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ICY_pastillasanana.jpg?alt=media&token=74d94913-db5d-4b98-b191-cff2e5ca72de",
       imagenSecundaria:
@@ -3618,7 +3618,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/7791120100406_02.PNG?alt=media&token=fe9cabee-fefa-47a2-9fb8-e1ec65fdf483",
     imagenSecundaria:
@@ -3631,7 +3631,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-05-19-at-7-44-38-pm1-922ad506713c127b8c16530485960144-640-0.jpeg?alt=media&token=88a7e31e-3397-4ac9-b171-c713d7314ab0",
     imagenSecundaria:
@@ -3644,7 +3644,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0277-1.png?alt=media&token=702ff0d1-4f38-435a-8152-ae7f28ee2156",
     imagenSecundaria:
@@ -3657,7 +3657,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/MINI-ARROCITAS-QUESO-ROMANO.jpg?alt=media&token=0a8c72bc-61ee-4c52-9991-d342868a7c3b",
     imagenSecundaria:
@@ -3670,7 +3670,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/miniarrocitaschoco1-1c88a48b72c46a6cb716222481103574-640-0.png?alt=media&token=f1c86cf9-d6db-47ec-bb97-e5651fb8a321",
     imagenSecundaria:
@@ -3683,7 +3683,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0278-1.png?alt=media&token=e8e0a133-1029-4058-a356-fe56633e090e",
     imagenSecundaria:
@@ -3696,7 +3696,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=5a06cf02-8620-4fb4-8381-67190a54df1d",
     imagenSecundaria:
@@ -3709,7 +3709,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chips_batatas_y_sal_marina_x_80_g_sin_tacc_nuestros_sabores.png?alt=media&token=28e3baa8-6078-4cdc-b5fc-51b49c2dccdb",
     imagenSecundaria:
@@ -3722,7 +3722,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/271970830_2081334675357493_8305872941662752572_n.jpg?alt=media&token=7d03d34a-bdf7-4481-8501-f30c3ebf7e77",
     imagenSecundaria:
@@ -3735,7 +3735,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/remolacha.jpg?alt=media&token=cb95593e-6f41-422a-ae2d-4ce74455ba0a",
     imagenSecundaria:
@@ -3748,7 +3748,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=cc00c60f-ce21-4f53-ac50-d5360c9137cb",
     imagenSecundaria:
@@ -3761,7 +3761,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=35f8d41d-044e-4373-8434-8f0b823c78f1",
     imagenSecundaria:
@@ -3774,7 +3774,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(5).jfif?alt=media&token=0ecd6f8d-62bf-441d-a3af-33b0adb60d1c",
     imagenSecundaria:
@@ -3787,7 +3787,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-cheddar1-ecdea19f4d4682e99116364720978226-640-0.jpeg?alt=media&token=10bff3bb-7dc5-4dfb-a61f-446621786c89",
     imagenSecundaria:
@@ -3800,7 +3800,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snacks-hierbas1-541c989724d1e76dca16364722904621-640-0.jpeg?alt=media&token=9be8e653-fc09-4974-bf4e-bc54a0c5e046",
     imagenSecundaria:
@@ -3813,7 +3813,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/snack-mediterraneo1-11309b3b2f0a0cd92e16364726083929-640-0.jpeg?alt=media&token=c65978c5-13bb-4c4d-9838-3fde0d4d0290",
     imagenSecundaria:
@@ -3826,7 +3826,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=8eb55957-ad5d-4ca8-82eb-5373798f3864",
     imagenSecundaria:
@@ -3839,7 +3839,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "snacks-sin-taac",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/zzz131-796400b955488fdacd16226504629809-480-0.jpg?alt=media&token=3ade59d5-8c4c-4c35-bda9-ba8f9e66d708",
     imagenSecundaria:
@@ -3855,7 +3855,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Tofu-Soyana-768x768-1.png?alt=media&token=39fc9cf2-8e3e-4a6d-b72d-0a16b9d01790",
     imagenSecundaria:
@@ -3868,7 +3868,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogur-Dahi-Descremado-Sabor-Natural-200g-1-30318.png?alt=media&token=b3d93d04-d657-4463-a66c-81cde96233a6",
     imagenSecundaria:
@@ -3881,7 +3881,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Entero-Dahi-Con-Colchon-De-Frutilla-200-Gr-1-14228.png?alt=media&token=9a16b413-3d32-4fa2-a120-a40fe2ffd10a",
     imagenSecundaria:
@@ -3894,7 +3894,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/500635-500-auto.png?alt=media&token=daca9f9c-f8d5-4fef-a778-ed55dda5274a",
     imagenSecundaria:
@@ -3907,7 +3907,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ciruelass.png?alt=media&token=81f0f329-8443-408d-a9ad-2e9ebd15c2eb",
     imagenSecundaria:
@@ -3920,7 +3920,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Dahi-con-Frutas-Descremado-Limon.png?alt=media&token=fd453aab-0e77-4780-b3e4-f7794dc81407",
     imagenSecundaria:
@@ -3933,7 +3933,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/77981368701321-15e1a00c66b3df842316837509717383-1024-1024.jpg?alt=media&token=61848191-4d1d-4152-abe3-f41991ea1cbf",
     imagenSecundaria:
@@ -3946,7 +3946,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Descremado-Dahi-Con-Colchon-De-Maracuya-Y-Mango-200-Gr-1-7279.png?alt=media&token=af5c193a-41d2-4769-9943-f227536af82d",
     imagenSecundaria:
@@ -3959,7 +3959,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/coco-iogo-sabor-frutilla-sin-azucar-agregada-crudda.jpg?alt=media&token=db42585a-dd0a-40d5-83e4-fdb5f3bb2a83",
     imagenSecundaria:
@@ -3972,7 +3972,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/351-5162505a875e20f29315962164605934-640-0.png?alt=media&token=ea798a73-3ce9-4b86-877e-d2a165ffd840",
     imagenSecundaria:
@@ -3985,7 +3985,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crudda-coco-y-maracuya.png?alt=media&token=a7f206d5-f76d-43b8-a712-2cdb533bf5c4",
     imagenSecundaria:
@@ -3998,7 +3998,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
     imagenSecundaria:
@@ -4011,7 +4011,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
     imagenSecundaria:
@@ -4024,7 +4024,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/20221129_105338.jpg?alt=media&token=3a0632f5-53ae-40ae-a737-c6b943be720b",
     imagenSecundaria:
@@ -4037,7 +4037,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur_vainilla.jpeg?alt=media&token=f04ce2c3-7e52-4850-a0a5-d5684bfc5955",
     imagenSecundaria:
@@ -4050,7 +4050,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/felices-las-vacas-yogurt-durazno-600x600%20(1).png?alt=media&token=7acb08c3-5ed9-4bab-a8a9-46c87dadb6f6",
     imagenSecundaria:
@@ -4063,7 +4063,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Mock-up_Yogur-190_colchon-mango-y-maracuya.jpg?alt=media&token=75bf9f1a-fdb7-4880-89c7-2a13eb701d15",
     imagenSecundaria:
@@ -4076,7 +4076,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frutos-del-bosque1-1b21c553eee1d6648016789068521039-240-0.png?alt=media&token=6c7102e9-cbd2-4997-b836-a89d5f01e2f9",
     imagenSecundaria:
@@ -4089,7 +4089,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/dulce-de-leche-de-almendras-x-250g-felices-las-vacas-the-fresh-market1-25dea144388e8aa31e16461808851910-640-0.jpg?alt=media&token=66539bd4-b398-4cda-bf78-41734794bf50",
     imagenSecundaria:
@@ -4102,7 +4102,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0.jfif?alt=media&token=a92cc586-c279-4d98-9182-9fb877d46cba",
     imagenSecundaria:
@@ -4115,7 +4115,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/queso_fantastique_finas_hierbas_felices_las_vacas__1__copy.png?alt=media&token=b3191203-bc1e-4e51-b476-d80701487bf0",
     imagenSecundaria:
@@ -4128,7 +4128,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(2).jfif?alt=media&token=6d429fd1-4c31-481d-8035-cad6be9a8066",
     imagenSecundaria:
@@ -4141,7 +4141,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/6-2.png?alt=media&token=8b5e93d3-838d-40c9-8f66-34ead4ed06ec",
     imagenSecundaria:
@@ -4154,7 +4154,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=f3cd3222-b163-4b38-9f87-04ba3ae6c97f",
     imagenSecundaria:
@@ -4167,7 +4167,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=d742b9bb-6332-4746-8627-81203b680bd5",
     imagenSecundaria:
@@ -4180,7 +4180,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=df926992-7001-459a-aaba-413835880e93",
     imagenSecundaria:
@@ -4193,7 +4193,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Hummus-Clasico-Sin-TACC-Kyros-230gr_1.jpg?alt=media&token=1bcff741-e4a7-4691-9715-296102633c93",
     imagenSecundaria:
@@ -4206,7 +4206,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almacen-hummus-kyros-conpimenton1-831cdd60962692732c16655181757222-640-0.png?alt=media&token=279bb3b3-7b31-4a56-bc07-6950911072d4",
     imagenSecundaria:
@@ -4219,7 +4219,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/OLIVA.png?alt=media&token=d37197e2-fb34-457d-97a5-59497e9da844",
     imagenSecundaria:
@@ -4232,7 +4232,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-frutilla-x-500cc-estancia-los-naranjos1-dee7f83e321b7014c916242296684775-640-0.jpg?alt=media&token=d2a2c9ee-dd49-44ce-b5b1-372ca30b21ea",
     imagenSecundaria:
@@ -4245,7 +4245,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-maracuya-x-500cc-estancia-los-naranjos1-3e206c418fbc0c55c816242294471218-640-0.jpg?alt=media&token=6f4c6104-7ba1-40d9-961b-b171dacac2e2",
     imagenSecundaria:
@@ -4258,7 +4258,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=e17f56f2-3e72-4fcf-811c-0470d0fdba07",
     imagenSecundaria:
@@ -4271,7 +4271,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Estancia-los-naranjos-naranja-y-durazno.jpg?alt=media&token=5b302bcf-c400-4eea-8da0-d8c95f2c006b",
     imagenSecundaria:
@@ -4284,7 +4284,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(8).jfif?alt=media&token=0d595da0-c63e-42f9-bdae-0686976fa1da",
     imagenSecundaria:
@@ -4297,7 +4297,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-pomelo-x-500cc-estancia-los-naranjos1-40bcf7f8862eceb02716242290465917-640-0.jpg?alt=media&token=f64c1b92-11a9-4a7b-b9c7-77d6b6791874",
     imagenSecundaria:
@@ -4310,7 +4310,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4323,7 +4323,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4336,7 +4336,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4349,7 +4349,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4362,7 +4362,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "Heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugos-cuarto-creciente.jpg?alt=media&token=f2baea6a-2746-459b-83c8-9a4c215b2cf6",
     imagenSecundaria:
@@ -4379,7 +4379,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
     imagenSecundaria:
@@ -4392,7 +4392,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/934-low-carb-protein-bar-x-unidad.jpg?alt=media&token=d6b28f8a-4cf7-4ed1-b977-bac0f2f1c26b",
     imagenSecundaria:
@@ -4405,7 +4405,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Proteinas-Gentech-sabor-_0003_IRON-BAR-2020-CHOCOLATE-1-768x768.jpg?alt=media&token=f02cbabd-095a-476c-be40-9bdbc8bc903a",
     imagenSecundaria:
@@ -4418,7 +4418,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-frutilla-el-banquito-market-1.jpg?alt=media&token=2fde98e9-2aff-4764-94d5-a10e70edaec0",
     imagenSecundaria:
@@ -4431,7 +4431,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-Coco-46Grs-el-banquito-market.jpg?alt=media&token=10e45dbf-d429-4e8a-8d1c-df10bc264e4b",
     imagenSecundaria:
@@ -4444,7 +4444,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Iron-Bar-Barra-Prote%C3%ADna-banana-el-banquito-market.jpg?alt=media&token=16662df2-f324-40cf-a14b-36dbd4e2dedc",
     imagenSecundaria:
@@ -4457,7 +4457,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=9b20341a-c716-41f0-964c-b08a4c580a92",
     imagenSecundaria:
@@ -4470,7 +4470,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
     imagenSecundaria:
@@ -4483,7 +4483,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
     imagenSecundaria:
@@ -4496,7 +4496,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
     imagenSecundaria:
@@ -4509,7 +4509,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
     imagenSecundaria:
@@ -4522,7 +4522,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=de4593f6-1038-464f-a459-9a2d55facdc4",
     imagenSecundaria:
@@ -4535,7 +4535,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_948395-MLA70093726660_062023-F.jpg?alt=media&token=807117b8-149d-4380-83e2-e86b3be8a5c1",
     imagenSecundaria:
@@ -4548,7 +4548,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_916318-MLA53971306501_022023-V.jpg?alt=media&token=d5b8ae73-6428-4cf2-b391-544781f4248b",
     imagenSecundaria:
@@ -4561,7 +4561,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-vainilla.webp?alt=media&token=82ed0088-9d19-4e56-b6eb-8e46a780ed4b",
     imagenSecundaria:
@@ -4574,7 +4574,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/kibar-manzana-021-602b7eb0209e9aacd716764204002606-240-0.jpg?alt=media&token=d60b1104-55ac-442a-8d0f-a8c2a3747b2d",
     imagenSecundaria:
@@ -4587,7 +4587,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cafe-x61-6ab39d73b7ec0da33316803736542948-640-0.png?alt=media&token=061b7c63-9cc3-4e27-a72d-b9dc70b797da",
     imagenSecundaria:
@@ -4600,7 +4600,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_782670-MLA48450100630_122021-O.webp?alt=media&token=d8324622-7709-414c-a188-67ceb3c78d62",
     imagenSecundaria:
@@ -4613,7 +4613,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_737939-MLA48449990781_122021-O.webp?alt=media&token=42b8d630-0ff2-42f1-8095-6c0ce94882a6",
     imagenSecundaria:
@@ -4626,7 +4626,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_765160-MLA52845381465_122022-O.webp?alt=media&token=7fa839ce-fb92-4e5f-9d72-40d830d4cd9f",
     imagenSecundaria:
@@ -4639,7 +4639,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-11-04-at-18-57-471-53e811c420560a59a516676102942836-240-0.jpeg?alt=media&token=7de70d2c-497a-4ad2-8ab4-5474ee6a6251",
     imagenSecundaria:
@@ -4652,7 +4652,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/vento-premezcla1-2c0de49f370376f40e16604085600987-640-0.jpg?alt=media&token=c5d0462c-8cfe-48a5-81a3-063a3867a7e6",
     imagenSecundaria:
@@ -4665,7 +4665,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
     imagenSecundaria:
@@ -4678,7 +4678,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
     imagenSecundaria:
@@ -4691,7 +4691,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
     imagenSecundaria:
@@ -4704,7 +4704,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
     imagenSecundaria:
@@ -4717,7 +4717,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almendras%20salado.jpg?alt=media&token=259c19e2-63c8-4643-9f8f-088a6d3c122c",
     imagenSecundaria:
@@ -4730,7 +4730,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
     imagenSecundaria:
@@ -4743,7 +4743,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/premezcla-gran1-5186e2b9b42337d22116563606749976-640-0.jpeg?alt=media&token=66ec0286-5dc4-4c60-b30d-b3090345cf2e",
     imagenSecundaria:
@@ -4756,7 +4756,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/pancakes-keto-ok1-f804be720da2f179f116812309651783-640-0.jpeg?alt=media&token=f243ff01-782b-47ed-8f50-7bc858d7bc7b",
     imagenSecundaria:
@@ -4769,7 +4769,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=10e76e99-6b82-4a7a-8ae6-fb926a93fb0e",
     imagenSecundaria:
@@ -4782,7 +4782,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/omelette-jyq1-62e08b79b76e3d1b5716831209468879-640-0.png?alt=media&token=eade4576-379b-40f7-875b-7b15210b71b1",
     imagenSecundaria:
@@ -4795,7 +4795,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/soja1-1351f05dcffd85e0fd16428596206540-640-0.jpg?alt=media&token=9135cf44-625c-4c16-bac1-21b8708d0748",
     imagenSecundaria:
@@ -4808,7 +4808,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/granger_proteina_de_arvejas_750grs_fisicalzone_web11-110a8077f7c59456c616841714004824-640-0.png?alt=media&token=ce3a9e67-8457-4327-9996-cfd5b3a5d82f",
     imagenSecundaria:
@@ -4821,7 +4821,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "productos-proteicos",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/67271024-85a5-4b28-aa33-6e1edbfdc38d.jpg?alt=media&token=fe149f01-6682-46f9-bf9d-2a16534895ef",
     imagenSecundaria:
@@ -4837,7 +4837,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/maicena-e1645136609263.jpg?alt=media&token=4dad9690-450f-4ad4-bf17-b2797ee6905c",
     imagenSecundaria:
@@ -4850,7 +4850,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download.jfif?alt=media&token=0f9380c0-927b-4a78-8573-2a1f58a8131e",
     imagenSecundaria:
@@ -4863,7 +4863,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/f08f030c-a67f-43e2-be28-5091778365ab1-fe55c00784f4fa8c0016329562200653-640-0.jpeg?alt=media&token=a4faa1ed-889f-48f6-a382-1be5858ff1c8",
     imagenSecundaria:
@@ -4876,7 +4876,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/D_NQ_NP_778787-MLA49693650463_042022-O.png?alt=media&token=8e90b73b-4365-4ef6-b63f-0e35636d7c9e",
     imagenSecundaria:
@@ -4889,7 +4889,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/741-c0e72c377b7ec1d18716735678050021-640-0.png?alt=media&token=4c9db2f3-4643-46eb-baa0-7fbe72ed0467",
     imagenSecundaria:
@@ -4902,7 +4902,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=56403785-3e74-42db-8f72-8a5b0069f908",
     imagenSecundaria:
@@ -4915,7 +4915,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(6).jfif?alt=media&token=53a30d91-fc27-4ad7-ab68-885001558e64",
     imagenSecundaria:
@@ -4929,7 +4929,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(10).jfif?alt=media&token=498fcb2c-f038-4213-9943-e0c829396b02",
     imagenSecundaria:
@@ -4942,7 +4942,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/chocolate-blanco-ficha.jpg?alt=media&token=aae20cd0-bbac-435f-83eb-b9ef8d154c75",
     imagenSecundaria:
@@ -4955,7 +4955,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/cerr09_1-d64b95f194d56c2ca616608523567649-480-0.jpg?alt=media&token=72a76192-6b5e-46e2-bc50-e56c1efb0d65",
     imagenSecundaria:
@@ -4968,7 +4968,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ALFAJOR-DE-LIMON-CERRO-AZUL.jpg?alt=media&token=9e7a8205-c1ac-4cb0-b14b-8a094b6be5da",
     imagenSecundaria:
@@ -4981,7 +4981,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(12).jfif?alt=media&token=ecb27d4f-6e25-4156-9eb2-73c375a8ed3f",
     imagenSecundaria:
@@ -4994,7 +4994,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).png?alt=media&token=d877d034-35e6-4075-88a9-e72a13b6fa6c",
     imagenSecundaria:
@@ -5007,7 +5007,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "alfajores-barritas-golisonas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(13).jfif?alt=media&token=e0c2f764-1f24-42f6-9b6b-f49cf1d92ce6",
     imagenSecundaria:
@@ -5024,7 +5024,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226434_barra-de-cereal-integra-de-almendra-y-nuez-x-42-g_imagen-1.png?alt=media&token=40866ea0-a356-478a-ab2c-f176b8079ec6",
     imagenSecundaria:
@@ -5037,7 +5037,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226432_barra-de-cereal-integra-de-girasol-y-arandano-x-43-g_imagen-1.webp?alt=media&token=99490726-4f6d-4391-abc9-c35794d878a5",
     imagenSecundaria:
@@ -5050,7 +5050,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/integra-caju-arandanos1-cdaa55cc6dc1e91f2216164259557073-640-0.jpg?alt=media&token=90651313-c57f-4e56-af6b-8a5a62c315d3",
     imagenSecundaria:
@@ -5063,7 +5063,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226436_barra-de-cereal-integra-de-banana-y-nuez-x-44-g_imagen-1.png?alt=media&token=110f6161-2ade-4567-8fdb-ea7a1373a3f9",
     imagenSecundaria:
@@ -5076,7 +5076,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/226433_barra-de-cereal-integra-de-chocolate-y-avena-x-40-g_imagen-1.png?alt=media&token=4fac0896-74bf-4f7c-932d-d45df5df9a08",
     imagenSecundaria:
@@ -5089,7 +5089,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/335127414047_ifgoxnolbvyi_727453856088_fojtxnkbnteu_471330_1.png?alt=media&token=49e80762-730d-4922-bff7-95413aa97491",
     imagenSecundaria:
@@ -5102,7 +5102,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/335127414047_ifgoxnolbvyi_727453856088_fojtxnkbnteu_471330_1.png?alt=media&token=49e80762-730d-4922-bff7-95413aa97491",
     imagenSecundaria:
@@ -5115,7 +5115,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Bocadito-Integra-Man-Ar-n-Y-Choco-X26g-1-958298.png?alt=media&token=96d2f1ba-64b0-4ed5-8d66-78f7e4b7d7fd",
     imagenSecundaria:
@@ -5128,7 +5128,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/231641_bocaditos-integra-chocolate-y-mani-x-26-g_imagen-1.png?alt=media&token=6a89174b-a872-4ac3-9e2d-abfbc30cf118",
     imagenSecundaria:
@@ -5141,7 +5141,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/alfajor%20animal.jpg?alt=media&token=41ab0d46-4b13-43f9-96a1-c3a43752281e",
     imagenSecundaria:
@@ -5154,7 +5154,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/whatsapp-image-2022-01-26-at-10-50-43-62e88ad704616%20(1).jpeg?alt=media&token=74620cca-35fc-41cc-87cf-1a434f2509a8",
     imagenSecundaria:
@@ -5167,7 +5167,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Arba-Veggie-Portada.png?alt=media&token=db0eb2c0-db30-47ad-a921-9074cd3ecfd4",
     imagenSecundaria:
@@ -5180,7 +5180,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(16).jfif?alt=media&token=82cd909a-3f67-403b-87a2-cb604033d135",
     imagenSecundaria:
@@ -5193,7 +5193,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Caja-Cubanitos-Arba-Veggi-Publicidad.png?alt=media&token=70db592a-cff4-4bdc-8cc8-d459572bb0e3",
     imagenSecundaria:
@@ -5206,7 +5206,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(17).jfif?alt=media&token=b1874191-32f9-4338-9890-9d42f90ba784",
     imagenSecundaria:
@@ -5219,7 +5219,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(18).jfif?alt=media&token=5c6370b1-baa5-4f92-9c5c-cb9ee562fb01",
     imagenSecundaria:
@@ -5232,7 +5232,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.42.58.jpeg?alt=media&token=d962e7af-e5c9-427b-831c-f4aab44c15ec",
     imagenSecundaria:
@@ -5245,7 +5245,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/naranja.jfif?alt=media&token=bb88b78b-4e02-401a-a219-a62979940a3e",
     imagenSecundaria:
@@ -5258,7 +5258,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "barritas-golosinas-veggie",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/WhatsApp-Image-2021-11-15-at-15.55.43.jpeg?alt=media&token=e850817c-5005-4601-a100-1951e60414e5",
     imagenSecundaria:
@@ -5274,7 +5274,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F1_1000x1000.jpg?alt=media&token=9390eecc-1686-4223-8aa0-3f66f84a6204",
     imagenSecundaria:
@@ -5287,7 +5287,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F118476553_3462092963814309_93508832131211452_o.jpg?alt=media&token=fac1eb0c-3829-4efd-a0a8-e7eaa674325b",
     imagenSecundaria:
@@ -5300,7 +5300,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload.jfif?alt=media&token=f28e1579-20ef-4f9c-888f-17cbf3839a21",
     imagenSecundaria:
@@ -5313,7 +5313,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload.jfif?alt=media&token=3064a9c4-402c-4802-a5c0-e76d5f3e1567",
     imagenSecundaria:
@@ -5326,7 +5326,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FCOOKIESINTEGRALESDECHOCOLATEYMANIX200GRS-LAFRANCIA_1400x%20(1).PNG?alt=media&token=44559212-afb6-472e-bbe9-261528d526e2",
     imagenSecundaria:
@@ -5339,7 +5339,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepas-algarroba-la-francia1-cdd720c14e2ed817fd16588633585891-480-0.jpg?alt=media&token=b6328e76-74a2-4eef-974e-261eaf14e2bd",
     imagenSecundaria:
@@ -5352,7 +5352,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepa-membrillo.jpg?alt=media&token=aa14108f-4f3c-4b5e-8a6c-e1c8c65d8034",
     imagenSecundaria:
@@ -5365,7 +5365,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FWhatsApp-Image-2023-08-10-at-13.26.40.jpeg?alt=media&token=c4ecdc89-255b-4dcf-899e-60960cb9dbbc",
     imagenSecundaria:
@@ -5378,7 +5378,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmulticereal.jpg?alt=media&token=e7d2a720-94b7-4c38-b145-8406b92dbd8d",
     imagenSecundaria:
@@ -5391,7 +5391,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
     imagenSecundaria:
@@ -5404,7 +5404,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Falgarrobo%20y%20sesamo.jpeg?alt=media&token=7ed2c5df-9fa7-4188-bb4b-8aa81be3a688",
     imagenSecundaria:
@@ -5417,7 +5417,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(2).jfif?alt=media&token=3d85192d-6ea2-48c8-94de-ca026477cd6d",
     imagenSecundaria:
@@ -5430,7 +5430,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
     imagenSecundaria:
@@ -5444,7 +5444,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fb6cc3734b472077236f656eab7920ecc2761c1182934f2873a7f04eab8e77b78147287.jpg?alt=media&token=89aa8b27-ce79-4983-95aa-ea6fa795e14e",
     imagenSecundaria:
@@ -5457,7 +5457,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FDSC_0711-copy.jpg?alt=media&token=9a520a97-f284-4c7e-9782-332c333d4f11",
     imagenSecundaria:
@@ -5470,7 +5470,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
     imagenSecundaria:
@@ -5483,7 +5483,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages.jfif?alt=media&token=71473250-de04-4b71-9b22-a77e6583044a",
     imagenSecundaria:
@@ -5496,7 +5496,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2F06bf6d40-63c1-11ed-9566-efd4ba0ff2bc%20(1).png?alt=media&token=a78b0ea1-7eef-4d18-bd7d-8410c55d2363",
     imagenSecundaria:
@@ -5509,7 +5509,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Flimon-y-frutilla1-4d22f91e240d4ef6ba16025375336002-640-01-41f9b5eff17ca9400716548294858764-640-0.jpg?alt=media&token=4a0bba65-13fe-4cdc-b427-3bc7630e410f",
     imagenSecundaria:
@@ -5522,7 +5522,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies_avena-y-coco%20(1).png?alt=media&token=d6c42521-e959-4947-bc29-cc56157170ce",
     imagenSecundaria:
@@ -5535,7 +5535,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fmeltaim-avena-y-pasas.jpg?alt=media&token=3345afe5-c3d3-487d-93c3-e1db0df028e5",
     imagenSecundaria:
@@ -5548,7 +5548,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcacao-y-chips1-ef4ed28b106811a37116025373661676-1024-10241-dbc935a200e266034d16547441734022-240-0.jpg?alt=media&token=f54f446a-99f6-4df2-8a27-f1ca459d66b0",
     imagenSecundaria:
@@ -5561,7 +5561,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fvainilla-y-chips1-90d174c636f81043f316025300885184-640-01-2449196ed8f88283e416548296228951-640-0.jpg?alt=media&token=88d72148-6823-4354-ab66-1e4a45268767",
     imagenSecundaria:
@@ -5574,7 +5574,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrema-y-cebolla1-267495aec114e75b1916475172154801-1024-1024.jpg?alt=media&token=970994d7-0f13-4359-8555-eb440e34152d",
     imagenSecundaria:
@@ -5587,7 +5587,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(5).jfif?alt=media&token=3d5e3cd1-12cc-4619-9b93-091d41dfaa1b",
     imagenSecundaria:
@@ -5600,7 +5600,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
     imagenSecundaria:
@@ -5613,7 +5613,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fimages%20(1).jfif?alt=media&token=527a8387-03c5-409f-be0d-309f160628eb",
     imagenSecundaria:
@@ -5626,7 +5626,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcookies-limon-y-amapola1-552c83cf8ecb19390316093424377283-640-01-6d6f061ec5fa85a94b16155815832902-240-0.png?alt=media&token=270ab1fd-6d7b-4a70-8920-c57d3d96a2f1",
     imagenSecundaria:
@@ -5639,7 +5639,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_649786-MLU71081798280_082023-O.png?alt=media&token=026f69f4-a56e-4a68-b85d-bb0ca38c9715",
     imagenSecundaria:
@@ -5652,7 +5652,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FD_Q_NP_761751-MLU71119668347_082023-O.png?alt=media&token=3ca8735b-e2bc-467f-a493-24ecf94d2ff6",
     imagenSecundaria:
@@ -5665,7 +5665,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-semillas-5-e1656601356528.png?alt=media&token=3d9b1c2b-3936-437a-83cc-89a594d9f78e",
     imagenSecundaria:
@@ -5678,7 +5678,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcrackers-parmesano1-2b70a202e63cbc4bee16503668826606-640-0.jpg?alt=media&token=b6f7f007-05f6-48bd-912a-f1e3dfb46244",
     imagenSecundaria:
@@ -5691,7 +5691,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(8).jfif?alt=media&token=4abb165c-e7c8-4eb0-b73f-920be9f6d9eb",
     imagenSecundaria:
@@ -5704,7 +5704,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(9).jfif?alt=media&token=98810d2e-60d9-4388-8627-016b399bb5b4",
     imagenSecundaria:
@@ -5717,7 +5717,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(10).jfif?alt=media&token=236bf19e-4a46-4356-8fe0-d47bf8e6a429",
     imagenSecundaria:
@@ -5730,7 +5730,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fcorazones-jengibre-y-miel-editada-1-380x38011-acdae3cf72b66fd9d916243045370070-640-0.png?alt=media&token=546d53d8-5364-420f-98a7-8f7dd97f6c35",
     imagenSecundaria:
@@ -5743,7 +5743,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2FnARA.png?alt=media&token=7a6fc800-6fcf-4edd-953d-1e29c268b671",
     imagenSecundaria:
@@ -5756,7 +5756,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(13).jfif?alt=media&token=1150b31e-5673-4653-9147-505c4d291cdd",
     imagenSecundaria:
@@ -5769,7 +5769,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fdownload%20(14).jfif?alt=media&token=7541b043-14aa-42ad-9588-b030ecc3c88a",
     imagenSecundaria:
@@ -5782,7 +5782,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "yerbas",
+    categoria: "galletitas",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/galletitas%2Fpepasmembrillo.png?alt=media&token=9d61c2f7-9e71-4866-a478-6bf158b236bc",
     imagenSecundaria:

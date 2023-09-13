@@ -5,6 +5,7 @@ import Modal from "@mui/material/Modal";
 import Fade from "@mui/material/Fade";
 import Typography from "@mui/material/Typography";
 import BotonFondoFijo from "../../../Common/SectionHome/FondoFijo/BotonFondoFijo/BotonFondoFijo";
+import { CartContext } from "../../../../Context/CartContext";
 
 const style = {
   position: "absolute",
@@ -30,7 +31,12 @@ export default function CerrarSesion({
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
+ const {logout} = React.useContext(CartContext)
 
+ const salirSesion = ()=>{
+  cerrarSesionUser(false)
+  logout()
+ }
   return (
     <div>
       <div onClick={handleOpen}>
@@ -68,7 +74,7 @@ export default function CerrarSesion({
               {subtitulo}
             </Typography>
             <div className="modal__botones">
-              <div onClick={() => cerrarSesionUser(false)}>
+              <div onClick={() => salirSesion(false)}>
                 <BotonFondoFijo text={"Aceptar"} />
               </div>
               <div onClick={() => handleClose()}>

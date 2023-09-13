@@ -1,4 +1,4 @@
-import * as React from "react";
+import React, { useEffect } from "react";
 import Backdrop from "@mui/material/Backdrop";
 import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
@@ -21,7 +21,7 @@ import PermIdentityIcon from '@mui/icons-material/PermIdentity';
 import { CartContext } from "../../../../Context/CartContext";
 
 export default function ModalInicioSesion() {
-  const { usuarioOn, setUsuarioOn, user, setUser } = React.useContext(CartContext);
+  const { usuarioOn, setUsuarioOn, user, setUser, logout } = React.useContext(CartContext);
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -39,7 +39,7 @@ export default function ModalInicioSesion() {
         .required("Este campo es requerido"),
       password: Yup.string()
         .required("Este campo es requerido")
-        .min(6, "debe tener minimo 6 caracteres"),
+        .min(6, "debe tener mínimo 6 caracteres"),
     }),
     async onSubmit(data) {
       try {
@@ -47,12 +47,13 @@ export default function ModalInicioSesion() {
         let resultado = await login(data);
         if (resultado.user) {
           setCircular(true);
+          localStorage.setItem("userData", JSON.stringify(data));
           setTimeout(() => {
             setUsuarioOn(!usuarioOn);
             Swal.fire({
               position: "center",
               icon: "success",
-              title: "Bienvenido a Cascanueces saludable ! ",
+              title: "¡Bienvenido a Cascanueces saludable!",
               showConfirmButton: true,
               timer: 3500,
             });
@@ -64,17 +65,33 @@ export default function ModalInicioSesion() {
         setEstado(true);
       }
     },
-
     validateOnChange: false,
   });
+
+  useEffect(() => {
+    const storedUserData = localStorage.getItem("userData");
+    if (storedUserData) {
+      const userData = JSON.parse(storedUserData);
+      setUser(userData);
+      setUsuarioOn(true);
+    }
+  }, []);
+
   return (
     <div className="modal__inicioSesion__boton">
-      <button onClick={handleOpen}>
-        <img
-          className="modal__iniciosesion__person"
-          src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692827462/CASCANUCES%20SALUDABLE/usuario_1_qvo5pw.png"
-        ></img>
-      </button>
+      {usuarioOn ? (
+        <button onClick={logout}>
+          Cerrar Sesión
+        </button>
+      ) : (
+        <button onClick={handleOpen}>
+          <img
+            className="modal__iniciosesion__person"
+            src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692827462/CASCANUCES%20SALUDABLE/usuario_1_qvo5pw.png"
+            alt="Usuario"
+          ></img>
+        </button>
+      )}
       <Modal
         aria-labelledby="transition-modal-title"
         aria-describedby="transition-modal-description"
@@ -97,7 +114,7 @@ export default function ModalInicioSesion() {
                   : "container_loadingCircular displayCircular"
               }
             >
-            <div className="loader"></div>
+              <div className="loader"></div>
             </div>
             <div className="container-box">
               <CloseIcon
@@ -122,7 +139,7 @@ export default function ModalInicioSesion() {
                   }}
                   id="transition-modal-description"
                 >
-                  Para comenzar ingresá tu email
+                  Para comenzar, ingresa tu email
                 </Typography>
               </div>
 
@@ -136,7 +153,7 @@ export default function ModalInicioSesion() {
                 onSubmit={handleSubmit}
               >
                 <TextField
-                className="input__inicioSesion"
+                  className="input__inicioSesion"
                   name="email"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}
@@ -147,8 +164,7 @@ export default function ModalInicioSesion() {
                   helperText={errors.email}
                 />
                 <TextField
-                className="input__inicioSesion"
-                  
+                  className="input__inicioSesion"
                   name="password"
                   onChange={handleChange}
                   onFocus={() => setEstado(false)}

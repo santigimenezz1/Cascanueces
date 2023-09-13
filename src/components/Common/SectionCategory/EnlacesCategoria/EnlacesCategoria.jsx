@@ -87,43 +87,43 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/yerbas"}>
                 Yerbas
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Pepas
+              <Link className="link" to={"/categoria/galletitas"}>
+                Galletitas
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Pochoclo
+              <Link className="link" to={"/categoria/productos-proteicos"}>
+              barritas-golisonas-veggie
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Postre
+              <Link className="link" to={"/categoria/alfajores-barritas-golisonas-veggie"}>
+              alfajores-barritas-golisonas-veggie
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Tortitas Healthy
+              <Link className="link" to={"/categoria/productos-proteicos"}>
+              Productos-proteicos
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Wafles
+              <Link className="link" to={"/categoria/Heladera"}>
+              Heladera
               </Link>
             </ul>
           </div>
           <div>
             <h1>Infaltable</h1>
             <ul>
-              <Link className="link" to={"/categoria/caldito"}>
-                Aceite de Chia
+              <Link className="link" to={"/categoria/snacks-sin-taac"}>
+              Snacks-sin-taac
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Aceite de coco
+              <Link className="link" to={"/categoria/alfajores-golosinas-sin-azucar"}>
+              Alfajores-golosinas-sin-azucar
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Aceite de Oliva
+              <Link className="link" to={"/categoria/alfajores-barritas-golosinas-sin-taac"}>
+              Alfajores-barritas-golosinas-sin-taac
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Aderezos
+              <Link className="link" to={"/categoria/galletitas-sin-azucar"}>
+              Galletitas-sin-azucar
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Algas
+              <Link className="link" to={"/categoria/galletitas-sin-taac"}>
+              Galletitas-sin-taac
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Azúcar
+              <Link className="link" to={"/categoria/alfajores-golosinas-sin-azucar"}>
+              Alfajores-golosinas-sin-azucar
               </Link>
               <Link className="link" to={"/categoria/caldito"}>
                 Bebidas

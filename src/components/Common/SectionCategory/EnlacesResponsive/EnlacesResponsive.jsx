@@ -42,35 +42,35 @@ export default function AcordionCategorias() {
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/mothers"}
+              to={"/categoria/semillas"}
               onClick={handleAccordionChange}
             >
             <li>semillas</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/semillas"}
+              to={"/categoria/frutos-secos"}
               onClick={handleAccordionChange}
             >
               <li>frutos secos</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/frutosSecos"}
+              to={"/categoria/frutas-desecadas"}
               onClick={handleAccordionChange}
             >
               <li>frutas desecadas</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/frutasDesecadas"}
+              to={"/categoria/cereales"}
               onClick={handleAccordionChange}
             >
               <li>cereales</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/cereales"}
+              to={"/categoria/granola"}
 
               onClick={handleAccordionChange}
             >
@@ -78,150 +78,227 @@ export default function AcordionCategorias() {
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/granola"}
+              to={"/categoria/legumbres-arroz"}
               onClick={handleAccordionChange}
             >
               <li>legumbres y arroz</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/legumbresArroz"}
+              to={"/categoria/salados"}
               onClick={handleAccordionChange}
             >
               <li>salados</li>
             </Link>
             <Link
               className="linkCategorias"
-              to={"/categoria/salados"}
+              to={"/categoria/sales"}
               onClick={handleAccordionChange}
             >
               <li>sales</li>
             </Link>
             <Link
             className="linkCategorias"
-            to={"/categoria/sales"}
+            to={"/categoria/hierbas"}
             onClick={handleAccordionChange}
           >
             <li>hierbas</li>
           </Link>
           <Link
           className="linkCategorias"
-          to={"/categoria/hierbas"}
+          to={"/categoria/pastas-mani"}
           onClick={handleAccordionChange}
         >
           <li>pastas de mani</li>
         </Link>
         <Link
         className="linkCategorias"
-        to={"/categoria/pastaMani"}
+        to={"/categoria/harina-avenas"}
         onClick={handleAccordionChange}
       >
         <li>harinas y Avenas</li>
       </Link>
       <Link
       className="linkCategorias"
-      to={"/categoria/harinaAvena"}
+      to={"/categoria/reposteria"}
       onClick={handleAccordionChange}
     >
       <li>Reposteria</li>
     </Link>
     <Link
     className="linkCategorias"
-    to={"/categoria/reposteria"}
+    to={"/categoria/tostadas-galletas-arroz"}
     onClick={handleAccordionChange}
   >
     <li>Tostadas y Galletas de arroz</li>
   </Link>
   <Link
   className="linkCategorias"
-  to={"/categoria/TostadasGalletas"}
+  to={"/categoria/galletitas-sin-sal"}
   onClick={handleAccordionChange}
 >
   <li>Galletitas sin sal</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/GalletitasSinSal"}
+to={"/categoria/yerbas"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>yerbas</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/galletitas"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Galletitas</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/barritas-golosinas-veggie"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>barritas-golisonas-veggie</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/alfajores-barritas-golisonas-veggie"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>alfajores-barritas-golisonas-veggie</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/productos-proteicos"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Productos-proteicos</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/heladera"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Heladera</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/snacks-sin-taac"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Snacks-sin-taac</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/alfajores-golosinas-sin-azucar"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Alfajores-golosinas-sin-azucar</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/alfajores-barritas-golosinas-sin-taac"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Alfajores-barritas-golosinas-sin-taac</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/galletitas-sin-azucar"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Galletitas-sin-azucar</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/galletitas-sin-taac"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Galletitas-sin-taac</li>
 </Link>
 <Link
 className="linkCategorias"
-to={"/categoria/monitores"}
+to={"/categoria/alfajores-golosinas-sin-azucar"}
 onClick={handleAccordionChange}
 >
-<li>sales</li>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/alfajores-golosinas-sin-azucar"}
+onClick={handleAccordionChange}
+>
+<li>Alfajores-golosinas-sin-azucar</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/leches-vegetales"}
+onClick={handleAccordionChange}
+>
+<li>Leches vegetales</li>
+</Link>
+<Link
+className="linkCategorias"
+to={"/categoria/miel"}
+onClick={handleAccordionChange}
+>
+<li>Miel</li>
 </Link>
           </ul>
         </AccordionDetails>

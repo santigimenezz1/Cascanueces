@@ -389,7 +389,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "helados",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738248/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/nueces-mariposa-extra-light-x-10kg-venta-mayorista-d_nq_np_845711-mla33012615540_112019-f1-8f48c52c126dfe2d8015946852667264-640-0_aookvo.jpg",
     imagenSecundaria:
@@ -402,7 +402,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738248/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/almendras-non-pareil-california-frutos-secos-premium-x-kilo-d_nq_np_964276-mla40009380178_122019-f11-7a48d7accf3e44452015870689526353-640-0_r1ecno.jpg",
     imagenSecundaria:
@@ -415,7 +415,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738248/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/castanas-de-caju-saladas1-d5e581c48ece1df9e816624984483759-1024-1024_pvzk7o.jpg",
     imagenSecundaria:
@@ -428,7 +428,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738248/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/450_1000_ttrr4q.jpg",
     imagenSecundaria:
@@ -442,7 +442,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/download_8_cqode6.jpg",
     imagenSecundaria:
@@ -455,7 +455,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/155_m4yuym.jpg",
     imagenSecundaria:
@@ -469,7 +469,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "helados",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738246/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/mani-salado_fepuf8.jpg",
     imagenSecundaria:
@@ -482,7 +482,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738246/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/unnamed11-62cb9ac9d5f7826af415904318151047-640-0_lltc3v.jpg",
     imagenSecundaria:
@@ -496,7 +496,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738246/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/mix-europeo_mesa-de-trabajo-11-e2f2fa4d6479707d6215955382096020-640-0_meye4q.jpg",
     imagenSecundaria:
@@ -509,7 +509,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738245/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/D_NQ_NP_980623-MLA52625160534_112022-O_w2880c.webp",
     imagenSecundaria:
@@ -522,7 +522,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738245/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/7335f31529489ba5e4533981b4a243a1e9c0c6908d8e82f8af3fb4d4210521d665493_ghixho.jpg",
     imagenSecundaria:
@@ -536,7 +536,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738244/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/download_9_a4dkqh.jpg",
     imagenSecundaria:
@@ -549,7 +549,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutosSecos",
+    categoria: "frutos-secos",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738244/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/download_10_z67t4a.jpg",
     imagenSecundaria:
@@ -563,7 +563,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742176/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/Arandanos-desecados-e1591445229705_e1thvq.jpg",
     imagenSecundaria:
@@ -577,7 +577,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742196/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/download_11_kmvmir.jpg",
     imagenSecundaria:
@@ -590,7 +590,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742203/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/pasas-de-uva-rubias-1-kg-mendoza-sabores-andinos-envios-d_nq_np_997785-mla28113688879_092018-f1-f5914be495b6b7059515876851676661-1024-1024_oqom3k.jpg",
     imagenSecundaria:
@@ -604,7 +604,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742209/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/download_13_pfle4n.jpg",
     imagenSecundaria:
@@ -617,7 +617,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742214/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/5e9982c762a4f_oy7hki.jpg",
     imagenSecundaria:
@@ -630,7 +630,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742220/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/dos-ciruelas-tazan-con-pasas-1200x8001-f40725ece1620e858b15866438422404-640-0_qvkxu1.jpg",
     imagenSecundaria:
@@ -644,7 +644,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742267/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/602824_opvvhd.jpg",
     imagenSecundaria:
@@ -657,7 +657,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "frutasDesecadas",
+    categoria: "frutas-desecadas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692742261/CASCANUCES%20SALUDABLE/FRUTOS%20DESECADOS/download_15_qoosmx.jpg",
     imagenSecundaria:
@@ -979,7 +979,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748422/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/Beneficios-de-las-Lentejas_rngiot.jpg",
     imagenSecundaria:
@@ -992,7 +992,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748429/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/Lentejon-Salteno-01_qseecb.jpg",
     imagenSecundaria:
@@ -1006,7 +1006,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748435/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_26_hltyrg.jpg",
     imagenSecundaria:
@@ -1019,7 +1019,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748442/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/poroto-alubia1-665bb8987eb310b3ce15822293977835-640-0_vaf9pf.jpg",
     imagenSecundaria:
@@ -1032,7 +1032,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748449/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_29_aw5ekf.jpg",
     imagenSecundaria:
@@ -1046,7 +1046,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748456/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/8e753872176f9a2b5773fa7ea10d0ed771ff9e3ebab4b20a5fd92781feac74c711222_udblsr.jpg",
     imagenSecundaria:
@@ -1059,7 +1059,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748460/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/arveja1-c436381c66e3a1944115849157282648-640-0_hppytn.jpg",
     imagenSecundaria:
@@ -1072,7 +1072,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748465/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_30_z0hsdt.jpg",
     imagenSecundaria:
@@ -1085,7 +1085,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748484/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/arroz-largo-fino_ps2ue1.jpg",
     imagenSecundaria:
@@ -1098,7 +1098,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748494/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/450_1000_1_jkztkx.jpg",
     imagenSecundaria:
@@ -1111,7 +1111,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748489/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_31_klpozc.jpg",
     imagenSecundaria:
@@ -1125,7 +1125,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748422/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/Beneficios-de-las-Lentejas_rngiot.jpg",
     imagenSecundaria:
@@ -1138,7 +1138,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748429/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/Lentejon-Salteno-01_qseecb.jpg",
     imagenSecundaria:
@@ -1152,7 +1152,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748435/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_26_hltyrg.jpg",
     imagenSecundaria:
@@ -1165,7 +1165,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748442/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/poroto-alubia1-665bb8987eb310b3ce15822293977835-640-0_vaf9pf.jpg",
     imagenSecundaria:
@@ -1178,7 +1178,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748449/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_29_aw5ekf.jpg",
     imagenSecundaria:
@@ -1192,7 +1192,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "legumbresArroz",
+    categoria: "legumbres-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748456/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/8e753872176f9a2b5773fa7ea10d0ed771ff9e3ebab4b20a5fd92781feac74c711222_udblsr.jpg",
     imagenSecundaria:
@@ -1287,7 +1287,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753714/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/Almendras_sin_azucar-300x801_tfs6ff.png",
     imagenSecundaria:
@@ -1300,7 +1300,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753720/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/742_nwcrja.jpg",
     imagenSecundaria:
@@ -1313,7 +1313,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753728/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/download_35_heakn4.jpg",
     imagenSecundaria:
@@ -1327,7 +1327,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753746/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/download_36_zjit7h.jpg",
     imagenSecundaria:
@@ -1340,7 +1340,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753753/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/img-20210301-wa00961-ad67fa900cbe14176716146468433468-240-0_gnfua7.jpg",
     imagenSecundaria:
@@ -1354,7 +1354,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753758/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/tratenfu1-56c3f0b45de2d7858d15867397132505-640-0_dlwh5h.jpg",
     imagenSecundaria:
@@ -1367,7 +1367,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753769/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/PITEY-LECHEDEALMENDRASORIGINALX1LITRO_1400x_h5lnqu.webp",
     imagenSecundaria:
@@ -1380,7 +1380,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748449/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/download_29_aw5ekf.jpg",
     imagenSecundaria:
@@ -1394,7 +1394,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "lechesVegetales",
+    categoria: "leches-vegetales",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692753783/CASCANUCES%20SALUDABLE/LECHES%20VEGETALES/1635533651995_jjcmjd.png",
     imagenSecundaria:
@@ -1661,7 +1661,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/download_46_zwwdrj.jpg",
     imagenSecundaria:
@@ -1674,7 +1674,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/download_47_pxwdnc.jpg",
     imagenSecundaria:
@@ -1687,7 +1687,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692803253/CASCANUCES%20SALUDABLE/HIERVAS/download_49_wf2pum.jpg",
     imagenSecundaria:
@@ -1700,7 +1700,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/whatsapp-image-2022-07-01-at-7-05-07-pm1-561a8b8411fa4eaebd16567186649863-1024-1024_q5vkic.jpg",
     imagenSecundaria:
@@ -1714,7 +1714,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802886/CASCANUCES%20SALUDABLE/HIERVAS/PASTA_3_2_t3c0bo.jpg",
     imagenSecundaria:
@@ -1727,7 +1727,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "pastaMani",
+    categoria: "pastas-mani",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692802885/CASCANUCES%20SALUDABLE/HIERVAS/download_48_dmcwmv.jpg",
     imagenSecundaria:
@@ -1741,7 +1741,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815308/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/images_18_pn4yve.jpg",
     imagenSecundaria:
@@ -1754,7 +1754,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815332/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-de-almendras1-4d993e44b85fbeb45c15887161412979-640-0_r0ce3h.jpg",
     imagenSecundaria:
@@ -1767,7 +1767,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815342/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-de-coco_toj9pq.jpg",
     imagenSecundaria:
@@ -1780,7 +1780,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815357/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-de-avena1-f0a88c4ad9abaf42f615944927206115-640-0_wqawgu.jpg",
     imagenSecundaria:
@@ -1794,7 +1794,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815371/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-soja_kdhd25.jpg",
     imagenSecundaria:
@@ -1807,7 +1807,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815378/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/images_19_cw3i31.jpg",
     imagenSecundaria:
@@ -1820,7 +1820,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815385/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-integral1-661fde565294004e4215719585375809-640-0_rvrtbv.jpg",
     imagenSecundaria:
@@ -1833,7 +1833,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815394/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-de-arvejas_egwedb.jpg",
     imagenSecundaria:
@@ -1846,7 +1846,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815401/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/download_50_edp0yu.jpg",
     imagenSecundaria:
@@ -1859,7 +1859,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815409/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/algarroba1-80a602000fa868f99715944871101818-640-0_mo3ygl.jpg",
     imagenSecundaria:
@@ -1873,7 +1873,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815419/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/harina-arroz-propiedades_hn2vxf.jpg",
     imagenSecundaria:
@@ -1886,7 +1886,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815426/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/fecula_rg4eua.jpg",
     imagenSecundaria:
@@ -1899,7 +1899,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815439/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/avena-inst_ujutpg.jpg",
     imagenSecundaria:
@@ -1912,7 +1912,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815445/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/avena-gruesa1-78640f8b22ed6b0c2f15820487365136-640-0_fo8f7e.jpg",
     imagenSecundaria:
@@ -1925,7 +1925,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815497/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/salvado-avena-2_bxqdn5.jpg",
     imagenSecundaria:
@@ -1938,7 +1938,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815508/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/farelo-de-trigo_14742_l_oxi6c8.webp",
     imagenSecundaria:
@@ -1952,7 +1952,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "harinaAvena",
+    categoria: "harina-avenas",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692815515/CASCANUCES%20SALUDABLE/HARINAS%20Y%20AVENAS/trigo_burgol_grueso-700x700_baff4x.jpg",
     imagenSecundaria:
@@ -2220,7 +2220,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692821920/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/download_59_j0sowb.jpg",
     imagenSecundaria:
@@ -2233,7 +2233,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692821930/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/Tostadas-Molinos-Ala-Integrales-De-Arroz-Sin-Sal-150-Gr-1-843722_a5ulzb.webp",
     imagenSecundaria:
@@ -2246,7 +2246,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692821971/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/D_NQ_NP_960586-MLA45748275628_042021-O_v6btbw.webp",
     imagenSecundaria:
@@ -2259,7 +2259,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822023/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/img1_o2ywe6.jpg",
     imagenSecundaria:
@@ -2273,7 +2273,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822030/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/Galletas-Arroz-Original-Carilo-150gr-1-363206_pla2tb.webp",
     imagenSecundaria:
@@ -2286,7 +2286,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822036/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/D_NQ_NP_881359-MLA45731077430_042021-O_ipl7fm.webp",
     imagenSecundaria:
@@ -2299,7 +2299,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822043/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/download_61_boftl9.jpg",
     imagenSecundaria:
@@ -2312,7 +2312,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822048/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/images_26_inlxxx.jpg",
     imagenSecundaria:
@@ -2325,7 +2325,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822056/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/0274-1_cajpkd.webp",
     imagenSecundaria:
@@ -2338,7 +2338,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822062/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/ceral-galletas-de-arroz-integral_l_bccjtc.jpg",
     imagenSecundaria:
@@ -2351,7 +2351,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822067/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/galletas-de-arroz-sin-sal-ceral1-40c7cd81033378ef9e15996014370216-640-0_dtlao1.jpg",
     imagenSecundaria:
@@ -2364,7 +2364,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822072/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/ceral-galletas-de-arroz-dulces1-a905f49bb169d2c2df16022584359851-640-0_vbo9dx.jpg",
     imagenSecundaria:
@@ -2377,7 +2377,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822076/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/ScreenHunter_1846-Jun.-30-21.29_bfjfax.jpg",
     imagenSecundaria:
@@ -2391,7 +2391,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822083/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/main-60a7c78d26f2f_cyl6jp.jpg",
     imagenSecundaria:
@@ -2404,7 +2404,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822090/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/DULCES2_uxsol8.png",
     imagenSecundaria:
@@ -2417,7 +2417,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822094/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/LIGHT-01_ohrn6v.png",
     imagenSecundaria:
@@ -2430,7 +2430,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822099/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/SIN-SAL_n4wydu.png",
     imagenSecundaria:
@@ -2443,7 +2443,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822103/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/DULCES-01_mhwoto.png",
     imagenSecundaria:
@@ -2456,7 +2456,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692822110/CASCANUCES%20SALUDABLE/TostadasGalletas%20de%20arroz/LIGHT-01_1_gmey2p.png",
     imagenSecundaria:
@@ -2470,7 +2470,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692892500/CASCANUCES%20SALUDABLE/GALLETITAS%20SIN%20SAL/screenshot_20210722-225227_21-64548d2bbdab68856016273331870122-1024-1024_gkavy4.png",
     imagenSecundaria:
@@ -2483,7 +2483,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "TostadasGalletas",
+    categoria: "tostadas-galletas-arroz",
     imagenPrincipal:
       "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692892500/CASCANUCES%20SALUDABLE/GALLETITAS%20SIN%20SAL/screenshot_20210722-225217_2-11-4830c6ba0e376181c716273331020955-640-0_wg5nrr.png",
     imagenSecundaria:
@@ -3855,7 +3855,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Tofu-Soyana-768x768-1.png?alt=media&token=39fc9cf2-8e3e-4a6d-b72d-0a16b9d01790",
     imagenSecundaria:
@@ -3868,7 +3868,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogur-Dahi-Descremado-Sabor-Natural-200g-1-30318.png?alt=media&token=b3d93d04-d657-4463-a66c-81cde96233a6",
     imagenSecundaria:
@@ -3881,7 +3881,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Entero-Dahi-Con-Colchon-De-Frutilla-200-Gr-1-14228.png?alt=media&token=9a16b413-3d32-4fa2-a120-a40fe2ffd10a",
     imagenSecundaria:
@@ -3894,7 +3894,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/500635-500-auto.png?alt=media&token=daca9f9c-f8d5-4fef-a778-ed55dda5274a",
     imagenSecundaria:
@@ -3907,7 +3907,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/ciruelass.png?alt=media&token=81f0f329-8443-408d-a9ad-2e9ebd15c2eb",
     imagenSecundaria:
@@ -3920,7 +3920,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/LP-Dahi-con-Frutas-Descremado-Limon.png?alt=media&token=fd453aab-0e77-4780-b3e4-f7794dc81407",
     imagenSecundaria:
@@ -3933,7 +3933,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/77981368701321-15e1a00c66b3df842316837509717383-1024-1024.jpg?alt=media&token=61848191-4d1d-4152-abe3-f41991ea1cbf",
     imagenSecundaria:
@@ -3946,7 +3946,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Yogurt-Descremado-Dahi-Con-Colchon-De-Maracuya-Y-Mango-200-Gr-1-7279.png?alt=media&token=af5c193a-41d2-4769-9943-f227536af82d",
     imagenSecundaria:
@@ -3959,7 +3959,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/coco-iogo-sabor-frutilla-sin-azucar-agregada-crudda.jpg?alt=media&token=db42585a-dd0a-40d5-83e4-fdb5f3bb2a83",
     imagenSecundaria:
@@ -3972,7 +3972,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/351-5162505a875e20f29315962164605934-640-0.png?alt=media&token=ea798a73-3ce9-4b86-877e-d2a165ffd840",
     imagenSecundaria:
@@ -3985,7 +3985,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/crudda-coco-y-maracuya.png?alt=media&token=a7f206d5-f76d-43b8-a712-2cdb533bf5c4",
     imagenSecundaria:
@@ -3998,7 +3998,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
     imagenSecundaria:
@@ -4011,7 +4011,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur-crudda-vainilla1-13ae66a932a7284a5b15853306154078-640-0.jpg?alt=media&token=48e9f6ae-2fcb-4753-82ec-641dd2ae9e73",
     imagenSecundaria:
@@ -4024,7 +4024,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/20221129_105338.jpg?alt=media&token=3a0632f5-53ae-40ae-a737-c6b943be720b",
     imagenSecundaria:
@@ -4037,7 +4037,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/yogur_vainilla.jpeg?alt=media&token=f04ce2c3-7e52-4850-a0a5-d5684bfc5955",
     imagenSecundaria:
@@ -4050,7 +4050,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/felices-las-vacas-yogurt-durazno-600x600%20(1).png?alt=media&token=7acb08c3-5ed9-4bab-a8a9-46c87dadb6f6",
     imagenSecundaria:
@@ -4063,7 +4063,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Mock-up_Yogur-190_colchon-mango-y-maracuya.jpg?alt=media&token=75bf9f1a-fdb7-4880-89c7-2a13eb701d15",
     imagenSecundaria:
@@ -4076,7 +4076,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/frutos-del-bosque1-1b21c553eee1d6648016789068521039-240-0.png?alt=media&token=6c7102e9-cbd2-4997-b836-a89d5f01e2f9",
     imagenSecundaria:
@@ -4089,7 +4089,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/dulce-de-leche-de-almendras-x-250g-felices-las-vacas-the-fresh-market1-25dea144388e8aa31e16461808851910-640-0.jpg?alt=media&token=66539bd4-b398-4cda-bf78-41734794bf50",
     imagenSecundaria:
@@ -4102,7 +4102,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/0.jfif?alt=media&token=a92cc586-c279-4d98-9182-9fb877d46cba",
     imagenSecundaria:
@@ -4115,7 +4115,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/queso_fantastique_finas_hierbas_felices_las_vacas__1__copy.png?alt=media&token=b3191203-bc1e-4e51-b476-d80701487bf0",
     imagenSecundaria:
@@ -4128,7 +4128,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/images%20(2).jfif?alt=media&token=6d429fd1-4c31-481d-8035-cad6be9a8066",
     imagenSecundaria:
@@ -4141,7 +4141,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/6-2.png?alt=media&token=8b5e93d3-838d-40c9-8f66-34ead4ed06ec",
     imagenSecundaria:
@@ -4154,7 +4154,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(2).jfif?alt=media&token=f3cd3222-b163-4b38-9f87-04ba3ae6c97f",
     imagenSecundaria:
@@ -4167,7 +4167,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(3).jfif?alt=media&token=d742b9bb-6332-4746-8627-81203b680bd5",
     imagenSecundaria:
@@ -4180,7 +4180,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(4).jfif?alt=media&token=df926992-7001-459a-aaba-413835880e93",
     imagenSecundaria:
@@ -4193,7 +4193,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Hummus-Clasico-Sin-TACC-Kyros-230gr_1.jpg?alt=media&token=1bcff741-e4a7-4691-9715-296102633c93",
     imagenSecundaria:
@@ -4206,7 +4206,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/almacen-hummus-kyros-conpimenton1-831cdd60962692732c16655181757222-640-0.png?alt=media&token=279bb3b3-7b31-4a56-bc07-6950911072d4",
     imagenSecundaria:
@@ -4219,7 +4219,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/OLIVA.png?alt=media&token=d37197e2-fb34-457d-97a5-59497e9da844",
     imagenSecundaria:
@@ -4232,7 +4232,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-frutilla-x-500cc-estancia-los-naranjos1-dee7f83e321b7014c916242296684775-640-0.jpg?alt=media&token=d2a2c9ee-dd49-44ce-b5b1-372ca30b21ea",
     imagenSecundaria:
@@ -4245,7 +4245,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-naranja-y-maracuya-x-500cc-estancia-los-naranjos1-3e206c418fbc0c55c816242294471218-640-0.jpg?alt=media&token=6f4c6104-7ba1-40d9-961b-b171dacac2e2",
     imagenSecundaria:
@@ -4258,7 +4258,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(7).jfif?alt=media&token=e17f56f2-3e72-4fcf-811c-0470d0fdba07",
     imagenSecundaria:
@@ -4271,7 +4271,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/Estancia-los-naranjos-naranja-y-durazno.jpg?alt=media&token=5b302bcf-c400-4eea-8da0-d8c95f2c006b",
     imagenSecundaria:
@@ -4284,7 +4284,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/download%20(8).jfif?alt=media&token=0d595da0-c63e-42f9-bdae-0686976fa1da",
     imagenSecundaria:
@@ -4297,7 +4297,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugo-natural-de-pomelo-x-500cc-estancia-los-naranjos1-40bcf7f8862eceb02716242290465917-640-0.jpg?alt=media&token=f64c1b92-11a9-4a7b-b9c7-77d6b6791874",
     imagenSecundaria:
@@ -4310,7 +4310,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4323,7 +4323,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4336,7 +4336,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4349,7 +4349,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/122443629_192245045674411_4948846043792642711_n41-a7ed98d06726523f4016562902569032-640-0.jpg?alt=media&token=012b781e-25dd-4c87-813e-d040d7425757",
     imagenSecundaria:
@@ -4362,7 +4362,7 @@ export let products = [
     home: true,
     caracteristica1: "crema de almendras con proteina",
     caracteristica2: "otra de las caracteristicas dinamicas de firebase",
-    categoria: "Heladera",
+    categoria: "heladera",
     imagenPrincipal:
       "https://firebasestorage.googleapis.com/v0/b/cascanueces-f0a34.appspot.com/o/jugos-cuarto-creciente.jpg?alt=media&token=f2baea6a-2746-459b-83c8-9a4c215b2cf6",
     imagenSecundaria:

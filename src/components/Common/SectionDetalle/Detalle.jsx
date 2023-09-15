@@ -78,7 +78,7 @@ const Detalle = () => {
             <>
               <div className="detalle__info">
                 <h1 className="detalle__info__titulo">{data.nombre}</h1>
-                <h1 className="detalle__info__precio">{data.precio}</h1>
+                <h1 className="detalle__info__precio">${data.precio}</h1>
                 <div className="detalle__info__caracteristicas">
                   <h2 className="detalle__info__caracteristicas">
                     {data.caracteristica1}

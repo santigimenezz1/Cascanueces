@@ -39,10 +39,10 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/semillas"}>
                 <li>semillas</li>
               </Link>
-              <Link className="link" to={"/categoria/frutosSecos"}>
+              <Link className="link" to={"/categoria/frutos-secos"}>
                 frutos secos
               </Link>
-              <Link className="link" to={"/categoria/frutasDesecadas"}>
+              <Link className="link" to={"/categoria/frutas-desecadas"}>
                 frutas desecadas
               </Link>
               <Link className="link" to={"/categoria/cereales"}>
@@ -57,7 +57,7 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
           <div>
             <h1>Dulce</h1>
             <ul>
-              <Link className="link" to={"/categoria/legumbresArroz"}>
+              <Link className="link" to={"/categoria/legumbres-arroz"}>
                 legumbres y arroz
               </Link>
               <Link className="link" to={"/categoria/salados"}>
@@ -69,19 +69,19 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/hierbas"}>
                 hierbas
               </Link>
-              <Link className="link" to={"/categoria/pastaMani"}>
+              <Link className="link" to={"/categoria/pastas-mani"}>
                 pastas de mani
               </Link>
-              <Link className="link" to={"/categoria/harinaAvena"}>
+              <Link className="link" to={"/categoria/harina-avenas"}>
                 harinas y Avenas
               </Link>
               <Link className="link" to={"/categoria/reposteria"}>
                 Reposteria
               </Link>
-              <Link className="link" to={"/categoria/TostadasGalletas"}>
+              <Link className="link" to={"/categoria/tostadas-galletas-arroz"}>
                 Tostadas y Galletas de arroz
               </Link>
-              <Link className="link" to={"/categoria/GalletitasSinSal"}>
+              <Link className="link" to={"/categoria/galletitas-sin-sal"}>
                 Galletitas sin sal
               </Link>
               <Link className="link" to={"/categoria/yerbas"}>
@@ -99,7 +99,7 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/productos-proteicos"}>
               Productos-proteicos
               </Link>
-              <Link className="link" to={"/categoria/Heladera"}>
+              <Link className="link" to={"/categoria/heladera"}>
               Heladera
               </Link>
             </ul>
@@ -125,11 +125,16 @@ const EnlacesCategoria = ({ filtro, filtrarEstado, data, setData }) => {
               <Link className="link" to={"/categoria/alfajores-golosinas-sin-azucar"}>
               Alfajores-golosinas-sin-azucar
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Bebidas
+
+
+
+
+
+              <Link className="link" to={"/categoria/leches-vegetales"}>
+                Leches vegetales
               </Link>
-              <Link className="link" to={"/categoria/caldito"}>
-                Bebidas Probioticas
+              <Link className="link" to={"/categoria/miel"}>
+                Miel
               </Link>
               <Link className="link" to={"/categoria/caldito"}>
                 Bebidas Vegetales

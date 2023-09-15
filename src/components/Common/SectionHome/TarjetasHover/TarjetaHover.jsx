@@ -36,6 +36,12 @@ const TarjetaHover = ({ imagenPrincipal, imagenSecundaria, producto }) => {
     addFavorito(producto);
   };
 
+  const mostrarPrecioConFormato = (precio) => {
+    // Cambiar formato del precio
+    let total = precio ;
+    return total.toLocaleString("es-ES");
+  };
+
   return (
     <div onMouseOver={() => setImagen(fotoSecundaria)} className="tarjetaHover">
       <Link to={`/detalle/${producto.id}`}>
@@ -84,7 +90,7 @@ const TarjetaHover = ({ imagenPrincipal, imagenSecundaria, producto }) => {
       </div>
       <div className="tarjetaHover__nombrePrecio">
         <h3>{producto.nombre}</h3>
-        <h3>{producto.precio}</h3>
+        <h3 style={{color:"purple", fontSize:"17px"}}>${producto.precio}</h3>
       </div>
     </div>
   );

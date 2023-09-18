@@ -63,73 +63,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <Carrusel /> 
-      <div className="home__tarjetaMiniCategoria">
-        <Link to={"/categoria/frutos-secos"}>
-          <TarjetaMiniCategoria
-            titulo={"Frutos secos"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788016/CASCANUCES%20SALUDABLE/KoRo-Naturbelassene-Nu_CC_88sse-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen-onlineshop-ohne-Zucker-ohne-Salz-ohne-Gewu_CC_88rz_q7wze2.jpg"
-            }
-          />
-        </Link>
-        <Link to={"/categoria/cereales"}>
-          <TarjetaMiniCategoria
-            titulo={"Cereales"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788033/CASCANUCES%20SALUDABLE/KoRo-Nussmuse-Nusscreme-Bio-Qualita_CC_88t-gesund-vegan-ohne-Zuckerzusatz-gu_CC_88nstig-online-kaufen-bestellen-1kg-5kg_bbkhmw.jpg"
-            }
-          />
-        </Link>
-        <Link to={"/categoria/granola"}>
-          <TarjetaMiniCategoria
-            titulo={"Granola"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788114/CASCANUCES%20SALUDABLE/KoRo-gewu_CC_88rzte-Nu_CC_88sse-pikant-gero_CC_88stet-gesalzen-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_iexbmb.jpg"
-            }
-          />
-        </Link>
-        <Link to={"/categoria/reposteria"}>
-          <TarjetaMiniCategoria
-            titulo={"Reposteria"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788191/CASCANUCES%20SALUDABLE/KoRo-Nussmischung-Nussmix-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_id334u.jpg"
-            }
-          />
-        </Link>
-        <Link to={"/categoria/salados"}>
-          <TarjetaMiniCategoria
-            titulo={"Salados"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788211/CASCANUCES%20SALUDABLE/KoRo-Schokonu_CC_88sse-schokolierte-Nu_CC_88sse-mit-Schokoladenu_CC_88berzug-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_ipjsnu.jpg"
-            }
-          />
-        </Link>
-        <Link to={"/categoria/semillas"}>
-          <TarjetaMiniCategoria
-            titulo={"Semillas"}
-            imagen={
-              "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
-            }
-          />
-        </Link>
-        <Link className="tarjetaMiniCategoriaDisplayOff" to={"/categoria"}>
-        <TarjetaMiniCategoria
-          titulo={"Semillas"}
-          imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
-          }
-        />
-      </Link>
-      <Link className="tarjetaMiniCategoriaDisplayOff" to={"/categoria"}>
-      <TarjetaMiniCategoria
-        titulo={"Semillas"}
-        imagen={
-          "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788219/CASCANUCES%20SALUDABLE/KoRo-Samen-Kerne-Bio-Qualita_CC_88t-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen_f9wpa4.jpg"
-        }
-      />
-    </Link>
-      </div>
+    
 
       <div className="home__tarjetaCategoria">
       <Link to={'/detalle/ww3w7oPTmlg5dZ0tphZK'}>

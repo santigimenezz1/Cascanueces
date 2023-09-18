@@ -10,6 +10,7 @@
   height: 60px;
   padding-left: 10px;
   display: none;
+  
 }
 
 .navBar__enlaces {
@@ -64,6 +65,7 @@
   background-color: purple;
   border: none;
   overflow: unset;
+  z-index: 2000;
 }
 
 /* Agrega las clases de transición para el contenedor de los enlaces */

@@ -47,8 +47,9 @@
 .home__iconoWhatsapp {
   position: fixed;
   bottom: 20px;
-  right: 90px;
+  right: 20px;
   background-color: none;
+  
 }
 
 .home__tarjetasGrid {

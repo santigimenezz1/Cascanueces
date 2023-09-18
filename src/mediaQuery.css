@@ -729,7 +729,7 @@
           }
           .container-carrusel {
             height: 200px;
-            z-index: 20000;
+            z-index: 3;
           }
           .carrusel-image {
             height: 100%;

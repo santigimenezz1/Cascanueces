@@ -45,17 +45,18 @@
     
 }
 .swal-alert{
-
+    z-index: 100;
 }
 .MuiModal-root {
-
-}
+    z-index: 1300; /* Ajusta este valor según tus necesidades */
+  }
   .modal__alerta{
   position: absolute;
   width: 400px;
   height: 150px;
   top: 10%;
   background-color: white;
+  z-index: 10;
   }
 
   .modal__alerta button{

@@ -2,6 +2,7 @@
   .container-acordion {
     border: none;
     width: 90%;
+    z-index: 10;
     display: none;
   }
   .linkCategorias {

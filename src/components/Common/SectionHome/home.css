@@ -3,6 +3,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: 10px solid red;
+  overflow-x: hidden;
 }
 .home__tarjetaMiniCategoria {
   display: flex;

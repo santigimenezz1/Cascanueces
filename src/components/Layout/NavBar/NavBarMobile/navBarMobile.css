@@ -53,6 +53,7 @@
 /* Contenedor de enlaces cuando está cerrado */
 .contenedor__enlaces__mobileOff {
   display: none;
+  
 }
 
 /* Contenedor de enlaces cuando está abierto */
@@ -64,7 +65,8 @@
   background-color: purple;
   border: none;
   overflow: unset;
-  z-index: 2000;
+  z-index: 30000;
+
 }
 
 /* Agrega las clases de transición para el contenedor de los enlaces */

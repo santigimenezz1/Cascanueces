@@ -5,6 +5,7 @@
   align-items: center;
   border: 10px solid red;
   overflow-x: hidden;
+  width: 100%;
 }
 .home__tarjetaMiniCategoria {
   display: flex;

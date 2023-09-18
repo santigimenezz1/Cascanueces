@@ -707,6 +707,11 @@
         .navBarMobile{
           display: flex;
         }
+        .navBarMobile {
+          height: 50px;
+          padding: 10px;
+          display: none;
+        }
         }
 
             
@@ -728,7 +733,7 @@
         @media (max-width: 400px){
           .navBarMobile {
             height: 50px;
-            padding: 8px;
+            padding: 10px;
           }
           .container-carrusel {
             height: 200px;

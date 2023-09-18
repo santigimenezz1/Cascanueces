@@ -63,12 +63,11 @@ const Home = () => {
 
   return (
     <div className="home">
-    
       <Carrusel /> 
       <div className="home__tarjetaMiniCategoria">
         <Link to={"/categoria/frutos-secos"}>
           <TarjetaMiniCategoria
-            titulo={"Frutos secos "}
+            titulo={"Frutos secos"}
             imagen={
               "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1691788016/CASCANUCES%20SALUDABLE/KoRo-Naturbelassene-Nu_CC_88sse-Gro_C3_9Fpackung-gu_CC_88nstig-online-kaufen-bestellen-onlineshop-ohne-Zucker-ohne-Salz-ohne-Gewu_CC_88rz_q7wze2.jpg"
             }

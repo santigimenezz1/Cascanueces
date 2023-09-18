@@ -66,7 +66,7 @@ const Home = () => {
     
       <Carrusel /> 
       <div className="home__tarjetaMiniCategoria">
-        <Link to={"/categoria/frutosSecos"}>
+        <Link to={"/categoria/frutos-secos"}>
           <TarjetaMiniCategoria
             titulo={"Frutos secos "}
             imagen={

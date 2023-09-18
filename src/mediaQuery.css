@@ -728,6 +728,7 @@
         @media (max-width: 400px){
           .navBarMobile {
             height: 50px;
+            padding: 8px;
           }
           .container-carrusel {
             height: 200px;

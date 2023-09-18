@@ -63,7 +63,6 @@
   height: auto;
   background-color: purple;
   border: none;
-  z-index: 5000;
   overflow: unset;
 }
 

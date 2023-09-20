@@ -63,7 +63,7 @@ const Home = () => {
 
   return (
     <div style={{width:"100%"}}>
-    <div className="home">
+    <div>
     
 
       <div className="home__tarjetaCategoria">

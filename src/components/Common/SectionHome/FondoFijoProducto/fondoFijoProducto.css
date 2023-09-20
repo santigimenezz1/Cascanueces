@@ -27,7 +27,6 @@
   margin: 50px;
   padding: 40px;
   position: relative;
-  z-index: 1;
 }
 .fondoFijo__containerText__direcciones {
   display: flex;

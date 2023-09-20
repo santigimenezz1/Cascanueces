@@ -203,6 +203,7 @@ const Home = () => {
             <MyCarousel filtradoAlmendras={filtradoHelados}  />
         }
         </div>
+      <FondoFijo />
       <h1 className="titulo__comeSano">Comé sano, viví mejor :)</h1>
       <div className="home__tarjetasGrid">
         <Link to={"/categoria/frutos-secos"}>
@@ -302,7 +303,7 @@ const Home = () => {
           />
         </Link>
       </div>
-      
+      <FondoFijoProducto />
       <h1 className="home__titulo">Productos en oferta</h1>
       <div className="home__tarjetaProducto"></div>
       <div className="home__tarjetaProducto">

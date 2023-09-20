@@ -68,57 +68,7 @@ const Home = () => {
 
     
     
-      <FondoFijoProducto />
-      <h1 className="home__titulo">Productos en oferta</h1>
-      <div className="home__tarjetaProducto"></div>
-      <div className="home__tarjetaProducto">
-         
-        {Object.keys(data).length > 0 ? (
-          filtradoNueces.map((producto) => (
-            <TarjetaHover key={producto.id} producto={producto} />
-          ))
-        ) : (
-          <div className={"tarjetaHome__esqueleton"}>
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-          </div> 
-        )}
-       
-
-        {Object.keys(data).length > 0 ? (
-          filtradoAlmendras.map((producto) => (
-            <TarjetaHover key={producto.id} producto={producto} />
-          ))
-        ) : (
-          <div className={"tarjetaHome__esqueleton"}>
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-            <Skeleton variant="rectangular" width={290} height={400} />
-          </div>
-          
-        )}
-       
-      </div>
-      <div className="container__tarjeta__carrusel__mobile"  >
-      {
-        filtradoNueces.length > 0 &&
-          <MyCarousel filtradoAlmendras={filtradoNueces}  />
-      }
-      
-      </div>
-      <div className="container__tarjeta__carrusel__mobile"  >
-      {
-        filtradoAlmendras.length > 0 &&
-          <MyCarousel filtradoAlmendras={filtradoAlmendras}  />
-      }
-      </div>
-      <div className="home__iconoWhatsapp">
-        <IconoWhatsapp />
-      </div>
-
+     
       <FormasPago />
       
      

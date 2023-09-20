@@ -203,7 +203,6 @@ const Home = () => {
             <MyCarousel filtradoAlmendras={filtradoHelados}  />
         }
         </div>
-      <FondoFijo />
       <h1 className="titulo__comeSano">Comé sano, viví mejor :)</h1>
       <div className="home__tarjetasGrid">
         <Link to={"/categoria/frutos-secos"}>

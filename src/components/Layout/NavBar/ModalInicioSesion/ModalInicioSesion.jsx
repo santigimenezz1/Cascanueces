@@ -152,7 +152,7 @@ export default function ModalInicioSesion() {
                 }}
                 onSubmit={handleSubmit}
               >
-                <TextField
+                <TextField 
                   className="input__inicioSesion"
                   name="email"
                   onChange={handleChange}
@@ -163,7 +163,7 @@ export default function ModalInicioSesion() {
                   error={errors.email ? true : false}
                   helperText={errors.email}
                 />
-                <TextField
+                <TextField 
                   className="input__inicioSesion"
                   name="password"
                   onChange={handleChange}

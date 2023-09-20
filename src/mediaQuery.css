@@ -1047,6 +1047,15 @@
   .cuenta__reservas__container-reserva{
     height: 230px;
   }
+  
+  .container-modal{
+    height: auto;
+    width: auto
+  }
+  .input__inicioSesion{
+    width:100%
+  }
+  
      
     }
 
@@ -1237,9 +1246,7 @@
     height: 150px;
   }
 
-  .input__inicioSesion{
-    width:300px
-  }
+
   .container-general-box{
     height: 420px;
   }
@@ -1374,13 +1381,17 @@ height: 250px;
   width: 95%;
 }
 .container-modal{
-  height: 180px;
-  width: auto;
+  height: auto;
+  width: auto
 }
 .container-general-modal{
   width: 400px;
   height: 600px;
 }
+.input__inicioSesion{
+  width:100%
+}
+
 
  
 }
@@ -1666,6 +1677,7 @@ height: 250px;
      .cuenta__reservas__container-reserva{
         width: 100%;
      }
+   
                                            /*TARJETAS PRODUCTO CARRUSEL */
 
      .container__tarjeta__carrusel__mobile{
@@ -1701,6 +1713,16 @@ height: 250px;
     width: 250px;
     height: 250px;
   }
+  .container-modal{
+    height: auto;
+    width: auto
+  }
+  .input__inicioSesion{
+    width:100%
+  }
+  
+
+
      
     }
 
@@ -2098,6 +2120,10 @@ font-size: 13px;
 .categoria__tarjetaProductos h1{
   font-size: 25px;
 
+}
+.container-modal{
+  height: auto;
+  width: auto
 }
 
 

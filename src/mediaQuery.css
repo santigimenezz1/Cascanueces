@@ -17,6 +17,12 @@
      .text__somosCascanuces{        /*FONDO FIJO */
        font-size: 40px;
      }
+     .fondoFijoProducto::before {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    .fondoFijo::before {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
      .tarjetaGrid{
         width: 200px;              /*TARJETAS GRID */
         height: 200px;

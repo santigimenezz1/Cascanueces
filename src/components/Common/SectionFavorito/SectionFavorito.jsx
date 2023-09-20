@@ -10,7 +10,9 @@ const SectionFavorito = () => {
 
   return (
     <div className="favorito">
+    <div className="container__titulo__favorito">
     <h1 className="favorito__titulo">Tus favoritos</h1>
+    </div>
       <div className="favorito__tarjetas">
         {Object.keys(favorito).length > 0 ? (
           favorito.map((producto) => (

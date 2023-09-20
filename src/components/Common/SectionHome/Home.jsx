@@ -63,37 +63,10 @@ const Home = () => {
 
   return (
     <div style={{width:"100%"}}>
-    <div>
+    <div className="home">
     
 
-      <div className="home__tarjetaCategoria">
-      <Link to={'/detalle/ww3w7oPTmlg5dZ0tphZK'}>
-      <TarjetaCategoria
-        imagen={
-          "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/avellana-cruda-pelada-13272331-8c74f78730ee13cbd616455354039316-1024-1024_a6oprw.jpg"
-        }
-        titulo={"Avellanas"}
-      />
-      </Link>
-        <Link to={'/detalle/oCELov54tlbHeXNbYRbe'}>
-        <TarjetaCategoria
-          imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692738247/CASCANUCES%20SALUDABLE/FRUTOS%20SECOS%20Y%20MIXS/f894324e-ae36-4fd9-b742-ae093a2cd21f_nube-9b8fa46ea1cca99b7b16009617791612-1024-1024_lmjzha.jpg"
-          }
-          titulo={"Nueces"}
-        />
-        </Link>
-        <div className={"tarjetaCategoriaDisplay"}>
-        <Link to={'/detalle/WrGNPs0IJ4MRQM9lHh3k'}>
-        <TarjetaCategoria 
-          imagen={
-            "https://res.cloudinary.com/dcf9eqqgt/image/upload/v1692748460/CASCANUCES%20SALUDABLE/LEGUMBRES%20Y%20ARROZ/arveja1-c436381c66e3a1944115849157282648-640-0_hppytn.jpg"
-          }
-          titulo={"Arvejas"}
-        />
-        </Link>
-        </div>
-      </div>
+    
       <h1 className="home__titulo">Los más elegidos</h1>
       <div className="home__tarjetaProducto">
         {Object.keys(data).length > 0 ? (

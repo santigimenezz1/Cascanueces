@@ -1339,6 +1339,11 @@
 display: none;
 }
 
+.tarjetaHoverCategoria{
+  position: relative;
+  left: 15px;
+}
+
 .home__titulo{
 font-size: 30px;
 }

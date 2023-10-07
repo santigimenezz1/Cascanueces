@@ -1060,10 +1060,16 @@
     }
 
     @media (max-width: 420px){
+      .favorito{
+        overflow-x: hidden;
+      }
+      .container__navBarMobile{
+        width: 100%;
+      }
       .navBarMobile {
         height: 50px;
         padding: 10px;
-        width: 110%;
+        width: 100%;
 
       }
       .container-carrusel {

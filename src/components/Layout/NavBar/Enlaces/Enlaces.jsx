@@ -18,9 +18,6 @@ const Enlaces = ( {setBurguerOn} ) => {
         <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/nosotros"}>
           nosotros
         </Link>
-        <Link onClick={()=>setBurguerOn(false)} className="enlaces__link" to={"/ayuda"}>
-          ayuda
-        </Link>
       </ul>
     </div>
   );

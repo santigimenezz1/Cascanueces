@@ -12,15 +12,7 @@ const Nosotros = () => {
             Hola, somos Nacho y Lucho
           </h1>
           <p className="nosotros__info__texto">
-            Santé Cocina Consciente surgió a raíz de alimentar a nuestra hija
-            Amelia. Así empezamos con recetas propias, siempre priorizando la
-            materia prima agroecológica y local. Con el tiempo, sumamos más
-            productos, realizados por productores locales, con la misma mirada
-            de la cocina y salud que nosotrxs. De esta manera nos ocupamos de
-            acercar productos elaborados con materia prima agroecologica,
-            realizados con amor, por emprendedores que eligen esto como
-            filosofía de vida, garantizando la menor cantidad posible de
-            intermediarios.
+          Cascanueces saludable, tu elección consciente. Nuestra tienda nació de la pasión por ofrecer frutos secos y productos naturales de la más alta calidad. Desde el principio, nos enfocamos en seleccionar cuidadosamente frutos secos como nueces y almendras, junto con otros productos naturales, todos provenientes de agricultura agroecológica y productores locales. Valoramos la salud y el bienestar, y es por eso que trabajamos con emprendedores que comparten nuestra filosofía de vida. Así, te garantizamos productos elaborados con amor y la menor cantidad posible de intermediarios. Descubre la frescura y la calidad en cada bocado con FrutoSalud.
           </p>
         </div>
         <div className="nosotros__info__imagen">

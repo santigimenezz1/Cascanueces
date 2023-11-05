@@ -1,6 +1,8 @@
 import { createContext, useState } from "react";
 
-export const CartContext = createContext();
+export const CartContext = createContext(); //Se crea el contexto global
+
+
 const CartContextComponent = ({ children }) => {
   const [cart, setCart] = useState([]);
   const [favorito, setFavorito] = useState([]); //ESTADO DE SECTION FAVORITOS
